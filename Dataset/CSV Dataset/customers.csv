@@ -1,0 +1,1499 @@
+customer_id,customer_name,email,gender,age,city,state,pincode,signup_date,customer_segment,acquisition_channel
+990317,Diya Yadav,diya.yadav317@example.com,Female,56,Bengaluru,Karnataka,567200,10/21/2025,Standard,Organic Search
+444898,Priya Singh,priya.singh898@example.com,Other,19,Chandigarh,Chandigarh,776104,6/22/2025,Platinum,Email
+709791,Kabir Malhotra,kabir.malhotra791@example.com,Female,43,Jaipur,Rajasthan,901814,2/20/2023,Standard,Organic Search
+877639,Ananya Malhotra,ananya.malhotra639@example.com,Other,47,Kanpur,Uttar Pradesh,269316,6/29/2024,Standard,Email
+150026,Rahul Bansal,rahul.bansal26@example.com,Other,50,Lucknow,Uttar Pradesh,415196,10/25/2023,Platinum,Referral
+961191,Ishaan Mishra,ishaan.mishra191@example.com,Other,42,Noida,Uttar Pradesh,481090,7/16/2024,Platinum,Referral
+789215,Kavya Joshi,kavya.joshi215@example.com,Male,29,Kolkata,West Bengal,941048,1/28/2023,Gold,Organic Search
+238903,Meera Pandey,meera.pandey903@example.com,Male,22,Patna,Bihar,220858,1/21/2024,Standard,Email
+753194,Rahul Rana,rahul.rana194@example.com,Male,57,Mumbai,Maharashtra,154864,10/15/2025,Platinum,Organic Search
+494168,Diya Verma,diya.verma168@example.com,Female,48,Hyderabad,Telangana,416690,9/10/2024,Standard,Referral
+688128,Nisha Kapoor,nisha.kapoor128@example.com,Other,46,Bhopal,Madhya Pradesh,163308,5/9/2025,Standard,Organic Search
+297722,Kabir Joshi,kabir.joshi722@example.com,Male,37,Surat,Gujarat,874895,4/17/2025,Standard,Facebook
+548136,Nisha Malhotra,nisha.malhotra136@example.com,Male,24,Delhi,Delhi,125169,5/15/2023,Gold,Email
+470528,Diya Malhotra,diya.malhotra528@example.com,Other,59,Chandigarh,Chandigarh,972504,1/5/2024,Standard,Referral
+506478,Vivaan Chauhan,vivaan.chauhan478@example.com,Other,60,Gurugram,Haryana,286919,7/31/2025,Standard,Google
+838709,Vivaan Saxena,vivaan.saxena709@example.com,Male,48,Bhopal,Madhya Pradesh,189291,7/20/2024,Standard,Facebook
+662681,Aarav Verma,aarav.verma681@example.com,Other,60,Chandigarh,Chandigarh,687672,9/11/2025,Silver,Email
+499752,Aditya Agarwal,aditya.agarwal752@example.com,Male,27,Surat,Gujarat,318818,4/20/2023,Standard,Email
+661828,Riya Gupta,riya.gupta828@example.com,Male,48,Kolkata,West Bengal,353942,5/23/2023,Silver,Google
+483875,Isha Yadav,isha.yadav875@example.com,Other,27,Kanpur,Uttar Pradesh,306932,6/3/2025,Standard,Google
+231498,Ananya Singh,ananya.singh498@example.com,Other,55,Chennai,Tamil Nadu,541739,8/21/2024,Gold,Referral
+384600,Aarav Bansal,aarav.bansal600@example.com,Other,20,Chandigarh,Chandigarh,727280,9/19/2023,Standard,Facebook
+632130,Arjun Yadav,arjun.yadav130@example.com,Other,59,Mumbai,Maharashtra,249847,9/11/2024,Standard,Organic Search
+996663,Aarav Yadav,aarav.yadav663@example.com,Male,37,Gurugram,Haryana,596059,6/21/2023,Standard,Google
+149776,Aanya Pandey,aanya.pandey776@example.com,Male,54,Mumbai,Maharashtra,456523,3/27/2023,Silver,Email
+355529,Aanya Saxena,aanya.saxena529@example.com,Male,56,Noida,Uttar Pradesh,894217,7/24/2025,Platinum,Organic Search
+941590,Kunal Saini,kunal.saini590@example.com,Female,47,Gurgram,Tamil Nadu,246050,11/5/2023,Gold,Organic Search
+211438,Ishaan Gupta,ishaan.gupta438@example.com,Male,32,Bengaluru,Karnataka,382456,1/19/2024,Standard,Email
+802488,Nisha Chauhan,nisha.chauhan488@example.com,Other,50,Indore,Madhya Pradesh,722111,5/24/2024,Standard,Referral
+613967,Nisha Kumar,nisha.kumar967@example.com,Female,55,Agra,Uttar Pradesh,707319,6/24/2023,Standard,Email
+188775,Isha Gupta,isha.gupta775@example.com,Other,28,Gurugram,Haryana,362548,1/3/2023,Platinum,Email
+838194,Meera Kapoor,meera.kapoor194@example.com,Female,21,Kanpur,Uttar Pradesh,475246,8/26/2025,Platinum,Email
+392962,Aarav Mehta,aarav.mehta962@example.com,Other,31,Surat,Gujarat,563293,6/13/2023,Standard,Email
+683680,Isha Rana,isha.rana680@example.com,Other,56,Jaipur,Rajasthan,990976,5/29/2025,Silver,Organic Search
+383327,Kunal Malhotra,kunal.malhotra327@example.com,Female,53,Pune,Maharashtra,879560,11/30/2024,Platinum,Organic Search
+308494,Kavya Joshi,kavya.joshi494@example.com,Female,49,Noida,Uttar Pradesh,126242,10/31/2023,Silver,Organic Search
+619498,Sneha Gupta,sneha.gupta498@example.com,Female,40,Dehradun,Uttarakhand,147478,2/22/2025,Standard,Organic Search
+998953,Priya Joshi,priya.joshi953@example.com,Other,57,Kanpur,Uttar Pradesh,918185,7/26/2023,Standard,Email
+706870,Rohan Verma,rohan.verma870@example.com,Female,50,Bengaluru,Karnataka,269092,10/22/2024,Silver,Referral
+363107,Nisha Kapoor,nisha.kapoor107@example.com,Other,55,Hyderabad,Telangana,226308,6/24/2023,Gold,Email
+666120,Aanya Gupta,aanya.gupta120@example.com,Other,21,Pune,Uttar Pradesh,367899,8/27/2023,Standard,Email
+385806,Diya Rana,diya.rana806@example.com,Male,52,Jaipur,Rajasthan,822871,8/11/2023,Gold,Referral
+691550,Rohan Sharma,rohan.sharma550@example.com,Male,27,Hyderabad,Telangana,448265,9/16/2024,Silver,Organic Search
+927410,Rohan Kapoor,rohan.kapoor410@example.com,Other,42,Kolkata,West Bengal,933458,4/27/2024,Silver,Google
+577327,Aanya Tiwari,aanya.tiwari327@example.com,Other,53,Lucknow,Uttar Pradesh,473518,5/28/2025,Silver,Organic Search
+453196,Arjun Pandey,arjun.pandey196@example.com,Female,36,Gurugram,Haryana,353990,7/7/2025,Standard,Organic Search
+503691,Riya Agarwal,riya.agarwal691@example.com,Male,35,Kanpur,Uttar Pradesh,660672,8/4/2024,Silver,Organic Search
+184646,Meera Tiwari,meera.tiwari646@example.com,Female,50,Lucknow,Uttar Pradesh,718547,3/17/2024,Standard,Organic Search
+147026,Diya Sharma,diya.sharma26@example.com,Other,44,Indore,Madhya Pradesh,515088,11/15/2025,Standard,Referral
+712707,Diya Chauhan,diya.chauhan707@example.com,Male,40,Surat,Gujarat,246753,7/30/2024,Standard,Email
+501484,Riya Chauhan,riya.chauhan484@example.com,Female,34,Indore,Madhya Pradesh,477461,7/26/2023,Silver,Organic Search
+903808,Arjun Saini,arjun.saini808@example.com,Female,30,Patna,Bihar,761599,7/19/2025,Gold,Organic Search
+564286,Kavya Verma,kavya.verma286@example.com,Other,48,Kanpur,Uttar Pradesh,303239,1/1/2024,Standard,Email
+648952,Pooja Verma,pooja.verma952@example.com,Other,31,Gurugram,Haryana,864534,1/1/2024,Standard,Email
+240201,Sneha Gupta,sneha.gupta201@example.com,Male,36,Pune,Maharashtra,613552,6/1/2024,Gold,Email
+635161,Vivaan Sharma,vivaan.sharma161@example.com,Male,45,Mumbai,Maharashtra,276964,8/4/2025,Standard,Email
+894887,Kabir Yadav,kabir.yadav887@example.com,Other,49,Delhi,Delhi,187440,11/13/2025,Standard,Email
+708942,Kavya Saini,kavya.saini942@example.com,Female,55,Surat,Gujarat,958218,4/9/2025,Standard,Google
+394884,Kunal Joshi,kunal.joshi884@example.com,Male,35,Chandigarh,Chandigarh,409206,4/12/2023,Silver,Facebook
+353711,Priya Singh,priya.singh711@example.com,Other,54,Chandigarh,Chandigarh,759434,2/19/2023,Standard,Facebook
+187295,Kavya Kapoor,kavya.kapoor295@example.com,Female,26,Noida,Uttar Pradesh,314151,11/12/2023,Gold,Email
+213230,Kunal Saini,kunal.saini230@example.com,Female,25,Agra,Uttar Pradesh,168486,1/20/2023,Standard,Google
+101830,Aarav Chauhan,aarav.chauhan830@example.com,Other,31,Kanpur,Uttar Pradesh,654959,8/26/2024,Silver,Referral
+473564,Pooja Saini,pooja.saini564@example.com,Male,19,Surat,Gujarat,196634,8/12/2025,Standard,Email
+728773,Vivaan Sharma,vivaan.sharma773@example.com,Male,22,Kolkata,West Bengal,348902,11/7/2025,Gold,Organic Search
+849518,Priya Pandey,priya.pandey518@example.com,Female,25,Pune,Maharashtra,125797,10/19/2023,Standard,Email
+283368,Arjun Saxena,arjun.saxena368@example.com,Male,29,Jaipur,Rajasthan,483324,9/19/2024,Standard,Organic Search
+857524,Kavya Singh,kavya.singh524@example.com,Female,45,Hyderabad,Telangana,417606,5/7/2025,Silver,Google
+165948,Kavya Agarwal,kavya.agarwal948@example.com,Female,59,Kolkata,West Bengal,387142,6/28/2023,Standard,Organic Search
+112801,Ananya Kumar,ananya.kumar801@example.com,Other,50,Dehradun,Uttarakhand,966866,6/20/2025,Silver,Referral
+882217,Aditya Kapoor,aditya.kapoor217@example.com,Other,25,Jaipur,Rajasthan,220901,6/1/2024,Silver,Email
+678372,Kabir Singh,kabir.singh372@example.com,,33,Agra,Uttar Pradesh,292323,3/11/2024,Gold,Email
+104937,Nisha Patel,nisha.patel937@example.com,Male,59,Dehradun,Uttarakhand,995253,6/20/2024,Silver,Referral
+394479,Kunal Kumar,kunal.kumar479@example.com,Male,24,Agra,Uttar Pradesh,526924,12/16/2023,Standard,Facebook
+839724,Nisha Yadav,nisha.yadav724@example.com,Female,27,Bhopal,Madhya Pradesh,495353,2/1/2025,Standard,Google
+732409,Meera Kumar,meera.kumar409@example.com,Other,39,Jaipur,Rajasthan,801448,9/18/2023,Gold,Referral
+572961,Riya Pandey,riya.pandey961@example.com,Male,35,Chandigarh,Chandigarh,886209,9/24/2025,Silver,Email
+731986,Vivaan Mishra,vivaan.mishra986@example.com,Female,55,Bhopal,Madhya Pradesh,586261,2/4/2023,Standard,Organic Search
+336637,Aditya Mishra,aditya.mishra637@example.com,Other,60,Pune,Maharashtra,292415,7/22/2024,Silver,Organic Search
+294978,Priya Gupta,priya.gupta978@example.com,Other,46,Pune,Maharashtra,966387,5/21/2023,Silver,Organic Search
+764450,Aditya Mehta,aditya.mehta450@example.com,Male,53,Hyderabad,Telangana,971290,9/5/2025,Silver,Email
+495745,Isha Pandey,isha.pandey745@example.com,Female,25,Lucknow,Uttar Pradesh,113154,4/29/2024,Standard,Facebook
+504036,Priya Sharma,priya.sharma36@example.com,Other,26,Agra,Uttar Pradesh,433028,10/25/2024,Silver,Organic Search
+698024,Rahul Tiwari,rahul.tiwari24@example.com,Other,54,Bhopal,Madhya Pradesh,979807,7/14/2025,Standard,Email
+771549,Meera Chauhan,meera.chauhan549@example.com,Female,47,Chennai,Tamil Nadu,819967,4/8/2023,Silver,Email
+673243,Arjun Yadav,arjun.yadav243@example.com,Female,55,Delhi,Delhi,460943,9/5/2023,Standard,Organic Search
+478445,Nisha Pandey,nisha.pandey445@example.com,Female,43,Ahmedabad,Gujarat,650761,9/21/2023,Silver,Organic Search
+528157,Rohan Saxena,rohan.saxena157@example.com,Female,35,Jaipur,Rajasthan,930273,7/15/2024,Standard,Email
+118516,Meera Sharma,meera.sharma516@example.com,Female,24,Dehradun,Uttarakhand,673478,6/5/2023,Silver,Facebook
+276350,Sneha Bansal,sneha.bansal350@example.com,Male,34,Kanpur,Uttar Pradesh,149158,2/5/2023,Silver,Organic Search
+730111,Kabir Malhotra,kabir.malhotra111@example.com,Female,40,Jaipur,Rajasthan,765588,11/14/2024,Standard,Google
+966274,Isha Kumar,isha.kumar274@example.com,Female,48,Noida,Uttar Pradesh,676711,1/11/2023,Platinum,Referral
+720078,Diya Saini,diya.saini78@example.com,Female,18,Bengaluru,Karnataka,412785,1/5/2024,Standard,Email
+906265,Rahul Rana,rahul.rana265@example.com,Male,23,Patna,Bihar,202412,2/7/2023,Standard,Email
+103710,Aanya Mehta,aanya.mehta710@example.com,Other,56,Chandigarh,Chandigarh,401921,5/21/2025,Standard,Organic Search
+925507,Arjun Tiwari,arjun.tiwari507@example.com,Male,50,Gurugram,Haryana,721600,10/7/2023,Silver,Google
+181174,Diya Sharma,diya.sharma174@example.com,Female,22,Dehradun,Uttarakhand,270608,9/13/2023,Standard,Email
+531479,Rohan Mishra,rohan.mishra479@example.com,Male,55,Kanpur,Uttar Pradesh,225894,11/3/2025,Gold,Organic Search
+564644,Aarav Saxena,aarav.saxena644@example.com,Other,39,Lucknow,Uttar Pradesh,600976,1/5/2024,Standard,Email
+520824,Ishaan Gupta,ishaan.gupta824@example.com,Other,30,Mumbai,Maharashtra,438810,9/9/2024,Standard,Google
+544329,Riya Agarwal,riya.agarwal329@example.com,Other,42,Lucknow,Uttar Pradesh,571629,4/15/2025,Standard,Email
+409662,Priya Mishra,priya.mishra662@example.com,Other,42,Indore,Madhya Pradesh,528856,3/10/2025,Standard,Email
+537476,Aanya Kumar,aanya.kumar476@example.com,Female,38,Patna,Bihar,518445,7/29/2025,Standard,Email
+342785,Isha Saini,isha.saini785@example.com,Female,20,Chandigarh,Chandigarh,761769,10/16/2025,Standard,Referral
+918302,Aditya Chauhan,aditya.chauhan302@example.com,Male,24,Patna,Bihar,436275,2/9/2024,Gold,Email
+545857,Isha Bansal,isha.bansal857@example.com,Female,51,Noida,Uttar Pradesh,854583,2/16/2025,Standard,Email
+959283,Nisha Yadav,nisha.yadav283@example.com,Male,29,Bangaluru,Maharashtra,267772,2/27/2024,Standard,Email
+863389,Vivaan Yadav,vivaan.yadav389@example.com,Male,19,Mumbai,Maharashtra,783959,6/15/2023,Silver,Referral
+669982,Kavya Saxena,kavya.saxena982@example.com,Male,36,Mumbai,Maharashtra,541699,9/30/2024,Standard,Organic Search
+801552,Aditya Joshi,aditya.joshi552@example.com,Female,19,Pune,Maharashtra,255374,1/21/2025,Standard,Organic Search
+755337,Aarav Pandey,aarav.pandey337@example.com,Male,59,Indore,Madhya Pradesh,906631,11/29/2024,Standard,Organic Search
+399267,Aarav Kapoor,aarav.kapoor267@example.com,Female,37,Gurugram,Haryana,270150,2/17/2024,Silver,Google
+660355,Kavya Joshi,kavya.joshi355@example.com,Female,55,Surat,Gujarat,388224,1/25/2024,Standard,Email
+664358,Rohan Rana,rohan.rana358@example.com,Other,56,Agra,Uttar Pradesh,427398,8/15/2024,Silver,Organic Search
+800058,Priya Tiwari,priya.tiwari58@example.com,Other,40,Pune,Maharashtra,834979,1/20/2024,Silver,Organic Search
+298311,Diya Bansal,diya.bansal311@example.com,Male,38,Hyderabad,Telangana,316062,8/19/2025,Standard,Google
+603840,Nisha Joshi,nisha.joshi840@example.com,Other,38,Chennai,Tamil Nadu,591608,12/22/2023,Standard,Email
+219666,Nisha Bansal,nisha.bansal666@example.com,Female,47,Mumbai,Maharashtra,678376,4/7/2024,Silver,Email
+529527,Rohan Kumar,rohan.kumar527@example.com,Other,49,Pune,Maharashtra,963634,2/1/2024,Standard,Organic Search
+793875,Riya Mishra,riya.mishra875@example.com,Female,35,Mumbai,Maharashtra,385976,12/3/2024,Standard,Email
+244998,Isha Yadav,isha.yadav998@example.com,Other,44,Indore,Madhya Pradesh,188638,4/21/2025,Standard,Email
+566483,Meera Chauhan,meera.chauhan483@example.com,Male,38,Hyderabad,Telangana,783095,2/25/2024,Standard,Email
+728632,Nisha Singh,nisha.singh632@example.com,Male,22,Mumbai,Maharashtra,698576,11/4/2025,Silver,Referral
+491065,Ananya Saxena,ananya.saxena65@example.com,Female,55,Chennai,Tamil Nadu,809254,3/10/2023,Standard,Referral
+604569,Vivaan Saini,vivaan.saini569@example.com,Female,46,Bengaluru,Karnataka,657274,4/12/2024,Gold,Organic Search
+969436,Priya Agarwal,priya.agarwal436@example.com,Female,31,Kanpur,Uttar Pradesh,897940,6/24/2023,Standard,Organic Search
+153244,Diya Patel,diya.patel244@example.com,Female,33,Jaipur,Rajasthan,281938,8/3/2024,Standard,Referral
+633491,Rohan Verma,rohan.verma491@example.com,Male,23,Bengaluru,Karnataka,314840,11/9/2025,Silver,Email
+234225,Vivaan Agarwal,vivaan.agarwal225@example.com,Female,46,Pune,Maharashtra,915093,11/30/2024,Silver,Email
+537762,Riya Chauhan,riya.chauhan762@example.com,Male,34,Mumbai,Maharashtra,886466,6/21/2025,Standard,Organic Search
+839056,Kabir Patel,kabir.patel56@example.com,Female,38,Bengaluru,Karnataka,900775,6/24/2023,Standard,Google
+993223,Kunal Malhotra,kunal.malhotra223@example.com,Male,39,Surat,Gujarat,576480,11/8/2024,Gold ,Organic Search
+615390,Diya Mishra,diya.mishra390@example.com,Male,21,Delhi,Delhi,687907,7/13/2025,Silver,Referral
+543614,Pooja Rana,pooja.rana614@example.com,Female,45,Bhopal,Madhya Pradesh,759406,11/28/2024,Standard,Referral
+886625,Pooja Chauhan,pooja.chauhan625@example.com,Male,42,Kanpur,Uttar Pradesh,439900,6/12/2024,Standard,Email
+664874,Kunal Chauhan,kunal.chauhan874@example.com,Other,39,Dehradun,Uttarakhand,328916,10/20/2023,Standard,Organic Search
+218872,Ananya Tiwari,ananya.tiwari872@example.com,Female,39,Gurugram,Haryana,128245,10/10/2025,Gold,Facebook
+894941,Aditya Malhotra,aditya.malhotra941@example.com,Male,33,Bengaluru,Karnataka,210279,12/30/2024,Standard,Organic Search
+190375,Meera Malhotra,meera.malhotra375@example.com,Other,51,Bengaluru,Karnataka,933357,3/8/2024,Gold,Email
+691375,Priya Rana,priya.rana375@example.com,Female,47,Pune,Maharashtra,828483,5/23/2023,Standard,Email
+241315,Aarav Sharma,aarav.sharma315@example.com,Female,50,Surat,Gujarat,815714,9/11/2025,Standard,Email
+391035,Priya Verma,priya.verma35@example.com,Other,46,Noida,Uttar Pradesh,518575,3/8/2025,Standard,Organic Search
+589535,Kunal Gupta,kunal.gupta535@example.com,Female,34,Noida,Uttar Pradesh,601521,12/20/2023,Platinum,
+860437,Nisha Sharma,nisha.sharma437@example.com,Other,35,Hyderabad,Telangana,293133,6/6/2025,Standard,Google
+537886,Aanya Saxena,aanya.saxena886@example.com,Female,44,Noida,Uttar Pradesh,710018,3/1/2024,Standard,Organic Search
+706302,Ananya Rana,ananya.rana302@example.com,Male,42,Noida,Uttar Pradesh,322840,7/29/2023,Standard,Organic Search
+684484,Kavya Tiwari,kavya.tiwari484@example.com,Male,19,Kolkata,West Bengal,980145,1/21/2023,Standard,Email
+225580,Kunal Singh,kunal.singh580@example.com,Other,55,Dehradun,Uttarakhand,276174,8/16/2025,Standard,Google
+973066,Diya Yadav,diya.yadav66@example.com,Female,29,Dehradun,Uttarakhand,672848,1/26/2023,Platinum,Referral
+796183,Vivaan Mehta,vivaan.mehta183@example.com,Other,37,Surat,Gujarat,611704,12/29/2023,Standard,Facebook
+778848,Rohan Malhotra,rohan.malhotra848@example.com,Male,45,Chennai,Tamil Nadu,762041,8/29/2024,Standard,Referral
+989608,Aanya Gupta,aanya.gupta608@example.com,Male,44,Lucknow,Uttar Pradesh,790127,8/6/2023,Standard,Email
+937462,Meera Joshi,meera.joshi462@example.com,Female,58,Chennai,Tamil Nadu,736989,11/1/2024,Gold,Email
+922159,Nisha Malhotra,nisha.malhotra159@example.com,Other,27,Kanpur,Uttar Pradesh,111595,5/16/2023,Silver,Organic Search
+865862,Pooja Tiwari,pooja.tiwari862@example.com,Male,30,Indore,Madhya Pradesh,467015,10/24/2023,Standard,Email
+442977,Arjun Patel,arjun.patel977@example.com,Other,42,Hyderabad,Telangana,475254,7/2/2025,Silver,Email
+941447,Kunal Sharma,kunal.sharma447@example.com,Other,52,Dehradun,Uttarakhand,568611,10/13/2023,Standard,Email
+637297,Kabir Saxena,kabir.saxena297@example.com,Female,37,Bhopal,Madhya Pradesh,843769,12/28/2023,Standard,Email
+880090,Kabir Yadav,kabir.yadav90@example.com,Male,36,Dehradun,Uttarakhand,209412,9/14/2025,Standard,Email
+785176,Rahul Mehta,rahul.mehta176@example.com,Other,38,Bhopal,Madhya Pradesh,986448,12/26/2024,Gold,Email
+830445,Nisha Singh,nisha.singh445@example.com,Male,20,Mumbai,Maharashtra,162622,4/12/2024,Platinum,Facebook
+512651,Aditya Joshi,aditya.joshi651@example.com,Female,44,Chennai,Tamil Nadu,437973,6/9/2024,Gold,Email
+276001,Arjun Yadav,arjun.yadav1@example.com,Other,36,Bengaluru,Karnataka,326931,9/1/2025,Silver,Referral
+199340,Pooja Mishra,pooja.mishra340@example.com,Other,19,Chandigarh,Chandigarh,328280,6/2/2024,Standard,Referral
+793421,Riya Kumar,riya.kumar421@example.com,Other,49,Jaipur,Rajasthan,211732,11/13/2023,Standard,Google
+117835,Nisha Rana,nisha.rana835@example.com,Other,40,Kanpur,Uttar Pradesh,457994,4/13/2024,Standard,Email
+926136,Ananya Patel,ananya.patel136@example.com,Other,39,Agra,Uttar Pradesh,978419,2/2/2025,Standard,Google
+977849,Priya Saini,priya.saini849@example.com,Male,31,Chandigarh,Chandigarh,365487,6/12/2024,Standard,Google
+111059,Kavya Joshi,kavya.joshi59@example.com,Other,39,Pune,Maharashtra,670057,2/4/2024,Silver,Organic Search
+299958,Nisha Malhotra,nisha.malhotra958@example.com,Female,37,Agra,Uttar Pradesh,549782,4/27/2025,Standard,Email
+180149,Aanya Agarwal,aanya.agarwal149@example.com,Male,21,Chandigarh,Chandigarh,712513,6/3/2025,Standard,Facebook
+256525,Priya Joshi,priya.joshi525@example.com,Other,40,Lucknow,Uttar Pradesh,989334,10/1/2024,Standard,Email
+751063,Rahul Joshi,rahul.joshi63@example.com,Female,18,Bhopal,Madhya Pradesh,416124,6/11/2023,Standard,Email
+202716,Riya Patel,riya.patel716@example.com,Male,48,Agra,Uttar Pradesh,953548,5/10/2024,Standard,Google
+372450,Meera Agarwal,meera.agarwal450@example.com,Other,38,Jaipur,Rajasthan,865825,3/14/2023,Silver,Facebook
+562112,Rohan Chauhan,rohan.chauhan112@example.com,Female,26,Gurugram,Haryana,552125,10/6/2025,Silver,Facebook
+485635,Ananya Mishra,ananya.mishra635@example.com,Other,57,Dehradun,Uttarakhand,822044,12/15/2024,Standard,Organic Search
+485202,Riya Saini,riya.saini202@example.com,Other,38,Surat,Gujarat,444013,7/10/2024,Standard,Organic Search
+206299,Kabir Rana,kabir.rana299@example.com,Male,59,Kanpur,Uttar Pradesh,767649,5/5/2024,Standard,Email
+751843,Aanya Malhotra,aanya.malhotra843@example.com,Other,40,Surat,Gujarat,546232,10/26/2025,Gold,Organic Search
+159185,Aanya Yadav,aanya.yadav185@example.com,Male,43,Noida,Uttar Pradesh,740597,4/12/2024,Standard,Email
+420824,Priya Bansal,priya.bansal824@example.com,Female,30,Kolkata,West Bengal,943701,1/22/2023,Silver,Email
+782106,Aditya Malhotra,aditya.malhotra106@example.com,Other,28,Jaipur,Rajasthan,912281,5/12/2025,Silver,Google
+155938,Meera Malhotra,meera.malhotra938@example.com,Other,34,Dehradun,Uttarakhand,495719,9/18/2024,Standard,Facebook
+605053,Diya Pandey,diya.pandey53@example.com,Female,33,Gurugram,Haryana,840902,3/29/2025,Standard,Google
+216856,Meera Sharma,meera.sharma856@example.com,Female,36,Noida,Uttar Pradesh,116437,11/2/2023,Silver,Organic Search
+815263,Meera Malhotra,meera.malhotra263@example.com,Female,57,Ahmedabad,Gujarat,592293,1/21/2023,Standard,Email
+276459,Isha Chauhan,isha.chauhan459@example.com,Other,19,Noida,Uttar Pradesh,110612,4/9/2023,Gold,Organic Search
+832011,Kabir Yadav,kabir.yadav11@example.com,Male,33,Surat,Gujarat,551602,8/10/2023,Standard,Referral
+865598,Ishaan Singh,ishaan.singh598@example.com,Male,26,Patna,Bihar,675180,7/5/2024,Standard,Organic Search
+947385,Nisha Mishra,nisha.mishra385@example.com,Female,27,Kanpur,Uttar Pradesh,257355,3/15/2024,Standard,Referral
+691112,Isha Kumar,isha.kumar112@example.com,Male,44,Patna,Bihar,413299,1/31/2024,Standard,Referral
+446304,Arjun Joshi,arjun.joshi304@example.com,Female,23,Agra,Uttar Pradesh,349011,10/24/2024,Silver,Organic Search
+735487,Kavya Joshi,kavya.joshi487@example.com,Male,18,Ahmedabad,Gujarat,824160,5/20/2024,Silver,Referral
+188820,Diya Bansal,diya.bansal820@example.com,Male,59,Bhopal,Madhya Pradesh,872023,6/30/2024,Standard,Email
+449023,Aarav Pandey,aarav.pandey23@example.com,Female,47,Noida,Uttar Pradesh,884762,2/15/2025,Standard,Email
+496484,Pooja Agarwal,pooja.agarwal484@example.com,Male,33,Chennai,Tamil Nadu,275355,11/23/2023,Silver,Email
+113228,Aditya Rana,aditya.rana228@example.com,Female,26,Lucknow,Uttar Pradesh,696854,6/28/2025,Standard,Organic Search
+327433,Pooja Chauhan,pooja.chauhan433@example.com,Other,48,Hyderabad,Telangana,876226,8/3/2025,Standard,Referral
+957732,Rohan Saxena,rohan.saxena732@example.com,Other,18,Kolkata,West Bengal,400586,2/21/2025,Standard,Referral
+720158,Riya Sharma,riya.sharma158@example.com,Female,60,Chennai,Tamil Nadu,282628,4/18/2025,Standard,Organic Search
+676215,Aarav Saxena,aarav.saxena215@example.com,Other,53,Hyderabad,Telangana,688311,8/16/2024,Silver,Organic Search
+224166,Aanya Saxena,aanya.saxena166@example.com,Other,57,Bengaluru,Karnataka,783378,9/17/2025,Standard,Email
+104237,Priya Kumar,priya.kumar237@example.com,Female,36,Surat,Gujarat,130839,8/18/2025,Standard,Email
+443214,Arjun Gupta,arjun.gupta214@example.com,Female,27,Pune,Maharashtra,307711,1/20/2025,Silver,Email
+661666,Vivaan Kumar,vivaan.kumar666@example.com,Male,19,Indore,Madhya Pradesh,421388,5/11/2025,Gold,Email
+813284,Riya Verma,riya.verma284@example.com,Male,33,Kolkata,West Bengal,484518,3/11/2024,Silver,Referral
+940216,Priya Sharma,priya.sharma216@example.com,Male,27,Bhopal,Madhya Pradesh,378414,4/19/2023,Standard,Google
+345153,Ishaan Pandey,ishaan.pandey153@example.com,Other,53,Kanpur,Uttar Pradesh,855252,12/22/2024,Standard,Email
+517363,Diya Verma,diya.verma363@example.com,Female,60,Gurugram,Haryana,674748,4/17/2023,Silver,Google
+164748,Ananya Pandey,ananya.pandey748@example.com,Other,32,Noida,Uttar Pradesh,170815,2/12/2025,Standard,Email
+128497,Aditya Mehta,aditya.mehta497@example.com,Other,36,Hyderabad,Telangana,169940,9/24/2025,Gold,Google
+971740,Priya Joshi,priya.joshi740@example.com,Female,39,Gurugram,Haryana,504935,8/6/2025,Gold,Email
+643878,Riya Mishra,riya.mishra878@example.com,Other,19,Surat,Gujarat,337117,6/23/2023,Platinum,Organic Search
+925031,Riya Malhotra,riya.malhotra31@example.com,Male,28,Kanpur,Uttar Pradesh,957064,3/12/2025,Gold,Email
+814944,Meera Saini,meera.saini944@example.com,Female,42,Noida,Uttar Pradesh,344773,1/31/2025,Standard,Organic Search
+731028,Diya Bansal,diya.bansal28@example.com,Other,20,Lucknow,Uttar Pradesh,829991,6/20/2025,Platinum,Email
+226208,Ishaan Pandey,ishaan.pandey208@example.com,Female,30,Noida,Uttar Pradesh,229812,11/11/2025,Gold,Email
+464467,Aditya Verma,aditya.verma467@example.com,Male,26,Noida,Uttar Pradesh,431984,1/28/2025,Standard,Organic Search
+378679,Ishaan Rana,ishaan.rana679@example.com,Male,27,Agra,Uttar Pradesh,338853,5/26/2024,Silver,Facebook
+623157,Nisha Bansal,nisha.bansal157@example.com,Other,46,Hyderabad,Telangana,471462,3/15/2024,Gold,Organic Search
+530231,Aanya Mehta,aanya.mehta231@example.com,Female,22,Mumbai,Maharashtra,689545,10/17/2025,Standard,Organic Search
+268984,Nisha Sharma,nisha.sharma984@example.com,Female,60,Pune,Maharashtra,179437,9/30/2023,Standard,Google
+338055,Ishaan Pandey,ishaan.pandey55@example.com,Other,33,Chennai,Tamil Nadu,709279,1/14/2023,Silver,Organic Search
+739303,Meera Kumar,meera.kumar303@example.com,Female,50,Lucknow,Uttar Pradesh,716480,2/17/2024,Standard,Email
+394357,Isha Verma,isha.verma357@example.com,Other,51,Mumbai,Maharashtra,801786,4/7/2023,Silver,Organic Search
+138467,Isha Malhotra,isha.malhotra467@example.com,Other,44,Lucknow,Uttar Pradesh,310522,3/18/2024,Platinum,Organic Search
+875856,Aarav Rana,aarav.rana856@example.com,Female,35,Noida,Uttar Pradesh,944785,2/7/2024,Silver,Organic Search
+385392,Ananya Rana,ananya.rana392@example.com,Female,33,Delhi,Delhi,737331,2/21/2023,Standard,Email
+563863,Aanya Bansal,aanya.bansal863@example.com,Other,46,Bhopal,Madhya Pradesh,164834,10/6/2023,Standard,Referral
+130876,Aanya Saini,aanya.saini876@example.com,Other,38,Bengaluru,Karnataka,213070,8/28/2024,Silver,Email
+469440,Isha Kapoor,isha.kapoor440@example.com,Female,60,Lucknow,Uttar Pradesh,738592,5/24/2024,Standard,Email
+101058,Kavya Mehta,kavya.mehta58@example.com,Female,37,Kanpur,Uttar Pradesh,691374,5/23/2025,Standard,Email
+197053,Kunal Bansal,kunal.bansal53@example.com,Male,38,Bengaluru,Karnataka,130407,4/9/2024,Standard,Facebook
+857953,Rahul Saini,rahul.saini953@example.com,Female,29,Ahmedabad,Gujarat,132614,9/29/2024,Standard,Email
+847510,Riya Patel,riya.patel510@example.com,Male,26,Chennai,Tamil Nadu,359478,1/12/2023,Standard,Organic Search
+222290,Diya Sharma,diya.sharma290@example.com,Female,28,Surat,Gujarat,740140,6/23/2025,Standard,Organic Search
+643321,Kabir Rana,kabir.rana321@example.com,Other,45,Agra,Uttar Pradesh,758283,12/15/2023,Standard,Organic Search
+998076,Aarav Mishra,aarav.mishra76@example.com,Female,49,Dehradun,Uttarakhand,333358,7/9/2023,Standard,Email
+485866,Rahul Agarwal,rahul.agarwal866@example.com,Other,50,Pune,Maharashtra,774737,12/17/2023,Standard,Email
+717230,Ishaan Joshi,ishaan.joshi230@example.com,Female,51,Pune,Maharashtra,201171,4/9/2024,Standard,Email
+947251,Rahul Yadav,rahul.yadav251@example.com,Male,21,Pune,Maharashtra,215595,7/8/2024,Silver,Organic Search
+188403,Ishaan Malhotra,ishaan.malhotra403@example.com,Female,56,Kanpur,Uttar Pradesh,209853,12/23/2024,Gold,Email
+735172,Sneha Verma,sneha.verma172@example.com,Female,20,Delhi,Delhi,229055,7/8/2024,Standard,Organic Search
+475362,Priya Gupta,priya.gupta362@example.com,Female,58,Kolkata,West Bengal,195250,3/8/2023,Standard,Google
+391641,Priya Gupta,priya.gupta641@example.com,Female,36,Lucknow,Uttar Pradesh,244577,8/8/2023,Silver,Email
+903664,Rahul Saxena,rahul.saxena664@example.com,Female,33,Hyderabad,Telangana,896921,5/14/2023,Standard,Facebook
+611225,Kavya Malhotra,kavya.malhotra225@example.com,Female,25,Noida,Uttar Pradesh,525408,6/22/2025,Gold,Organic Search
+276978,Kavya Yadav,kavya.yadav978@example.com,Female,51,Bhopal,Madhya Pradesh,741818,2/10/2023,Standard,Email
+266143,Sneha Singh,sneha.singh143@example.com,Female,39,Noida,Uttar Pradesh,469290,2/19/2025,Standard,Organic Search
+555392,Ananya Pandey,ananya.pandey392@example.com,Female,28,Chandigarh,Chandigarh,750169,6/25/2025,Standard,Google
+615233,Isha Gupta,isha.gupta233@example.com,Other,43,Agra,Uttar Pradesh,553241,11/1/2023,Silver,Google
+302519,Nisha Bansal,nisha.bansal519@example.com,Other,21,Jaipur,Rajasthan,746316,4/9/2023,Standard,Email
+711987,Rohan Gupta,rohan.gupta987@example.com,Male,23,Agra,Uttar Pradesh,916326,5/17/2025,Standard,Google
+501206,Rohan Saini,rohan.saini206@example.com,Other,53,Ahmedabad,Gujarat,466405,5/19/2025,Platinum,Organic Search
+122705,Sneha Sharma,sneha.sharma705@example.com,Male,25,Mumbai,Maharashtra,956351,9/12/2024,Silver,Referral
+558106,Kabir Gupta,kabir.gupta106@example.com,Other,37,Dehradun,Uttarakhand,410204,4/17/2025,Standard,Email
+225038,Vivaan Pandey,vivaan.pandey38@example.com,Male,54,Gurugram,Haryana,354360,3/15/2023,Silver,Email
+193822,Rohan Pandey,rohan.pandey822@example.com,Male,26,Kanpur,Uttar Pradesh,861407,3/15/2024,Silver,Email
+325347,Aarav Agarwal,aarav.agarwal347@example.com,Male,30,Delhi,Delhi,360149,1/2/2024,Silver,Email
+836366,Aarav Pandey,aarav.pandey366@example.com,Other,36,Lucknow,Uttar Pradesh,166348,9/21/2024,Silver,Organic Search
+883612,Meera Verma,meera.verma612@example.com,Other,29,Gurugram,Haryana,582213,6/21/2024,Gold,Organic Search
+899867,Ishaan Malhotra,ishaan.malhotra867@example.com,Other,50,Kolkata,West Bengal,682271,10/12/2024,Standard,Organic Search
+354432,Nisha Gupta,nisha.gupta432@example.com,Male,29,Bengaluru,Karnataka,893349,6/14/2023,Gold,Organic Search
+660363,Nisha Pandey,nisha.pandey363@example.com,Female,25,Chennai,Tamil Nadu,149859,10/30/2023,Standard,Organic Search
+892793,Kunal Gupta,kunal.gupta793@example.com,Male,47,Agra,Uttar Pradesh,657525,4/10/2024,Standard,Facebook
+540086,Sneha Patel,sneha.patel86@example.com,Female,35,Noida,Uttar Pradesh,935001,8/25/2024,Silver,Organic Search
+763472,Rahul Saxena,rahul.saxena472@example.com,Male,33,Delhi,Delhi,274098,10/4/2024,Gold,Email
+525138,Riya Singh,riya.singh138@example.com,Male,41,Ahmedabad,Gujarat,824368,5/2/2023,Standard,Email
+643027,Kavya Verma,kavya.verma27@example.com,Female,49,Chennai,Tamil Nadu,264390,4/29/2025,Gold,Referral
+518913,Kunal Mishra,kunal.mishra913@example.com,Other,19,Kolkata,West Bengal,293833,2/22/2023,Standard,Referral
+805733,Rahul Yadav,rahul.yadav733@example.com,Other,22,Chandigarh,Chandigarh,995217,4/6/2025,Standard,Google
+629747,Aanya Saini,aanya.saini747@example.com,Male,27,Chandigarh,Chandigarh,244742,7/21/2024,Standard,Organic Search
+343166,Priya Gupta,priya.gupta166@example.com,Male,18,Ahmedabad,Gujarat,228104,12/4/2023,Standard,Google
+436704,Aanya Patel,aanya.patel704@example.com,Male,40,Kanpur,Uttar Pradesh,211643,10/14/2024,Gold,Google
+236875,Riya Bansal,riya.bansal875@example.com,Other,49,Lucknow,Uttar Pradesh,315876,10/28/2023,Standard,Organic Search
+655622,Nisha Yadav,nisha.yadav622@example.com,Female,19,Kanpur,Uttar Pradesh,884677,6/1/2023,Gold,Organic Search
+115722,Riya Singh,riya.singh722@example.com,Female,53,Chandigarh,Chandigarh,714992,3/2/2024,Platinum,Email
+657668,Vivaan Verma,vivaan.verma668@example.com,Other,39,Noida,Uttar Pradesh,929494,4/4/2025,Standard,Referral
+231898,Rohan Singh,rohan.singh898@example.com,Female,48,Pune,Maharashtra,784727,12/18/2024,Silver,Referral
+165126,Pooja Sharma,pooja.sharma126@example.com,Female,36,Chandigarh,Chandigarh,844129,3/17/2025,Standard,Organic Search
+964626,Kavya Chauhan,kavya.chauhan626@example.com,Female,22,Patna,Bihar,948498,3/23/2024,Silver,Facebook
+662784,Kabir Singh,kabir.singh784@example.com,Female,24,Mumbai,Maharashtra,716730,11/18/2023,Silver,Referral
+647721,Ishaan Mishra,ishaan.mishra721@example.com,Male,51,Ahmedabad,Gujarat,450103,3/23/2025,Standard,Email
+390968,Meera Mehta,meera.mehta968@example.com,Female,36,Chandigarh,Chandigarh,876046,1/10/2023,Standard,Organic Search
+257194,Riya Chauhan,riya.chauhan194@example.com,Other,34,Surat,Gujarat,332978,12/13/2024,Standard,Email
+253912,Aarav Kumar,aarav.kumar912@example.com,Male,39,Noida,Uttar Pradesh,929191,7/17/2024,Silver,Organic Search
+617222,Kavya Yadav,kavya.yadav222@example.com,Female,19,Patna,Bihar,501969,10/12/2025,Standard,Google
+544975,Nisha Sharma,nisha.sharma975@example.com,Other,60,Bengaluru,Karnataka,993078,11/19/2023,Gold,Email
+679113,Ishaan Yadav,ishaan.yadav113@example.com,Female,34,Noida,Uttar Pradesh,792684,12/1/2023,Silver,Organic Search
+682758,Priya Saini,priya.saini758@example.com,Male,60,Bengaluru,Karnataka,872735,3/18/2023,Standard,Google
+611810,Meera Rana,meera.rana810@example.com,Other,39,Kolkata,West Bengal,649643,4/3/2025,Standard,Organic Search
+273320,Ishaan Mehta,ishaan.mehta320@example.com,Male,22,Lucknow,Uttar Pradesh,686968,3/29/2025,Standard,Referral
+978525,Kavya Joshi,kavya.joshi525@example.com,Male,43,Surat,Gujarat,283992,2/26/2023,Silver,Organic Search
+463709,Kavya Malhotra,kavya.malhotra709@example.com,Other,42,Delhi,Delhi,351970,1/6/2025,Standard,Google
+358583,Aarav Tiwari,aarav.tiwari583@example.com,Other,21,Gurugram,Haryana,663053,2/19/2025,Standard,Organic Search
+453654,Rahul Rana,rahul.rana654@example.com,Female,36,Gurugram,Haryana,206529,8/11/2024,Gold,Email
+376963,Meera Rana,meera.rana963@example.com,Female,56,Bengaluru,Karnataka,319252,12/4/2024,Standard,Email
+608485,Arjun Bansal,arjun.bansal485@example.com,Male,29,Kolkata,West Bengal,454046,8/2/2025,Standard,Email
+706202,Aditya Malhotra,aditya.malhotra202@example.com,Male,48,Kanpur,Uttar Pradesh,166473,10/25/2024,Silver,Email
+177806,Pooja Mehta,pooja.mehta806@example.com,Female,50,Gurugram,Haryana,753979,9/10/2023,Standard,Facebook
+854454,Rohan Malhotra,rohan.malhotra454@example.com,Other,32,Bhopal,Madhya Pradesh,232280,7/10/2023,Silver,Organic Search
+967148,Riya Malhotra,riya.malhotra148@example.com,Other,22,Noida,Uttar Pradesh,810122,12/21/2024,Standard,Google
+697476,Isha Agarwal,isha.agarwal476@example.com,Other,27,Surat,Gujarat,476486,10/19/2023,Standard,Email
+768922,Aarav Yadav,aarav.yadav922@example.com,Female,42,Bengaluru,Karnataka,705080,9/28/2023,Standard,Email
+302004,Aarav Mehta,aarav.mehta4@example.com,Other,39,Kolkata,West Bengal,633909,9/6/2023,Standard,Email
+366297,Aanya Rana,aanya.rana297@example.com,Other,24,Kolkata,West Bengal,407188,8/11/2023,Silver,Referral
+300406,Sneha Mehta,sneha.mehta406@example.com,Female,46,Bhopal,Madhya Pradesh,312710,1/12/2023,Standard,Email
+288150,Aanya Pandey,aanya.pandey150@example.com,Female,56,Indore,Madhya Pradesh,172553,3/6/2025,Standard,Email
+306070,Kabir Singh,kabir.singh70@example.com,Other,45,Lucknow,Uttar Pradesh,169020,3/16/2024,Platinum,Google
+630357,Nisha Bansal,nisha.bansal357@example.com,Female,28,Delhi,Delhi,611418,7/22/2024,Standard,Email
+632442,Priya Kumar,priya.kumar442@example.com,Other,45,Kanpur,Uttar Pradesh,349082,3/28/2023,Standard,Organic Search
+690065,Aditya Malhotra,aditya.malhotra65@example.com,Other,31,Noida,Uttar Pradesh,716402,5/2/2023,Gold,Facebook
+317156,Aarav Malhotra,aarav.malhotra156@example.com,Female,49,Bengaluru,Karnataka,580906,5/6/2023,Silver,Referral
+885065,Meera Bansal,meera.bansal65@example.com,Female,47,Jaipur,Rajasthan,423207,8/27/2023,Standard,Email
+303972,Diya Saini,diya.saini972@example.com,Female,55,Bengaluru,Karnataka,856491,11/8/2024,Standard,Email
+961571,Pooja Rana,pooja.rana571@example.com,Other,47,Kolkata,West Bengal,566122,2/20/2024,Gold,Google
+361095,Nisha Agarwal,nisha.agarwal95@example.com,Other,35,Mumbai,Maharashtra,793664,5/6/2025,Standard,Organic Search
+131043,Kunal Sharma,kunal.sharma43@example.com,Other,56,Gurugram,Haryana,197518,6/13/2023,Standard,Email
+820080,Rahul Sharma,rahul.sharma80@example.com,Female,47,Hyderabad,Telangana,236869,11/25/2024,Standard,Google
+614711,Pooja Pandey,pooja.pandey711@example.com,Female,49,Bengaluru,Karnataka,735961,10/6/2024,Standard,Referral
+251524,Riya Verma,riya.verma524@example.com,Male,50,Bengaluru,Karnataka,741269,2/18/2024,Standard,Email
+591930,Kabir Rana,kabir.rana930@example.com,Female,50,Delhi,Delhi,943579,10/7/2023,Standard,Email
+471301,Ishaan Gupta,ishaan.gupta301@example.com,Female,60,Chandigarh,Chandigarh,915882,4/17/2025,Silver,Email
+929708,Isha Tiwari,isha.tiwari708@example.com,Female,33,Chandigarh,Chandigarh,133310,3/14/2024,Silver,Organic Search
+239125,Sneha Mehta,sneha.mehta125@example.com,Female,21,Chandigarh,Chandigarh,247963,8/4/2025,Standard,Organic Search
+386989,Kunal Verma,kunal.verma989@example.com,Other,51,Bengaluru,Karnataka,229211,7/10/2025,Silver,Referral
+364172,Kunal Mehta,kunal.mehta172@example.com,Male,36,Ahmedabad,Gujarat,900150,2/18/2023,Standard,Organic Search
+841586,Rohan Verma,rohan.verma586@example.com,Male,33,Dehradun,Uttarakhand,172885,6/30/2024,Silver,Organic Search
+999584,Rahul Kapoor,rahul.kapoor584@example.com,Other,43,Bengaluru,Karnataka,937359,10/12/2024,Silver,Organic Search
+630597,Sneha Kapoor,sneha.kapoor597@example.com,Male,19,Chandigarh,Chandigarh,358713,7/11/2025,Standard,Organic Search
+526427,Meera Verma,meera.verma427@example.com,Female,43,Delhi,Delhi,814964,6/5/2025,Standard,Email
+980892,Arjun Chauhan,arjun.chauhan892@example.com,Male,27,Jaipur,Rajasthan,717956,12/3/2023,Standard,Organic Search
+664707,Aditya Rana,aditya.rana707@example.com,Female,40,Jaipur,Rajasthan,805207,6/19/2025,Standard,Organic Search
+330035,Diya Sharma,diya.sharma35@example.com,Other,26,Chennai,Tamil Nadu,470637,11/10/2025,Gold,Referral
+346340,Meera Kumar,meera.kumar340@example.com,Male,31,Chennai,Tamil Nadu,654631,1/17/2024,Gold,Email
+831118,Aanya Yadav,aanya.yadav118@example.com,Female,46,Agra,Uttar Pradesh,559944,5/8/2025,Standard,Referral
+877515,Ishaan Gupta,ishaan.gupta515@example.com,Female,56,Kolkata,West Bengal,186174,11/22/2024,Standard,Email
+646753,Aditya Saini,aditya.saini753@example.com,Female,41,Bengaluru,Karnataka,709358,7/8/2025,Silver,Referral
+480376,Aanya Patel,aanya.patel376@example.com,Male,51,Surat,Gujarat,142569,7/31/2025,Standard,Referral
+657907,Nisha Agarwal,nisha.agarwal907@example.com,Other,57,Hyderabad,Telangana,473519,7/29/2025,Gold,Email
+338023,Aarav Kumar,aarav.kumar23@example.com,Female,57,Patna,Bihar,819317,2/17/2023,Standard,Email
+931157,Rohan Singh,rohan.singh157@example.com,Female,50,Lucknow,Uttar Pradesh,343892,5/24/2023,Silver,Email
+854275,Aanya Singh,aanya.singh275@example.com,Female,51,Gurugram,Haryana,204127,8/31/2024,Silver,Facebook
+887420,Aanya Rana,aanya.rana420@example.com,Female,37,Hyderabad,Telangana,343164,1/29/2025,Standard,Email
+726428,Sneha Sharma,sneha.sharma428@example.com,Female,57,Chandigarh,Chandigarh,298763,2/7/2024,Silver,Referral
+271614,Aditya Joshi,aditya.joshi614@example.com,Other,52,Delhi,Delhi,750513,12/10/2023,Silver,Referral
+121200,Ishaan Mishra,ishaan.mishra200@example.com,Male,34,Bhopal,Madhya Pradesh,460059,12/27/2024,Standard,Organic Search
+953951,Riya Kapoor,riya.kapoor951@example.com,Female,55,Dehradun,Uttarakhand,612339,4/17/2024,Silver,Facebook
+366879,Diya Yadav,diya.yadav879@example.com,Male,48,Hyderabad,Telangana,905802,7/10/2025,Standard,Email
+161310,Kavya Saini,kavya.saini310@example.com,Other,46,Mumbai,Maharashtra,398442,4/2/2025,Standard,Email
+823350,Aarav Yadav,aarav.yadav350@example.com,Female,34,Delhi,Delhi,702993,6/28/2023,Standard,Organic Search
+885471,Sneha Tiwari,sneha.tiwari471@example.com,Other,30,Chandigarh,Chandigarh,577938,4/16/2024,Standard,Email
+541695,Isha Mishra,isha.mishra695@example.com,Female,18,Chennai,Tamil Nadu,278637,8/7/2024,Silver,Email
+173406,Rahul Gupta,rahul.gupta406@example.com,Male,36,Jaipur,Rajasthan,954959,10/18/2024,Silver,Email
+613757,Pooja Pandey,pooja.pandey757@example.com,Other,60,Dehradun,Uttarakhand,829552,8/20/2024,Silver,Email
+603944,Arjun Singh,arjun.singh944@example.com,Female,18,Chandigarh,Chandigarh,444728,4/15/2024,Standard,Google
+600298,Kavya Tiwari,kavya.tiwari298@example.com,Other,19,Pune,Maharashtra,669679,2/3/2024,Silver,Organic Search
+739394,Meera Verma,meera.verma394@example.com,Other,18,Delhi,Delhi,199182,4/21/2024,Standard,Email
+350410,Sneha Kapoor,sneha.kapoor410@example.com,Male,27,Hyderabad,Telangana,873284,10/8/2024,Silver,Organic Search
+607925,Aditya Kumar,aditya.kumar925@example.com,Male,31,Lucknow,Uttar Pradesh,571273,3/11/2025,Standard,Google
+911360,Sneha Malhotra,sneha.malhotra360@example.com,Male,39,Ahmedabad,Gujarat,829821,7/14/2024,Standard,Google
+779560,Ishaan Patel,ishaan.patel560@example.com,Other,19,Lucknow,Uttar Pradesh,791027,4/27/2024,Gold,Email
+364124,Kabir Verma,kabir.verma124@example.com,Male,36,Kanpur,Uttar Pradesh,465145,3/6/2025,Gold,Email
+387937,Arjun Mehta,arjun.mehta937@example.com,Female,23,Gurugram,Haryana,260648,5/17/2025,Standard,Facebook
+873976,Kabir Patel,kabir.patel976@example.com,Male,22,Hyderabad,Telangana,524914,12/7/2023,Standard,Email
+322525,Rahul Pandey,rahul.pandey525@example.com,Male,24,Pune,Maharashtra,533002,9/20/2025,Platinum,Email
+935548,Ishaan Tiwari,ishaan.tiwari548@example.com,Male,44,Mumbai,Maharashtra,725576,5/18/2024,Gold,Organic Search
+303608,Priya Mehta,priya.mehta608@example.com,Male,35,Agra,Uttar Pradesh,665005,7/12/2025,Standard,Email
+676301,Pooja Verma,pooja.verma301@example.com,Male,35,Bengaluru,Karnataka,594800,10/17/2023,Standard,Organic Search
+213175,Rahul Bansal,rahul.bansal175@example.com,Other,19,Ahmedabad,Gujarat,311821,7/25/2024,Standard,Organic Search
+907760,Diya Chauhan,diya.chauhan760@example.com,Female,39,Surat,Gujarat,564049,8/31/2025,Gold,Organic Search
+615607,Arjun Verma,arjun.verma607@example.com,Other,37,Mumbai,Maharashtra,378421,6/22/2023,Gold,Organic Search
+609610,Pooja Yadav,pooja.yadav610@example.com,Male,55,Ahmedabad,Gujarat,703407,11/21/2023,Silver,Organic Search
+127567,Kavya Yadav,kavya.yadav567@example.com,Female,19,Patna,Bihar,969197,3/5/2025,Standard,Referral
+529995,Riya Sharma,riya.sharma995@example.com,Other,34,Bhopal,Madhya Pradesh,327311,3/30/2024,Standard,Facebook
+879550,Meera Pandey,meera.pandey550@example.com,Female,46,Kolkata,West Bengal,317097,7/12/2023,Standard,Email
+658155,Vivaan Saini,vivaan.saini155@example.com,Other,29,Jaipur,Rajasthan,909007,4/27/2025,Silver,Email
+774937,Kabir Malhotra,kabir.malhotra937@example.com,Male,26,Agra,Uttar Pradesh,914335,9/24/2025,Standard,Email
+715239,Ananya Patel,ananya.patel239@example.com,Female,53,Kanpur,Uttar Pradesh,783325,9/19/2024,Silver,Email
+249852,Diya Rana,diya.rana852@example.com,Male,27,Surat,Gujarat,179175,6/23/2025,Standard,Referral
+155559,Sneha Malhotra,sneha.malhotra559@example.com,Other,44,Mumbai,Maharashtra,966791,4/17/2024,Standard,Facebook
+818572,Ishaan Bansal,ishaan.bansal572@example.com,Male,53,Surat,Gujarat,635224,7/6/2024,Standard,Google
+790768,Ishaan Yadav,ishaan.yadav768@example.com,Other,58,Bhopal,Madhya Pradesh,475747,10/21/2024,Standard,Organic Search
+912505,Kavya Agarwal,kavya.agarwal505@example.com,Female,48,Indore,Madhya Pradesh,408518,1/19/2023,Standard,Organic Search
+297210,Rohan Yadav,rohan.yadav210@example.com,Female,52,Jaipur,Rajasthan,153758,3/16/2023,Silver,Email
+934432,Aarav Patel,aarav.patel432@example.com,Female,28,Indore,Madhya Pradesh,515902,2/20/2025,Standard,Email
+899101,Riya Kapoor,riya.kapoor101@example.com,Other,56,Delhi,Delhi,609227,1/6/2023,Standard,Organic Search
+289130,Kunal Patel,kunal.patel130@example.com,Other,51,Mumbai,Maharashtra,871412,11/27/2024,Standard,Email
+140428,Vivaan Verma,vivaan.verma428@example.com,Other,23,Ahmedabad,Gujarat,416645,9/27/2023,Standard,Organic Search
+578691,Arjun Saxena,arjun.saxena691@example.com,Female,36,Ahmedabad,Gujarat,372450,3/14/2024,Silver,Email
+489693,Kabir Gupta,kabir.gupta693@example.com,Female,38,Kanpur,Uttar Pradesh,613464,11/13/2023,Gold,Email
+971547,Riya Patel,riya.patel547@example.com,Female,19,Chennai,Tamil Nadu,355827,12/18/2024,Standard,Organic Search
+673645,Diya Verma,diya.verma645@example.com,Male,27,Agra,Uttar Pradesh,714033,4/26/2023,Standard,Referral
+684599,Priya Chauhan,priya.chauhan599@example.com,Other,34,Jaipur,Rajasthan,608684,3/1/2024,Silver,Email
+232817,Priya Chauhan,priya.chauhan817@example.com,Female,47,Dehradun,Uttarakhand,479609,7/19/2023,Standard,Google
+973365,Priya Malhotra,priya.malhotra365@example.com,Male,38,Jaipur,Rajasthan,700627,11/1/2023,Standard,Email
+668122,Kunal Bansal,kunal.bansal122@example.com,Male,37,Chandigarh,Chandigarh,257570,6/4/2024,Standard,Google
+646661,Priya Saxena,priya.saxena661@example.com,Other,31,Bhopal,Madhya Pradesh,374334,9/21/2024,Silver,Referral
+991739,Kabir Singh,kabir.singh739@example.com,Female,25,Dehradun,Uttarakhand,117717,5/20/2023,Standard,Google
+517573,Diya Mehta,diya.mehta573@example.com,Female,40,Dehradun,Uttarakhand,136453,9/10/2023,Standard,Google
+490577,Isha Sharma,isha.sharma577@example.com,Female,24,Bhopal,Madhya Pradesh,175499,2/22/2025,Silver,Referral
+844856,Ananya Joshi,ananya.joshi856@example.com,Other,56,Lucknow,Uttar Pradesh,802143,8/16/2023,Standard,Facebook
+317202,Aanya Tiwari,aanya.tiwari202@example.com,Other,35,Mumbai,Maharashtra,350051,1/28/2025,Standard,Google
+586411,Kunal Joshi,kunal.joshi411@example.com,Female,43,Surat,Gujarat,358863,6/5/2024,Gold,Email
+981367,Ananya Saxena,ananya.saxena367@example.com,Other,24,Mumbai,Maharashtra,735660,4/13/2024,Silver,Email
+687599,Nisha Singh,nisha.singh599@example.com,Other,22,Ahmedabad,Gujarat,615042,4/5/2023,Standard,Organic Search
+785090,Aditya Sharma,aditya.sharma90@example.com,Other,43,Pune,Maharashtra,507076,11/7/2024,Standard,Referral
+963654,Arjun Pandey,arjun.pandey654@example.com,Female,21,Delhi,Delhi,713652,9/3/2023,Platinum,Referral
+863880,Aditya Chauhan,aditya.chauhan880@example.com,Other,42,Kanpur,Uttar Pradesh,936101,4/16/2024,Standard,Organic Search
+273208,Aditya Rana,aditya.rana208@example.com,Male,32,Kanpur,Uttar Pradesh,795438,4/18/2023,Standard,Organic Search
+367274,Rohan Chauhan,rohan.chauhan274@example.com,Other,22,Ahmedabad,Gujarat,970762,10/31/2024,Silver,Organic Search
+816718,Isha Yadav,isha.yadav718@example.com,Other,41,Chandigarh,Chandigarh,134233,6/16/2023,Standard,Referral
+576923,Kabir Pandey,kabir.pandey923@example.com,Male,54,Chandigarh,Chandigarh,931961,4/5/2024,Standard,Email
+441467,Aarav Yadav,aarav.yadav467@example.com,Other,24,Noida,Uttar Pradesh,983589,11/8/2023,Standard,Google
+128112,Aarav Tiwari,aarav.tiwari112@example.com,Male,51,Dehradun,Uttarakhand,140712,3/14/2025,Standard,Email
+587868,Aanya Yadav,aanya.yadav868@example.com,Female,48,Gurugram,Haryana,579924,8/8/2023,Silver,Organic Search
+762273,Vivaan Mehta,vivaan.mehta273@example.com,Other,54,Gurugram,Haryana,219013,3/14/2025,Standard,Email
+287596,Ishaan Kumar,ishaan.kumar596@example.com,Other,41,Pune,Maharashtra,290763,3/9/2023,Gold,Email
+307613,Aanya Saini,aanya.saini613@example.com,Other,47,Gurugram,Haryana,576405,1/3/2025,Standard,Email
+660901,Nisha Singh,nisha.singh901@example.com,Other,47,Bhopal,Madhya Pradesh,740426,6/22/2023,Standard,Email
+817371,Ananya Tiwari,ananya.tiwari371@example.com,Other,33,Bhopal,Madhya Pradesh,705449,8/8/2025,Standard,Email
+841915,Kabir Rana,kabir.rana915@example.com,Female,28,Delhi,Delhi,810704,2/17/2024,Silver,Organic Search
+227766,Isha Tiwari,isha.tiwari766@example.com,Male,23,Ahmedabad,Gujarat,798438,3/14/2025,Standard,Organic Search
+482935,Pooja Pandey,pooja.pandey935@example.com,Female,52,Dehradun,Uttarakhand,863880,5/17/2025,Standard,Organic Search
+104718,Meera Verma,meera.verma718@example.com,Female,37,Noida,Uttar Pradesh,693606,10/12/2025,Standard,Google
+439981,Riya Chauhan,riya.chauhan981@example.com,Male,49,Chandigarh,Chandigarh,197464,6/7/2024,Gold,Google
+289943,Kavya Rana,kavya.rana943@example.com,Female,51,Bengaluru,Karnataka,717280,5/13/2023,Gold,Referral
+870367,Kavya Mehta,kavya.mehta367@example.com,Other,28,Agra,Uttar Pradesh,493783,7/5/2023,Silver,Organic Search
+738003,Nisha Joshi,nisha.joshi3@example.com,Male,47,Hyderabad,Telangana,242799,1/22/2024,Standard,Facebook
+941824,Kunal Kapoor,kunal.kapoor824@example.com,Other,25,Gurugram,Haryana,561646,1/14/2024,Standard,Email
+482411,Aditya Verma,aditya.verma411@example.com,Other,51,Bengaluru,Karnataka,598518,1/6/2023,Standard,Google
+697034,Diya Singh,diya.singh34@example.com,Female,33,Gurugram,Haryana,370552,5/18/2023,Gold,Referral
+446930,Kavya Agarwal,kavya.agarwal930@example.com,Female,22,Mumbai,Maharashtra,879327,4/28/2025,Standard,Email
+122080,Aditya Patel,aditya.patel80@example.com,Female,56,Jaipur,Rajasthan,954953,6/19/2025,Standard,Email
+512887,Aanya Yadav,aanya.yadav887@example.com,Male,41,Delhi,Delhi,547281,5/3/2024,Silver,Email
+954960,Aditya Malhotra,aditya.malhotra960@example.com,Other,59,Bhopal,Madhya Pradesh,778749,2/20/2023,Silver,Organic Search
+828486,Aarav Verma,aarav.verma486@example.com,Male,50,Noida,Uttar Pradesh,961045,11/27/2023,Standard,Google
+312816,Riya Saini,riya.saini816@example.com,Male,36,Chennai,Tamil Nadu,196445,10/25/2024,Gold,Organic Search
+513303,Ananya Mishra,ananya.mishra303@example.com,Male,24,Agra,Uttar Pradesh,113572,8/21/2023,Standard,Email
+572112,Riya Malhotra,riya.malhotra112@example.com,Male,47,Surat,Gujarat,831875,6/9/2023,Gold,Organic Search
+288053,Ananya Mehta,ananya.mehta53@example.com,Male,21,Mumbai,Maharashtra,715959,3/31/2023,Platinum,Referral
+412719,Meera Mishra,meera.mishra719@example.com,Male,22,Pune,Maharashtra,967361,5/7/2024,Standard,Organic Search
+887181,Diya Sharma,diya.sharma181@example.com,Other,49,Surat,Gujarat,566376,2/25/2023,Silver,Email
+525942,Meera Joshi,meera.joshi942@example.com,Other,38,Lucknow,Uttar Pradesh,153708,6/10/2024,Silver,Facebook
+663356,Riya Chauhan,riya.chauhan356@example.com,Female,33,Kolkata,West Bengal,974280,9/1/2023,Silver,Email
+273523,Meera Gupta,meera.gupta523@example.com,Female,60,Surat,Gujarat,990391,4/28/2024,Standard,Email
+966887,Meera Singh,meera.singh887@example.com,Male,52,Hyderabad,Telangana,665407,8/11/2024,Standard,Referral
+515804,Riya Agarwal,riya.agarwal804@example.com,Male,56,Agra,Uttar Pradesh,399248,6/28/2023,Standard,Organic Search
+980253,Arjun Verma,arjun.verma253@example.com,Other,55,Bengaluru,Karnataka,451196,11/6/2023,Standard,Facebook
+963540,Aanya Kumar,aanya.kumar540@example.com,Male,22,Kolkata,West Bengal,135381,10/4/2023,Standard,Organic Search
+610122,Kavya Tiwari,kavya.tiwari122@example.com,Male,38,Mumbai,Maharashtra,782340,2/20/2024,Standard,Organic Search
+864666,Vivaan Bansal,vivaan.bansal666@example.com,Female,36,Gurugram,Haryana,123990,7/30/2025,Standard,Email
+760339,Kunal Saxena,kunal.saxena339@example.com,Male,47,Kolkata,West Bengal,492278,4/1/2023,Standard,Organic Search
+525702,Arjun Kumar,arjun.kumar702@example.com,Male,59,Agra,Uttar Pradesh,559083,10/15/2025,Silver,Email
+801568,Ishaan Rana,ishaan.rana568@example.com,Female,50,Agra,Uttar Pradesh,987322,7/23/2023,Standard,Email
+295795,Meera Tiwari,meera.tiwari795@example.com,Male,32,Chennai,Tamil Nadu,791305,5/31/2023,Silver,Organic Search
+531204,Ishaan Malhotra,ishaan.malhotra204@example.com,Male,60,Ahmedabad,Gujarat,223352,12/29/2023,Standard,Email
+329560,Ananya Verma,ananya.verma560@example.com,Other,19,Bengaluru,Karnataka,847958,5/15/2023,Standard,Facebook
+521369,Vivaan Agarwal,vivaan.agarwal369@example.com,Other,49,Patna,Bihar,836853,8/3/2024,Standard,Organic Search
+910328,Aditya Patel,aditya.patel328@example.com,Female,42,Dehradun,Uttarakhand,354408,11/22/2023,Standard,Organic Search
+654026,Kunal Agarwal,kunal.agarwal26@example.com,Female,36,Jaipur,Rajasthan,854268,7/27/2025,Standard,Email
+929265,Aditya Bansal,aditya.bansal265@example.com,Male,20,Indore,Madhya Pradesh,200200,3/5/2023,Standard,Google
+230547,Kavya Tiwari,kavya.tiwari547@example.com,Female,46,Patna,Bihar,668988,3/24/2025,Standard,Email
+133119,Isha Joshi,isha.joshi119@example.com,Other,19,Lucknow,Uttar Pradesh,197673,12/2/2024,Gold,Organic Search
+339381,Rohan Joshi,rohan.joshi381@example.com,Female,42,Jaipur,Rajasthan,175977,2/19/2025,Gold,Organic Search
+746275,Isha Malhotra,isha.malhotra275@example.com,Other,45,Bhopal,Madhya Pradesh,894872,3/28/2024,Standard,Email
+990567,Rohan Saini,rohan.saini567@example.com,Male,45,Gurugram,Haryana,970578,4/28/2025,Silver,Organic Search
+278103,Pooja Joshi,pooja.joshi103@example.com,Female,39,Jaipur,Rajasthan,692642,2/9/2025,Standard,Google
+955166,Isha Singh,isha.singh166@example.com,Other,44,Lucknow,Uttar Pradesh,350926,12/4/2023,Standard,Organic Search
+298840,Meera Pandey,meera.pandey840@example.com,Other,59,Delhi,Delhi,309623,12/27/2023,Silver,Google
+526695,Rahul Yadav,rahul.yadav695@example.com,Female,37,Hyderabad,Telangana,734630,10/22/2023,Silver,Organic Search
+231270,Aditya Gupta,aditya.gupta270@example.com,Male,22,Noida,Uttar Pradesh,761188,4/10/2023,Gold,Referral
+894802,Riya Agarwal,riya.agarwal802@example.com,Other,21,Gurugram,Haryana,802165,8/30/2023,Gold,Organic Search
+693231,Nisha Agarwal,nisha.agarwal231@example.com,Other,43,Bhopal,Madhya Pradesh,305611,10/29/2025,Gold,Email
+543970,Arjun Joshi,arjun.joshi970@example.com,Other,42,Kanpur,Uttar Pradesh,721173,9/12/2024,Standard,Organic Search
+667446,Aanya Joshi,aanya.joshi446@example.com,Other,29,Indore,Madhya Pradesh,677746,2/22/2024,Silver,Organic Search
+172537,Priya Yadav,priya.yadav537@example.com,Female,46,Chennai,Tamil Nadu,894075,4/3/2024,Standard,Facebook
+313289,Nisha Saini,nisha.saini289@example.com,Other,32,Kolkata,West Bengal,524842,6/2/2024,Silver,Email
+283752,Rohan Malhotra,rohan.malhotra752@example.com,Female,50,Chandigarh,Chandigarh,585971,4/13/2023,Gold,Email
+389527,Vivaan Pandey,vivaan.pandey527@example.com,Female,26,Lucknow,Uttar Pradesh,613667,7/8/2023,Gold,Email
+260235,Isha Yadav,isha.yadav235@example.com,Other,35,Delhi,Delhi,572863,9/27/2024,Gold,Email
+597303,Rohan Patel,rohan.patel303@example.com,Male,22,Surat,Gujarat,579364,11/1/2024,Standard,Email
+914423,Kunal Patel,kunal.patel423@example.com,Other,22,Chandigarh,Chandigarh,205195,10/12/2023,Silver,Email
+109293,Ananya Saini,ananya.saini293@example.com,Female,57,Noida,Uttar Pradesh,596149,1/5/2025,Standard,Email
+840121,Riya Verma,riya.verma121@example.com,Other,54,Bengaluru,Karnataka,480210,9/5/2025,Standard,Google
+140872,Rahul Gupta,rahul.gupta872@example.com,Female,39,Agra,Uttar Pradesh,128000,10/30/2023,Silver,Google
+512876,Kavya Rana,kavya.rana876@example.com,Other,52,Bhopal,Madhya Pradesh,447114,7/28/2023,Gold,Google
+880089,Rahul Pandey,rahul.pandey89@example.com,Male,47,Mumbai,Maharashtra,791027,11/12/2025,Standard,Email
+842984,Aditya Gupta,aditya.gupta984@example.com,Male,33,Lucknow,Uttar Pradesh,356407,8/31/2024,Standard,Organic Search
+573470,Diya Tiwari,diya.tiwari470@example.com,Male,21,Delhi,Delhi,589114,1/27/2025,Silver,Email
+699460,Kunal Joshi,kunal.joshi460@example.com,Other,24,Bhopal,Madhya Pradesh,438425,1/6/2023,Standard,Organic Search
+373794,Ishaan Kumar,ishaan.kumar794@example.com,Male,32,Delhi,Delhi,529705,11/1/2025,Standard,Facebook
+833657,Rahul Yadav,rahul.yadav657@example.com,Other,21,Delhi,Delhi,770578,3/31/2025,Standard,Organic Search
+219333,Kabir Mishra,kabir.mishra333@example.com,Other,25,Indore,Madhya Pradesh,587527,7/14/2025,Standard,Google
+239442,Sneha Mishra,sneha.mishra442@example.com,Female,46,Kanpur,Uttar Pradesh,675271,3/4/2024,Gold,Email
+836799,Diya Agarwal,diya.agarwal799@example.com,Male,32,Surat,Gujarat,963216,4/26/2023,Standard,Email
+836726,Aanya Patel,aanya.patel726@example.com,Other,43,Chandigarh,Chandigarh,971383,3/28/2024,Gold,Email
+624474,Aditya Rana,aditya.rana474@example.com,Other,56,Ahmedabad,Gujarat,285719,5/24/2024,Silver,Referral
+241366,Aditya Gupta,aditya.gupta366@example.com,Female,55,Bhopal,Madhya Pradesh,271897,2/9/2024,Silver,Email
+973688,Diya Saxena,diya.saxena688@example.com,Other,43,Noida,Uttar Pradesh,143320,4/28/2024,Silver,Referral
+974353,Aanya Agarwal,aanya.agarwal353@example.com,Male,42,Bengaluru,Karnataka,545436,4/8/2025,Gold,Organic Search
+397067,Aanya Singh,aanya.singh67@example.com,Female,25,Hyderabad,Telangana,774235,10/14/2025,Standard,Email
+248796,Aditya Patel,aditya.patel796@example.com,Male,40,Bhopal,Madhya Pradesh,859048,11/13/2024,Standard,Organic Search
+711168,Isha Kapoor,isha.kapoor168@example.com,Male,39,Hyderabad,Telangana,502835,3/19/2024,Standard,Facebook
+857334,Priya Kapoor,priya.kapoor334@example.com,Female,40,Patna,Bihar,631599,3/21/2023,Silver,Organic Search
+418383,Isha Saxena,isha.saxena383@example.com,Female,33,Chandigarh,Chandigarh,505240,4/5/2025,Gold,Email
+960623,Aanya Saini,aanya.saini623@example.com,Male,35,Agra,Uttar Pradesh,686838,9/25/2024,Silver,Email
+811120,Kabir Singh,kabir.singh120@example.com,Female,43,Dehradun,Uttarakhand,565436,8/21/2024,Silver,Facebook
+473919,Kunal Singh,kunal.singh919@example.com,Female,26,Kanpur,Uttar Pradesh,352584,8/3/2025,Standard,Email
+540293,Pooja Mehta,pooja.mehta293@example.com,Male,27,Noida,Uttar Pradesh,964346,6/13/2024,Standard,Google
+369849,Diya Patel,diya.patel849@example.com,Other,37,Lucknow,Uttar Pradesh,179571,1/27/2024,Silver,Organic Search
+894273,Aditya Saxena,aditya.saxena273@example.com,Male,39,Lucknow,Uttar Pradesh,569980,11/2/2025,Standard,Organic Search
+110771,Priya Tiwari,priya.tiwari771@example.com,Male,22,Chandigarh,Chandigarh,179927,8/17/2023,Standard,Facebook
+974157,Meera Gupta,meera.gupta157@example.com,Female,23,Mumbai,Maharashtra,164923,9/24/2025,Gold,Email
+740254,Kavya Saxena,kavya.saxena254@example.com,Female,34,Patna,Bihar,803407,3/25/2023,Silver,Organic Search
+727852,Vivaan Agarwal,vivaan.agarwal852@example.com,Other,40,Patna,Bihar,138503,4/4/2024,Standard,Organic Search
+876495,Isha Mehta,isha.mehta495@example.com,Other,49,Bhopal,Madhya Pradesh,264297,5/10/2024,Standard,Referral
+752047,Ananya Pandey,ananya.pandey47@example.com,Female,25,Kanpur,Uttar Pradesh,827706,5/19/2025,Standard,Facebook
+339165,Aarav Verma,aarav.verma165@example.com,Male,60,Patna,Bihar,664833,6/2/2024,Standard,Referral
+154849,Rahul Singh,rahul.singh849@example.com,Female,44,Noida,Uttar Pradesh,362711,11/7/2024,Standard,Google
+568853,Aarav Tiwari,aarav.tiwari853@example.com,Male,30,Surat,Gujarat,579461,11/8/2023,Standard,Email
+474427,Aarav Mishra,aarav.mishra427@example.com,Male,60,Chennai,Tamil Nadu,926606,10/15/2024,Standard,Referral
+264130,Nisha Singh,nisha.singh130@example.com,Other,48,Patna,Bihar,646089,12/31/2023,Standard,Organic Search
+494214,Ananya Gupta,ananya.gupta214@example.com,Female,29,Bengaluru,Karnataka,225852,9/29/2025,Standard,Organic Search
+702571,Sneha Bansal,sneha.bansal571@example.com,Male,41,Mumbai,Maharashtra,565926,4/27/2024,Gold,Google
+482798,Diya Gupta,diya.gupta798@example.com,Other,33,Bengaluru,Karnataka,281502,5/24/2023,Platinum,Google
+849336,Diya Saxena,diya.saxena336@example.com,Other,55,Lucknow,Uttar Pradesh,741258,11/12/2023,Silver,Google
+285005,Diya Singh,diya.singh5@example.com,Male,33,Delhi,Delhi,692026,10/7/2023,Gold,Organic Search
+692763,Pooja Verma,pooja.verma763@example.com,Male,35,Bengaluru,Karnataka,237329,8/1/2023,Standard,Email
+878197,Kunal Chauhan,kunal.chauhan197@example.com,Male,38,Chennai,Tamil Nadu,241145,3/26/2024,Standard,Referral
+622399,Isha Verma,isha.verma399@example.com,Other,56,Pune,Maharashtra,767746,3/14/2024,Platinum,Email
+367847,Rohan Tiwari,rohan.tiwari847@example.com,Female,41,Ahmedabad,Gujarat,991988,6/17/2024,Standard,Email
+116941,Vivaan Yadav,vivaan.yadav941@example.com,Female,51,Ahmedabad,Gujarat,824034,5/30/2025,Standard,Google
+818394,Riya Saini,riya.saini394@example.com,Other,55,Delhi,Delhi,625747,2/1/2024,Standard,Email
+684808,Kabir Saini,kabir.saini808@example.com,Female,33,Jaipur,Rajasthan,413160,4/19/2023,Gold,Referral
+260397,Ananya Agarwal,ananya.agarwal397@example.com,Female,45,Delhi,Delhi,674382,4/25/2023,Silver,Organic Search
+340122,Meera Bansal,meera.bansal122@example.com,Male,31,Indore,Madhya Pradesh,609926,8/14/2025,Standard,Email
+776101,Aarav Sharma,aarav.sharma101@example.com,Female,56,Bengaluru,Karnataka,811406,9/24/2024,Standard,Organic Search
+342156,Meera Mishra,meera.mishra156@example.com,Male,27,Patna,Bihar,861950,11/1/2023,Standard,Email
+259386,Ishaan Verma,ishaan.verma386@example.com,Other,42,Pune,Maharashtra,789367,8/15/2023,Silver,Referral
+949770,Vivaan Mishra,vivaan.mishra770@example.com,Other,24,Hyderabad,Telangana,145960,7/12/2024,Silver,Email
+880612,Kabir Rana,kabir.rana612@example.com,Male,42,Ahmedabad,Gujarat,951746,6/27/2024,Silver,Email
+533778,Vivaan Sharma,vivaan.sharma778@example.com,Female,48,Hyderabad,Telangana,577738,12/12/2024,Standard,Organic Search
+520018,Diya Patel,diya.patel18@example.com,Male,55,Hyderabad,Telangana,854996,2/1/2024,Standard,Google
+649718,Kabir Mishra,kabir.mishra718@example.com,Female,57,Ahmedabad,Gujarat,505762,9/2/2024,Gold,Google
+122915,Meera Tiwari,meera.tiwari915@example.com,Female,43,Agra,Uttar Pradesh,193507,12/11/2024,Standard,Organic Search
+438661,Rohan Gupta,rohan.gupta661@example.com,Other,60,Surat,Gujarat,214454,8/13/2023,Standard,Google
+361219,Kunal Mehta,kunal.mehta219@example.com,Male,32,Chandigarh,Chandigarh,201430,1/2/2023,Standard,Google
+525432,Pooja Verma,pooja.verma432@example.com,Other,26,Mumbai,Maharashtra,376486,3/19/2023,Standard,Organic Search
+287243,Pooja Mishra,pooja.mishra243@example.com,Female,27,Patna,Bihar,355432,12/28/2023,Standard,Email
+789859,Vivaan Agarwal,vivaan.agarwal859@example.com,Female,27,Mumbai,Maharashtra,629633,4/4/2025,Standard,Email
+640584,Rohan Singh,rohan.singh584@example.com,Male,22,Ahmedabad,Gujarat,497942,3/23/2024,Gold,Organic Search
+386475,Aditya Tiwari,aditya.tiwari475@example.com,Other,33,Hyderabad,Telangana,939188,4/14/2023,Silver,Email
+866642,Nisha Verma,nisha.verma642@example.com,Other,20,Agra,Uttar Pradesh,801041,1/14/2023,Silver,Email
+317536,Vivaan Verma,vivaan.verma536@example.com,Male,37,Gurugram,Haryana,326034,3/22/2025,Silver,Organic Search
+338242,Isha Kumar,isha.kumar242@example.com,Male,59,Ahmedabad,Gujarat,536834,9/12/2023,Standard,Referral
+672088,Nisha Saini,nisha.saini88@example.com,Other,33,Kolkata,West Bengal,913276,12/8/2023,Standard,Referral
+544297,Pooja Malhotra,pooja.malhotra297@example.com,Female,33,Indore,Madhya Pradesh,860156,11/4/2025,Standard,Organic Search
+240836,Aanya Patel,aanya.patel836@example.com,Male,33,Pune,Maharashtra,891825,5/20/2023,Standard,Email
+616428,Arjun Joshi,arjun.joshi428@example.com,Other,21,Kolkata,West Bengal,422995,9/3/2023,Silver,Email
+341857,Kabir Verma,kabir.verma857@example.com,Other,42,Hyderabad,Telangana,433826,3/20/2025,Gold,Organic Search
+404238,Rohan Chauhan,rohan.chauhan238@example.com,Other,55,Chennai,Tamil Nadu,291301,8/10/2024,Silver,Facebook
+541357,Isha Tiwari,isha.tiwari357@example.com,Male,58,Delhi,Delhi,516514,2/11/2025,Silver,Referral
+709978,Priya Verma,priya.verma978@example.com,Female,20,Bhopal,Madhya Pradesh,548761,5/22/2024,Standard,Organic Search
+323225,Diya Singh,diya.singh225@example.com,Female,47,Chandigarh,Chandigarh,451864,12/18/2023,Standard,Email
+147843,Sneha Malhotra,sneha.malhotra843@example.com,Other,39,Chennai,Tamil Nadu,679025,1/7/2025,Standard,Organic Search
+490752,Pooja Mishra,pooja.mishra752@example.com,Other,49,Chandigarh,Chandigarh,248864,11/4/2025,Standard,Organic Search
+925321,Arjun Kumar,arjun.kumar321@example.com,Other,39,Delhi,Delhi,484256,1/28/2023,Standard,Google
+392801,Rohan Tiwari,rohan.tiwari801@example.com,Female,55,Ahmedabad,Gujarat,248303,12/19/2024,Standard,Email
+819020,Arjun Gupta,arjun.gupta20@example.com,Female,49,Dehradun,Uttarakhand,522237,2/11/2025,Standard,Referral
+814089,Kunal Sharma,kunal.sharma89@example.com,Female,20,Indore,Madhya Pradesh,728808,1/2/2025,Standard,Email
+786060,Nisha Mishra,nisha.mishra60@example.com,Other,58,Indore,Madhya Pradesh,487349,8/11/2023,Standard,Referral
+216431,Vivaan Saini,vivaan.saini431@example.com,Male,58,Noida,Uttar Pradesh,457189,9/16/2023,Silver,Facebook
+300843,Aarav Gupta,aarav.gupta843@example.com,Other,32,Chennai,Tamil Nadu,210739,4/11/2023,Standard,Email
+576382,Rohan Singh,rohan.singh382@example.com,Male,19,Patna,Bihar,618152,3/29/2023,Gold,Email
+807067,Diya Chauhan,diya.chauhan67@example.com,Male,38,Mumbai,Maharashtra,553627,8/12/2023,Standard,Referral
+366196,Sneha Mishra,sneha.mishra196@example.com,Male,31,Chennai,Tamil Nadu,113321,6/26/2024,Gold,Google
+402584,Ananya Saxena,ananya.saxena584@example.com,Male,38,Agra,Uttar Pradesh,416435,1/27/2025,Standard,Organic Search
+693270,Kunal Tiwari,kunal.tiwari270@example.com,Male,60,Bengaluru,Karnataka,868592,5/28/2023,Standard,Organic Search
+478476,Aditya Saini,aditya.saini476@example.com,Other,34,Delhi,Delhi,912465,4/26/2024,Standard,Google
+803793,Kunal Mehta,kunal.mehta793@example.com,Female,40,Patna,Bihar,990009,9/2/2024,Silver,Email
+776054,Nisha Rana,nisha.rana54@example.com,Male,43,Chennai,Tamil Nadu,971985,5/1/2023,Gold,Organic Search
+865486,Pooja Singh,pooja.singh486@example.com,Other,43,Ahmedabad,Gujarat,888109,6/12/2025,Standard,Email
+761954,Ananya Sharma,ananya.sharma954@example.com,Other,32,Kolkata,West Bengal,127621,4/19/2024,Standard,Facebook
+997392,Priya Kapoor,priya.kapoor392@example.com,Male,59,Indore,Madhya Pradesh,114601,2/19/2025,Standard,Google
+617985,Meera Patel,meera.patel985@example.com,Other,25,Indore,Madhya Pradesh,727425,1/5/2025,Gold,Email
+167700,Ishaan Singh,ishaan.singh700@example.com,Female,47,Jaipur,Rajasthan,729833,2/1/2023,Standard,Referral
+154844,Ananya Singh,ananya.singh844@example.com,Female,41,Ahmedabad,Gujarat,392088,5/18/2024,Standard,Facebook
+330319,Kunal Saini,kunal.saini319@example.com,Other,21,Noida,Uttar Pradesh,264993,11/8/2024,Standard,Facebook
+536588,Ishaan Singh,ishaan.singh588@example.com,Other,26,Noida,Uttar Pradesh,333795,5/21/2025,Silver,Organic Search
+672651,Pooja Malhotra,pooja.malhotra651@example.com,Female,53,Agra,Uttar Pradesh,944393,12/21/2024,Standard,Facebook
+380827,Vivaan Saxena,vivaan.saxena827@example.com,Male,23,Gurugram,Haryana,471236,8/19/2025,Silver,Organic Search
+499986,Ishaan Malhotra,ishaan.malhotra986@example.com,Female,58,Pune,Maharashtra,809593,9/30/2024,Silver,Referral
+488306,Isha Rana,isha.rana306@example.com,Male,18,Kanpur,Uttar Pradesh,919574,7/31/2023,Silver,Email
+908443,Diya Kumar,diya.kumar443@example.com,Other,35,Noida,Uttar Pradesh,526832,5/28/2025,Silver,Organic Search
+448119,Vivaan Singh,vivaan.singh119@example.com,Male,18,Noida,Uttar Pradesh,160659,4/2/2025,Standard,Email
+531805,Arjun Kapoor,arjun.kapoor805@example.com,Other,56,Dehradun,Uttarakhand,604594,2/14/2023,Gold,Email
+716821,Ishaan Kapoor,ishaan.kapoor821@example.com,Female,27,Noida,Uttar Pradesh,544329,3/5/2024,Standard,Organic Search
+223105,Meera Kapoor,meera.kapoor105@example.com,Male,19,Hyderabad,Telangana,707203,6/6/2023,Standard,Organic Search
+893048,Nisha Verma,nisha.verma48@example.com,Male,57,Dehradun,Uttarakhand,488373,2/23/2023,Standard,Referral
+930283,Meera Sharma,meera.sharma283@example.com,Female,39,Jaipur,Rajasthan,519888,12/25/2024,Silver,Email
+747379,Kabir Singh,kabir.singh379@example.com,Other,22,Patna,Bihar,803385,9/10/2025,Silver,Referral
+736243,Kunal Saxena,kunal.saxena243@example.com,Female,54,Chennai,Tamil Nadu,760397,6/30/2023,Standard,Organic Search
+326173,Rahul Saini,rahul.saini173@example.com,Female,50,Chennai,Tamil Nadu,994833,9/23/2025,Gold,Google
+523792,Ishaan Bansal,ishaan.bansal792@example.com,Other,21,Pune,Maharashtra,221152,9/2/2023,Standard,Email
+430716,Priya Pandey,priya.pandey716@example.com,Male,19,Gurugram,Haryana,770119,4/9/2024,Silver,Email
+256923,Ishaan Verma,ishaan.verma923@example.com,Male,30,Kolkata,West Bengal,325000,8/4/2024,Standard,Facebook
+249081,Aditya Singh,aditya.singh81@example.com,Other,29,Chennai,Tamil Nadu,611344,7/10/2025,Standard,Email
+660668,Kunal Patel,kunal.patel668@example.com,Male,52,Agra,Uttar Pradesh,799195,11/1/2024,Standard,Facebook
+991398,Sneha Bansal,sneha.bansal398@example.com,Female,25,Surat,Gujarat,808368,12/15/2023,Standard,Organic Search
+740148,Riya Mishra,riya.mishra148@example.com,Male,25,Gurugram,Haryana,526908,5/28/2023,Standard,Organic Search
+817716,Isha Pandey,isha.pandey716@example.com,Male,29,Gurugram,Haryana,515469,10/28/2025,Standard,Google
+887009,Sneha Mishra,sneha.mishra9@example.com,Female,18,Agra,Uttar Pradesh,357201,7/22/2025,Standard,Referral
+867807,Kunal Kumar,kunal.kumar807@example.com,Female,53,Bhopal,Madhya Pradesh,607927,1/18/2025,Gold,Organic Search
+855488,Kunal Saxena,kunal.saxena488@example.com,Male,60,Delhi,Delhi,406660,7/11/2024,Standard,Email
+389335,Nisha Kapoor,nisha.kapoor335@example.com,Female,30,Delhi,Delhi,379429,1/25/2025,Standard,Email
+975272,Rahul Tiwari,rahul.tiwari272@example.com,Female,56,Gurugram,Haryana,558110,1/24/2023,Silver,Email
+760750,Aditya Verma,aditya.verma750@example.com,Other,40,Agra,Uttar Pradesh,729016,4/13/2023,Standard,Google
+516090,Ishaan Patel,ishaan.patel90@example.com,Other,24,Noida,Uttar Pradesh,375337,11/5/2024,Gold,Organic Search
+356054,Rahul Verma,rahul.verma54@example.com,Other,32,Bhopal,Madhya Pradesh,246056,2/2/2023,Standard,Facebook
+648616,Aditya Gupta,aditya.gupta616@example.com,Other,51,Indore,Madhya Pradesh,530018,12/31/2023,Silver,Organic Search
+830919,Kunal Mehta,kunal.mehta919@example.com,Other,19,Bhopal,Madhya Pradesh,916668,5/11/2024,Silver,Facebook
+956479,Kavya Saxena,kavya.saxena479@example.com,Male,28,Jaipur,Rajasthan,483264,11/23/2024,Standard,Email
+595183,Aanya Sharma,aanya.sharma183@example.com,Male,20,Lucknow,Uttar Pradesh,308302,7/15/2024,Standard,Facebook
+958172,Meera Agarwal,meera.agarwal172@example.com,Female,51,Ahmedabad,Gujarat,223438,11/28/2023,Standard,Referral
+786618,Rohan Mehta,rohan.mehta618@example.com,Male,50,Pune,Maharashtra,753699,10/8/2025,Standard,Organic Search
+803722,Kavya Saini,kavya.saini722@example.com,Female,51,Jaipur,Rajasthan,691508,4/19/2024,Silver,Google
+138919,Diya Bansal,diya.bansal919@example.com,Other,37,Lucknow,Uttar Pradesh,111701,4/10/2023,Standard,Organic Search
+214888,Vivaan Saxena,vivaan.saxena888@example.com,Other,44,Delhi,Delhi,461901,4/15/2023,Silver,Google
+803003,Nisha Mishra,nisha.mishra3@example.com,Male,39,Dehradun,Uttarakhand,938462,9/9/2025,Silver,Facebook
+970109,Nisha Saxena,nisha.saxena109@example.com,Other,34,Noida,Uttar Pradesh,899828,4/12/2024,Standard,Referral
+293739,Aditya Mehta,aditya.mehta739@example.com,Other,32,Bengaluru,Karnataka,244782,10/31/2024,Standard,Organic Search
+307012,Diya Verma,diya.verma12@example.com,Male,52,Dehradun,Uttarakhand,640608,12/24/2024,Standard,Organic Search
+205468,Sneha Chauhan,sneha.chauhan468@example.com,Other,35,Dehradun,Uttarakhand,166396,5/15/2025,Standard,Google
+350978,Kunal Mishra,kunal.mishra978@example.com,Other,35,Kolkata,West Bengal,708047,10/1/2025,Silver,Organic Search
+288424,Riya Kumar,riya.kumar424@example.com,Female,25,Noida,Uttar Pradesh,296560,3/15/2024,Standard,Organic Search
+173358,Isha Kapoor,isha.kapoor358@example.com,Male,49,Kolkata,West Bengal,511623,9/27/2025,Standard,Referral
+852347,Aditya Mehta,aditya.mehta347@example.com,Male,18,Bhopal,Madhya Pradesh,280157,5/15/2023,Platinum,Email
+526575,Vivaan Agarwal,vivaan.agarwal575@example.com,Male,41,Patna,Bihar,677654,1/24/2025,Standard,Organic Search
+735671,Sneha Verma,sneha.verma671@example.com,Female,46,Lucknow,Uttar Pradesh,928455,8/5/2024,Gold,Google
+907919,Kunal Saini,kunal.saini919@example.com,Male,29,Indore,Madhya Pradesh,542121,10/12/2024,Standard,Email
+810973,Meera Mehta,meera.mehta973@example.com,Female,34,Ahmedabad,Gujarat,709430,5/10/2025,Standard,Google
+227894,Aanya Verma,aanya.verma894@example.com,Male,46,Agra,Uttar Pradesh,705012,2/18/2023,Gold,Referral
+122304,Rohan Mehta,rohan.mehta304@example.com,Male,47,Ahmedabad,Gujarat,286945,11/1/2025,Silver,Email
+960185,Kunal Chauhan,kunal.chauhan185@example.com,Other,23,Noida,Uttar Pradesh,922151,12/30/2024,Standard,Email
+341994,Vivaan Saini,vivaan.saini994@example.com,Other,47,Pune,Maharashtra,916424,9/15/2025,Standard,Facebook
+221746,Meera Bansal,meera.bansal746@example.com,Female,46,Bhopal,Madhya Pradesh,146338,10/6/2024,Standard,Email
+448820,Riya Agarwal,riya.agarwal820@example.com,Male,49,Surat,Gujarat,653346,2/1/2023,Standard,Organic Search
+757676,Kabir Rana,kabir.rana676@example.com,Male,27,Surat,Gujarat,758414,7/25/2023,Standard,Organic Search
+562249,Diya Mehta,diya.mehta249@example.com,Male,28,Mumbai,Maharashtra,273696,10/12/2023,Standard,Google
+996313,Kabir Saini,kabir.saini313@example.com,Female,31,Mumbai,Maharashtra,383796,4/7/2025,Standard,Organic Search
+527581,Rohan Saini,rohan.saini581@example.com,Male,47,Kolkata,West Bengal,688348,12/16/2023,Standard,Google
+434646,Arjun Sharma,arjun.sharma646@example.com,Female,34,Noida,Uttar Pradesh,914850,6/17/2023,Platinum,Referral
+447263,Kavya Joshi,kavya.joshi263@example.com,Other,57,Indore,Madhya Pradesh,862503,1/15/2025,Standard,Organic Search
+336922,Sneha Kumar,sneha.kumar922@example.com,Male,30,Indore,Madhya Pradesh,484308,8/27/2023,Standard,Organic Search
+866685,Arjun Kumar,arjun.kumar685@example.com,Male,58,Bengaluru,Karnataka,870215,2/16/2025,Standard,Facebook
+881909,Meera Rana,meera.rana909@example.com,Male,25,Ahmedabad,Gujarat,368717,12/8/2023,Standard,Email
+230862,Rahul Verma,rahul.verma862@example.com,Male,31,Pune,Maharashtra,860028,2/26/2023,Standard,Email
+738158,Aarav Bansal,aarav.bansal158@example.com,Male,45,Lucknow,Uttar Pradesh,368588,3/29/2025,Gold,Email
+207682,Nisha Joshi,nisha.joshi682@example.com,Male,36,Ahmedabad,Gujarat,377521,4/26/2023,Gold,Google
+385443,Nisha Rana,nisha.rana443@example.com,Other,27,Jaipur,Rajasthan,780143,12/6/2024,Standard,Organic Search
+310577,Ishaan Saxena,ishaan.saxena577@example.com,Male,46,Indore,Madhya Pradesh,742202,8/6/2024,Standard,Organic Search
+230573,Nisha Agarwal,nisha.agarwal573@example.com,Other,34,Bengaluru,Karnataka,822959,1/27/2024,Standard,Organic Search
+710022,Nisha Sharma,nisha.sharma22@example.com,Male,22,Mumbai,Maharashtra,994717,11/22/2024,Standard,Organic Search
+174730,Isha Bansal,isha.bansal730@example.com,Other,59,Bengaluru,Karnataka,723344,7/31/2024,Standard,Google
+261879,Pooja Joshi,pooja.joshi879@example.com,Other,39,Agra,Uttar Pradesh,975858,2/19/2024,Standard,Referral
+877658,Aditya Joshi,aditya.joshi658@example.com,Other,39,Gurugram,Haryana,959239,7/29/2024,Standard,Organic Search
+195897,Aarav Kumar,aarav.kumar897@example.com,Female,27,Gurugram,Haryana,919351,10/10/2023,Standard,Email
+621743,Aanya Patel,aanya.patel743@example.com,Other,60,Pune,Maharashtra,704429,8/23/2024,Gold,Organic Search
+963999,Arjun Kapoor,arjun.kapoor999@example.com,Female,31,Pune,Maharashtra,546916,4/1/2024,Standard,Email
+124847,Meera Malhotra,meera.malhotra847@example.com,Female,29,Jaipur,Rajasthan,604999,8/5/2025,Standard,Email
+676785,Diya Yadav,diya.yadav785@example.com,Other,31,Kolkata,West Bengal,116853,1/29/2024,Standard,Email
+565131,Arjun Verma,arjun.verma131@example.com,Female,59,Bhopal,Madhya Pradesh,755842,11/22/2023,Standard,Organic Search
+873750,Rohan Bansal,rohan.bansal750@example.com,Male,58,Bhopal,Madhya Pradesh,927741,1/18/2024,Standard,Organic Search
+510402,Ananya Mishra,ananya.mishra402@example.com,Other,26,Dehradun,Uttarakhand,558197,5/14/2023,Platinum,Email
+772989,Isha Verma,isha.verma989@example.com,Other,57,Ahmedabad,Gujarat,281280,3/15/2024,Standard,Google
+350374,Arjun Saini,arjun.saini374@example.com,Female,27,Patna,Bihar,219879,5/6/2023,Standard,Google
+597790,Nisha Kumar,nisha.kumar790@example.com,Male,22,Chandigarh,Chandigarh,616317,9/22/2023,Standard,Email
+358765,Diya Mehta,diya.mehta765@example.com,Male,23,Gurugram,Haryana,771172,9/25/2023,Standard,Email
+476528,Aarav Sharma,aarav.sharma528@example.com,Female,43,Pune,Maharashtra,803402,8/11/2023,Silver,Email
+216575,Rohan Bansal,rohan.bansal575@example.com,Male,18,Patna,Bihar,865365,10/21/2024,Standard,Facebook
+761031,Aarav Agarwal,aarav.agarwal31@example.com,Male,40,Chandigarh,Chandigarh,200401,2/11/2024,Standard,Google
+982099,Isha Joshi,isha.joshi99@example.com,Female,32,Lucknow,Uttar Pradesh,506568,11/11/2023,Silver,Facebook
+329594,Aanya Bansal,aanya.bansal594@example.com,Female,50,Kolkata,West Bengal,230403,6/1/2023,Standard,Organic Search
+476847,Rohan Yadav,rohan.yadav847@example.com,Female,37,Delhi,Delhi,180268,9/29/2025,Standard,Google
+451891,Ishaan Sharma,ishaan.sharma891@example.com,Male,29,Hyderabad,Telangana,201231,10/13/2024,Gold,Email
+935118,Aanya Singh,aanya.singh118@example.com,Female,26,Lucknow,Uttar Pradesh,549928,6/23/2023,Gold,Email
+767702,Aarav Malhotra,aarav.malhotra702@example.com,Male,31,Bengaluru,Karnataka,555224,7/28/2023,Standard,Google
+690798,Ishaan Mehta,ishaan.mehta798@example.com,Male,30,Bengaluru,Karnataka,233950,11/16/2023,Gold,Email
+245374,Diya Rana,diya.rana374@example.com,Female,36,Gurugram,Haryana,899821,7/20/2023,Standard,Facebook
+170188,Aditya Joshi,aditya.joshi188@example.com,Male,59,Chandigarh,Chandigarh,638011,8/17/2023,Gold,Email
+244843,Ananya Pandey,ananya.pandey843@example.com,Other,41,Delhi,Delhi,115723,6/7/2025,Gold,Email
+895391,Aditya Kapoor,aditya.kapoor391@example.com,Female,26,Patna,Bihar,484824,10/21/2025,Standard,Email
+159562,Ananya Tiwari,ananya.tiwari562@example.com,Other,24,Lucknow,Uttar Pradesh,188254,9/11/2024,Standard,Email
+940941,Kabir Gupta,kabir.gupta941@example.com,Other,41,Chandigarh,Chandigarh,431902,9/1/2025,Silver,Email
+639530,Rohan Saxena,rohan.saxena530@example.com,Male,45,Hyderabad,Telangana,562762,8/2/2025,Silver,Organic Search
+981945,Isha Verma,isha.verma945@example.com,Other,21,Noida,Uttar Pradesh,573071,9/14/2023,Gold,Email
+709721,Isha Joshi,isha.joshi721@example.com,Male,53,Chennai,Tamil Nadu,466253,12/23/2024,Platinum,Facebook
+929887,Rahul Malhotra,rahul.malhotra887@example.com,Other,29,Surat,Gujarat,208619,6/22/2025,Standard,Google
+653662,Kunal Patel,kunal.patel662@example.com,Male,41,Patna,Bihar,675211,2/1/2023,Standard,Facebook
+670647,Aditya Rana,aditya.rana647@example.com,Female,29,Bhopal,Madhya Pradesh,193861,10/21/2023,Standard,Google
+127970,Rahul Malhotra,rahul.malhotra970@example.com,Other,40,Gurugram,Haryana,190640,5/6/2025,Standard,Referral
+196304,Arjun Pandey,arjun.pandey304@example.com,Female,54,Indore,Madhya Pradesh,816839,11/14/2023,Standard,Organic Search
+592828,Vivaan Patel,vivaan.patel828@example.com,Other,45,Ahmedabad,Gujarat,876236,10/25/2024,Silver,Organic Search
+458899,Rohan Verma,rohan.verma899@example.com,Other,22,Dehradun,Uttarakhand,320380,7/15/2024,Standard,Organic Search
+678562,Kavya Joshi,kavya.joshi562@example.com,Female,29,Jaipur,Rajasthan,539636,9/24/2023,Gold,Organic Search
+363905,Kabir Mishra,kabir.mishra905@example.com,Other,42,Agra,Uttar Pradesh,985260,6/2/2023,Standard,Google
+657327,Nisha Malhotra,nisha.malhotra327@example.com,Male,47,Noida,Uttar Pradesh,215481,7/11/2023,Silver,Referral
+651993,Meera Joshi,meera.joshi993@example.com,Female,54,Gurugram,Haryana,351338,6/13/2024,Gold,Organic Search
+715924,Kavya Bansal,kavya.bansal924@example.com,Male,36,Surat,Gujarat,979689,12/6/2023,Silver,Email
+633588,Aarav Sharma,aarav.sharma588@example.com,Male,51,Dehradun,Uttarakhand,793670,9/3/2025,Standard,Google
+346599,Aarav Saxena,aarav.saxena599@example.com,Male,18,Chennai,Tamil Nadu,502977,3/7/2025,Silver,Organic Search
+966952,Kabir Bansal,kabir.bansal952@example.com,Other,50,Kanpur,Uttar Pradesh,429628,12/30/2023,Silver,Organic Search
+519305,Arjun Sharma,arjun.sharma305@example.com,Female,47,Kanpur,Uttar Pradesh,876102,8/18/2025,Standard,Email
+690186,Kunal Joshi,kunal.joshi186@example.com,Female,48,Bhopal,Madhya Pradesh,777133,2/22/2023,Platinum,Referral
+161766,Vivaan Kapoor,vivaan.kapoor766@example.com,Other,47,Indore,Madhya Pradesh,242600,7/8/2025,Standard,Google
+324934,Kavya Rana,kavya.rana934@example.com,Female,42,Dehradun,Uttarakhand,170155,1/6/2025,Standard,Email
+138899,Rohan Saxena,rohan.saxena899@example.com,Male,38,Ahmedabad,Gujarat,824610,8/19/2025,Standard,Referral
+609128,Sneha Gupta,sneha.gupta128@example.com,Female,21,Surat,Gujarat,545309,10/7/2024,Silver,Google
+825262,Rahul Singh,rahul.singh262@example.com,Female,27,Agra,Uttar Pradesh,544438,1/20/2024,Silver,Google
+716164,Kavya Yadav,kavya.yadav164@example.com,Other,51,Agra,Uttar Pradesh,428249,7/10/2024,Silver,Organic Search
+355741,Meera Agarwal,meera.agarwal741@example.com,Male,44,Jaipur,Rajasthan,954023,9/19/2025,Standard,Google
+583381,Diya Malhotra,diya.malhotra381@example.com,Female,23,Chennai,Tamil Nadu,914400,6/5/2023,Standard,Organic Search
+372198,Riya Gupta,riya.gupta198@example.com,Female,55,Noida,Uttar Pradesh,940184,9/13/2025,Standard,Referral
+237725,Vivaan Chauhan,vivaan.chauhan725@example.com,Other,56,Bengaluru,Karnataka,198326,2/28/2025,Standard,Organic Search
+841590,Vivaan Saini,vivaan.saini590@example.com,Female,47,Bengaluru,Karnataka,925331,1/23/2024,Silver,Organic Search
+227906,Kunal Chauhan,kunal.chauhan906@example.com,Female,24,Chennai,Tamil Nadu,952881,7/7/2024,Silver,Organic Search
+746559,Ishaan Mishra,ishaan.mishra559@example.com,Female,53,Jaipur,Rajasthan,502343,5/30/2025,Silver,Referral
+432824,Ishaan Chauhan,ishaan.chauhan824@example.com,Female,43,Indore,Madhya Pradesh,168927,7/2/2024,Gold,Google
+918653,Aditya Malhotra,aditya.malhotra653@example.com,Other,31,Mumbai,Maharashtra,431348,8/8/2023,Standard,Referral
+293350,Aditya Joshi,aditya.joshi350@example.com,Other,30,Lucknow,Uttar Pradesh,896357,11/29/2023,Standard,Email
+539632,Diya Joshi,diya.joshi632@example.com,Other,59,Bengaluru,Karnataka,411276,9/19/2023,Standard,Google
+887831,Ishaan Bansal,ishaan.bansal831@example.com,Female,20,Delhi,Delhi,960782,3/14/2023,Standard,Organic Search
+771437,Sneha Malhotra,sneha.malhotra437@example.com,Female,47,Patna,Bihar,856770,7/3/2025,Platinum,Email
+131599,Rahul Saxena,rahul.saxena599@example.com,Other,42,Ahmedabad,Gujarat,141191,12/7/2024,Gold,Referral
+473007,Sneha Mehta,sneha.mehta7@example.com,Female,57,Kanpur,Uttar Pradesh,861400,1/6/2024,Gold,Google
+542316,Diya Gupta,diya.gupta316@example.com,Female,36,Bhopal,Madhya Pradesh,528393,8/4/2025,Silver,Email
+927572,Meera Joshi,meera.joshi572@example.com,Male,26,Dehradun,Uttarakhand,806792,6/16/2023,Standard,Email
+202784,Nisha Yadav,nisha.yadav784@example.com,Female,38,Patna,Bihar,341225,6/12/2024,Standard,Organic Search
+712089,Aarav Chauhan,aarav.chauhan89@example.com,Female,54,Chennai,Tamil Nadu,715908,3/14/2023,Standard,Organic Search
+328078,Kabir Singh,kabir.singh78@example.com,Female,29,Gurugram,Haryana,555395,6/21/2023,Standard,Organic Search
+684127,Riya Mishra,riya.mishra127@example.com,Female,47,Jaipur,Rajasthan,209717,5/2/2024,Standard,Google
+523628,Pooja Saini,pooja.saini628@example.com,Female,43,Dehradun,Uttarakhand,372023,4/10/2023,Platinum,Google
+747744,Sneha Verma,sneha.verma744@example.com,Male,44,Lucknow,Uttar Pradesh,586280,11/1/2025,Silver,Facebook
+418116,Aarav Saini,aarav.saini116@example.com,Male,56,Kolkata,West Bengal,834123,7/21/2024,Gold,Email
+470826,Ishaan Sharma,ishaan.sharma826@example.com,Other,21,Hyderabad,Telangana,297431,11/19/2023,Gold,Email
+202023,Rohan Singh,rohan.singh23@example.com,Female,28,Pune,Maharashtra,826303,3/7/2023,Standard,Email
+446213,Kavya Verma,kavya.verma213@example.com,Male,52,Kolkata,West Bengal,958087,9/7/2025,Platinum,Email
+214250,Isha Verma,isha.verma250@example.com,Male,49,Dehradun,Uttarakhand,141221,7/16/2024,Standard,Organic Search
+592698,Meera Bansal,meera.bansal698@example.com,Female,49,Bengaluru,Karnataka,472538,2/18/2024,Standard,Facebook
+952946,Vivaan Bansal,vivaan.bansal946@example.com,Male,56,Bhopal,Madhya Pradesh,659229,7/23/2023,Gold,Organic Search
+274076,Riya Rana,riya.rana76@example.com,Other,38,Patna,Bihar,894147,8/25/2023,Silver,Organic Search
+568344,Meera Joshi,meera.joshi344@example.com,Female,37,Kolkata,West Bengal,723259,12/14/2023,Gold,Referral
+549899,Arjun Singh,arjun.singh899@example.com,Other,21,Pune,Maharashtra,499020,12/10/2024,Gold,Organic Search
+464372,Pooja Verma,pooja.verma372@example.com,Male,51,Noida,Uttar Pradesh,567721,11/20/2024,Standard,Google
+196816,Arjun Kumar,arjun.kumar816@example.com,Male,60,Bengaluru,Karnataka,169112,1/31/2024,Silver,Organic Search
+215632,Rohan Agarwal,rohan.agarwal632@example.com,Female,51,Mumbai,Maharashtra,981475,4/30/2025,Silver,Organic Search
+981767,Arjun Sharma,arjun.sharma767@example.com,Female,30,Delhi,Delhi,968254,4/27/2024,Standard,Organic Search
+805105,Vivaan Rana,vivaan.rana105@example.com,Male,36,Delhi,Delhi,796533,5/27/2023,Standard,Organic Search
+820192,Kunal Joshi,kunal.joshi192@example.com,Female,42,Jaipur,Rajasthan,725274,5/26/2025,Gold,Email
+633645,Aarav Kumar,aarav.kumar645@example.com,Male,39,Delhi,Delhi,588995,12/12/2023,Platinum,Organic Search
+352002,Priya Singh,priya.singh2@example.com,Female,40,Lucknow,Uttar Pradesh,584371,1/30/2025,Silver,Organic Search
+356925,Meera Pandey,meera.pandey925@example.com,Female,39,Pune,Maharashtra,833241,11/20/2023,Standard,Facebook
+501054,Kunal Verma,kunal.verma54@example.com,Other,25,Jaipur,Rajasthan,390432,3/8/2025,Silver,Organic Search
+574178,Nisha Gupta,nisha.gupta178@example.com,Male,55,Kanpur,Uttar Pradesh,686863,11/19/2023,Silver,Facebook
+897543,Diya Mehta,diya.mehta543@example.com,Other,44,Delhi,Delhi,848409,7/21/2025,Silver,Organic Search
+990242,Ananya Mishra,ananya.mishra242@example.com,Female,28,Dehradun,Uttarakhand,417141,4/26/2024,Standard,Organic Search
+956768,Rohan Gupta,rohan.gupta768@example.com,Male,27,Lucknow,Uttar Pradesh,538811,5/1/2023,Standard,Facebook
+512242,Rahul Saini,rahul.saini242@example.com,Female,52,Kanpur,Uttar Pradesh,259135,2/22/2024,Silver,Email
+615701,Nisha Kumar,nisha.kumar701@example.com,Male,29,Mumbai,Maharashtra,272336,1/14/2023,Platinum,Referral
+153320,Riya Malhotra,riya.malhotra320@example.com,Male,44,Kolkata,West Bengal,518257,5/18/2024,Standard,Email
+893201,Rahul Chauhan,rahul.chauhan201@example.com,Male,50,Ahmedabad,Gujarat,329460,5/9/2025,Gold,Organic Search
+646860,Aanya Kapoor,aanya.kapoor860@example.com,Female,18,Bengaluru,Karnataka,589190,9/9/2023,Platinum,Facebook
+812618,Isha Bansal,isha.bansal618@example.com,Other,31,Mumbai,Maharashtra,505825,12/21/2023,Standard,Email
+822307,Arjun Patel,arjun.patel307@example.com,Male,29,Jaipur,Rajasthan,585444,5/12/2025,Platinum,Email
+987335,Meera Patel,meera.patel335@example.com,Male,50,Delhi,Delhi,527969,10/25/2025,Gold,Organic Search
+261000,Aditya Yadav,aditya.yadav0@example.com,Male,34,Pune,Maharashtra,656469,2/16/2024,Standard,Google
+523429,Kabir Malhotra,kabir.malhotra429@example.com,Female,51,Bhopal,Madhya Pradesh,278385,2/6/2025,Standard,Organic Search
+490220,Pooja Singh,pooja.singh220@example.com,Male,59,Pune,Maharashtra,840081,12/16/2023,Standard,Email
+356819,Diya Saini,diya.saini819@example.com,Female,52,Chennai,Tamil Nadu,640192,2/27/2024,Standard,Email
+374489,Priya Malhotra,priya.malhotra489@example.com,Male,28,Hyderabad,Telangana,936543,7/1/2025,Gold,Organic Search
+608806,Priya Sharma,priya.sharma806@example.com,Other,40,Bengaluru,Karnataka,952140,5/2/2024,Standard,Organic Search
+332911,Vivaan Patel,vivaan.patel911@example.com,Other,54,Mumbai,Maharashtra,393563,4/16/2024,Standard,Google
+802424,Ishaan Kumar,ishaan.kumar424@example.com,Other,59,Delhi,Delhi,843871,7/27/2024,Standard,Email
+338228,Sneha Pandey,sneha.pandey228@example.com,Female,24,Delhi,Delhi,127928,1/17/2024,Standard,Facebook
+811702,Rohan Kumar,rohan.kumar702@example.com,Female,60,Bengaluru,Karnataka,484206,9/1/2024,Standard,Google
+978258,Diya Tiwari,diya.tiwari258@example.com,Other,25,Kolkata,West Bengal,473810,11/24/2024,Silver,Email
+927997,Meera Bansal,meera.bansal997@example.com,Female,22,Delhi,Delhi,349179,9/13/2023,Silver,Facebook
+640791,Nisha Rana,nisha.rana791@example.com,Other,46,Indore,Madhya Pradesh,778199,10/17/2023,Gold,Email
+416183,Meera Chauhan,meera.chauhan183@example.com,Female,21,Mumbai,Maharashtra,143377,6/22/2023,Standard,Referral
+920890,Aarav Chauhan,aarav.chauhan890@example.com,Male,30,Chandigarh,Chandigarh,228079,11/17/2024,Silver,Facebook
+262411,Ananya Rana,ananya.rana411@example.com,Other,45,Ahmedabad,Gujarat,595223,5/29/2025,Standard,Organic Search
+790847,Arjun Verma,arjun.verma847@example.com,Other,38,Chennai,Tamil Nadu,881024,11/15/2025,Silver,Email
+444560,Aarav Singh,aarav.singh560@example.com,Other,39,Hyderabad,Telangana,400743,5/18/2024,Standard,Google
+151549,Aarav Yadav,aarav.yadav549@example.com,Female,31,Bengaluru,Karnataka,195955,11/13/2024,Standard,Google
+922083,Meera Pandey,meera.pandey83@example.com,Female,52,Noida,Uttar Pradesh,985734,12/19/2024,Standard,Email
+246108,Priya Mehta,priya.mehta108@example.com,Female,26,Kolkata,West Bengal,672782,10/5/2025,Standard,Google
+912512,Isha Chauhan,isha.chauhan512@example.com,Female,37,Patna,Bihar,628684,10/19/2024,Standard,Email
+327130,Ishaan Kumar,ishaan.kumar130@example.com,Male,38,Indore,Madhya Pradesh,438275,6/26/2023,Standard,Google
+395350,Ishaan Mishra,ishaan.mishra350@example.com,Female,34,Jaipur,Rajasthan,921243,1/30/2025,Gold,Referral
+645293,Kunal Yadav,kunal.yadav293@example.com,Other,36,Dehradun,Uttarakhand,634954,9/10/2025,Standard,Organic Search
+797144,Rahul Mehta,rahul.mehta144@example.com,Female,39,Ahmedabad,Gujarat,837514,1/1/2024,Standard,Organic Search
+823165,Ananya Saxena,ananya.saxena165@example.com,Other,48,Jaipur,Rajasthan,240501,4/2/2025,Silver,Email
+421239,Ishaan Tiwari,ishaan.tiwari239@example.com,Other,23,Chandigarh,Chandigarh,933235,10/17/2024,Standard,Referral
+782974,Aarav Malhotra,aarav.malhotra974@example.com,Female,33,Noida,Uttar Pradesh,383863,5/27/2023,Standard,Email
+760790,Kunal Mehta,kunal.mehta790@example.com,Female,23,Indore,Madhya Pradesh,565922,3/20/2025,Silver,Organic Search
+346882,Kunal Yadav,kunal.yadav882@example.com,Male,44,Indore,Madhya Pradesh,400814,3/27/2023,Silver,Email
+389367,Aarav Sharma,aarav.sharma367@example.com,Other,20,Mumbai,Maharashtra,233197,7/29/2023,Silver,Email
+598101,Kabir Saxena,kabir.saxena101@example.com,Other,55,Mumbai,Maharashtra,931498,11/18/2024,Silver,Organic Search
+119318,Rohan Bansal,rohan.bansal318@example.com,Other,42,Chennai,Tamil Nadu,434195,4/22/2024,Standard,Organic Search
+310806,Diya Agarwal,diya.agarwal806@example.com,Male,45,Bengaluru,Karnataka,619083,1/12/2023,Standard,Email
+783481,Kunal Saini,kunal.saini481@example.com,Female,35,Pune,Maharashtra,315205,2/13/2024,Standard,Organic Search
+760608,Meera Yadav,meera.yadav608@example.com,Other,34,Bengaluru,Karnataka,424591,10/29/2025,Gold,Referral
+643975,Kunal Malhotra,kunal.malhotra975@example.com,Female,36,Kolkata,West Bengal,167293,1/21/2025,Silver,Email
+384891,Meera Kumar,meera.kumar891@example.com,Female,18,Patna,Bihar,849733,9/9/2025,Silver,Google
+650203,Rahul Gupta,rahul.gupta203@example.com,Female,32,Bhopal,Madhya Pradesh,925703,6/20/2025,Standard,Referral
+101304,Diya Bansal,diya.bansal304@example.com,Other,26,Hyderabad,Telangana,403020,8/13/2024,Platinum,Organic Search
+790254,Sneha Agarwal,sneha.agarwal254@example.com,Male,59,Lucknow,Uttar Pradesh,974092,9/22/2024,Silver,Email
+741356,Rohan Pandey,rohan.pandey356@example.com,Other,33,Kanpur,Uttar Pradesh,311109,5/15/2023,Silver,Email
+720375,Diya Chauhan,diya.chauhan375@example.com,Other,18,Kolkata,West Bengal,918386,9/16/2023,Standard,Organic Search
+110005,Riya Agarwal,riya.agarwal5@example.com,Other,27,Agra,Uttar Pradesh,687606,6/1/2024,Standard,Google
+824509,Rohan Kumar,rohan.kumar509@example.com,Other,50,Lucknow,Uttar Pradesh,433915,3/1/2024,Standard,Google
+197897,Kunal Gupta,kunal.gupta897@example.com,Male,33,Kolkata,West Bengal,292996,2/11/2024,Silver,Google
+654024,Priya Malhotra,priya.malhotra24@example.com,Male,35,Mumbai,Maharashtra,418385,4/28/2025,Standard,Email
+855942,Aarav Kapoor,aarav.kapoor942@example.com,Male,47,Agra,Uttar Pradesh,562784,3/25/2023,Platinum,Organic Search
+237065,Priya Mishra,priya.mishra65@example.com,Female,31,Indore,Madhya Pradesh,925695,4/27/2025,Standard,Email
+701351,Ishaan Malhotra,ishaan.malhotra351@example.com,Male,56,Jaipur,Rajasthan,584767,1/23/2025,Standard,Email
+754096,Ishaan Rana,ishaan.rana96@example.com,Female,28,Bengaluru,Karnataka,525807,8/19/2023,Platinum,Facebook
+795604,Ananya Bansal,ananya.bansal604@example.com,Male,29,Pune,Maharashtra,192763,8/8/2023,Standard,Organic Search
+799798,Ishaan Kumar,ishaan.kumar798@example.com,Other,22,Noida,Uttar Pradesh,911869,11/14/2024,Standard,Organic Search
+386398,Kunal Gupta,kunal.gupta398@example.com,Male,39,Mumbai,Maharashtra,430069,12/28/2024,Gold,Organic Search
+920438,Ananya Chauhan,ananya.chauhan438@example.com,Female,19,Hyderabad,Telangana,741769,9/21/2023,Standard,Google
+462566,Pooja Yadav,pooja.yadav566@example.com,Other,52,Delhi,Delhi,572178,9/28/2023,Standard,Organic Search
+833575,Ishaan Rana,ishaan.rana575@example.com,Male,43,Gurugram,Haryana,744957,5/27/2023,Standard,Referral
+268237,Arjun Kapoor,arjun.kapoor237@example.com,Other,49,Delhi,Delhi,363245,3/7/2024,Standard,Email
+798398,Meera Mishra,meera.mishra398@example.com,Other,50,Ahmedabad,Gujarat,209345,8/8/2024,Standard,Google
+536652,Isha Saini,isha.saini652@example.com,Other,54,Gurugram,Haryana,448674,1/22/2023,Standard,Organic Search
+366670,Isha Kapoor,isha.kapoor670@example.com,Other,20,Mumbai,Maharashtra,258636,9/22/2023,Silver,Email
+765445,Kavya Kumar,kavya.kumar445@example.com,Female,46,Delhi,Delhi,386912,6/3/2024,Silver,Email
+528027,Pooja Singh,pooja.singh27@example.com,Male,51,Jaipur,Rajasthan,875928,4/30/2023,Silver,Facebook
+236608,Kavya Pandey,kavya.pandey608@example.com,Other,49,Hyderabad,Telangana,217122,11/6/2025,Standard,Organic Search
+957443,Kunal Kumar,kunal.kumar443@example.com,Other,24,Hyderabad,Telangana,262043,7/12/2024,Standard,Google
+262601,Rohan Patel,rohan.patel601@example.com,Female,30,Kanpur,Uttar Pradesh,558260,12/11/2023,Standard,Organic Search
+519979,Rohan Saini,rohan.saini979@example.com,Other,35,Ahmedabad,Gujarat,666626,2/23/2023,Standard,Organic Search
+499891,Priya Tiwari,priya.tiwari891@example.com,Female,49,Chandigarh,Chandigarh,849672,10/27/2023,Silver,Email
+610760,Vivaan Chauhan,vivaan.chauhan760@example.com,Other,33,Mumbai,Maharashtra,490303,3/25/2025,Silver,Email
+266250,Nisha Tiwari,nisha.tiwari250@example.com,Male,27,Kanpur,Uttar Pradesh,561447,1/7/2024,Standard,Email
+672028,Aanya Saxena,aanya.saxena28@example.com,Female,18,Bhopal,Madhya Pradesh,746377,3/31/2025,Standard,Google
+961378,Riya Bansal,riya.bansal378@example.com,Female,38,Lucknow,Uttar Pradesh,917502,5/12/2023,Standard,Email
+742752,Priya Kumar,priya.kumar752@example.com,Male,60,Delhi,Delhi,594242,6/27/2025,Standard,Google
+490439,Diya Patel,diya.patel439@example.com,Other,51,Chandigarh,Chandigarh,280524,10/27/2024,Standard,Organic Search
+779926,Aarav Saxena,aarav.saxena926@example.com,Other,59,Lucknow,Uttar Pradesh,762046,11/12/2024,Standard,Email
+721335,Rahul Bansal,rahul.bansal335@example.com,Other,19,Bhopal,Madhya Pradesh,566818,4/17/2024,Silver,Google
+346485,Pooja Chauhan,pooja.chauhan485@example.com,Female,32,Ahmedabad,Gujarat,208641,3/28/2025,Platinum,Organic Search
+308100,Sneha Gupta,sneha.gupta100@example.com,Other,25,Hyderabad,Telangana,802611,3/15/2024,Silver,Email
+729766,Rahul Mishra,rahul.mishra766@example.com,Female,49,Lucknow,Uttar Pradesh,979278,5/7/2024,Standard,Organic Search
+695908,Arjun Verma,arjun.verma908@example.com,Male,49,Dehradun,Uttarakhand,530275,1/13/2024,Standard,Google
+377918,Kabir Bansal,kabir.bansal918@example.com,Other,28,Lucknow,Uttar Pradesh,207481,5/3/2023,Standard,Referral
+998119,Nisha Mishra,nisha.mishra119@example.com,Other,36,Lucknow,Uttar Pradesh,273856,9/7/2025,Gold,Google
+182774,Meera Saxena,meera.saxena774@example.com,Other,32,Hyderabad,Telangana,170459,9/8/2025,Gold,Email
+368838,Rohan Mehta,rohan.mehta838@example.com,Male,35,Surat,Gujarat,422436,12/6/2023,Standard,Email
+450473,Diya Saini,diya.saini473@example.com,Other,28,Chandigarh,Chandigarh,792605,4/25/2023,Standard,Google
+599662,Priya Tiwari,priya.tiwari662@example.com,Male,51,Delhi,Delhi,157254,1/7/2023,Silver,Organic Search
+664408,Ishaan Joshi,ishaan.joshi408@example.com,Male,26,Gurugram,Haryana,745708,6/19/2023,Standard,Organic Search
+737498,Meera Gupta,meera.gupta498@example.com,Female,49,Pune,Maharashtra,434759,11/3/2025,Silver,Referral
+619555,Aanya Mishra,aanya.mishra555@example.com,Male,37,Kolkata,West Bengal,292560,6/21/2025,Standard,Organic Search
+645230,Meera Yadav,meera.yadav230@example.com,Female,58,Dehradun,Uttarakhand,350464,9/1/2023,Gold,Email
+366233,Isha Mehta,isha.mehta233@example.com,Male,45,Pune,Maharashtra,120092,10/18/2025,Gold,Email
+898971,Nisha Tiwari,nisha.tiwari971@example.com,Male,48,Kanpur,Uttar Pradesh,553147,11/9/2025,Silver,Organic Search
+468082,Pooja Mishra,pooja.mishra82@example.com,Male,47,Delhi,Delhi,927411,5/4/2025,Standard,Organic Search
+773165,Meera Malhotra,meera.malhotra165@example.com,Female,38,Patna,Bihar,996714,8/13/2023,Gold,Email
+107680,Arjun Saini,arjun.saini680@example.com,Female,24,Bhopal,Madhya Pradesh,825132,4/19/2025,Standard,Organic Search
+788454,Vivaan Mishra,vivaan.mishra454@example.com,Male,22,Chennai,Tamil Nadu,448964,3/21/2025,Gold,Email
+261606,Aanya Tiwari,aanya.tiwari606@example.com,Female,26,Kanpur,Uttar Pradesh,921088,5/17/2023,Standard,Referral
+595522,Aanya Singh,aanya.singh522@example.com,Male,55,Mumbai,Maharashtra,303454,8/24/2024,Standard,Email
+931712,Nisha Bansal,nisha.bansal712@example.com,Male,50,Mumbai,Maharashtra,934779,1/17/2025,Silver,Email
+724360,Aditya Mehta,aditya.mehta360@example.com,Male,29,Pune,Maharashtra,364580,3/4/2023,Standard,Google
+602828,Rohan Mehta,rohan.mehta828@example.com,Other,26,Bengaluru,Karnataka,959577,10/13/2024,Standard,Email
+654199,Isha Kapoor,isha.kapoor199@example.com,Male,52,Hyderabad,Telangana,428896,2/20/2023,Silver,Email
+771262,Arjun Joshi,arjun.joshi262@example.com,Male,47,Noida,Uttar Pradesh,739652,10/18/2025,Standard,Email
+974167,Kunal Pandey,kunal.pandey167@example.com,Female,49,Hyderabad,Telangana,501178,10/24/2025,Standard,Referral
+584807,Nisha Kumar,nisha.kumar807@example.com,Female,20,Hyderabad,Telangana,547211,1/10/2025,Silver,Email
+225800,Kunal Mehta,kunal.mehta800@example.com,Female,30,Ahmedabad,Gujarat,503409,4/8/2023,Standard,Email
+205841,Rahul Kumar,rahul.kumar841@example.com,Female,57,Ahmedabad,Gujarat,115884,12/8/2024,Standard,Referral
+688882,Ishaan Singh,ishaan.singh882@example.com,Male,46,Surat,Gujarat,250327,3/21/2024,Standard,Organic Search
+633339,Pooja Rana,pooja.rana339@example.com,Female,50,Noida,Uttar Pradesh,790429,10/10/2025,Silver,Organic Search
+800175,Aarav Yadav,aarav.yadav175@example.com,Other,34,Indore,Madhya Pradesh,362196,4/29/2024,Silver,Organic Search
+917391,Meera Mehta,meera.mehta391@example.com,Male,40,Mumbai,Maharashtra,625545,2/12/2023,Standard,Organic Search
+801496,Kunal Tiwari,kunal.tiwari496@example.com,Male,50,Bengaluru,Karnataka,124612,3/27/2025,Gold,Organic Search
+474044,Pooja Saxena,pooja.saxena44@example.com,Male,58,Patna,Bihar,962076,5/2/2025,Standard,Email
+735004,Aarav Sharma,aarav.sharma4@example.com,Female,38,Chandigarh,Chandigarh,572843,10/16/2023,Silver,Email
+221229,Vivaan Kapoor,vivaan.kapoor229@example.com,Female,28,Hyderabad,Telangana,245245,5/11/2023,Standard,Email
+232422,Nisha Tiwari,nisha.tiwari422@example.com,Male,46,Mumbai,Maharashtra,452368,7/25/2025,Platinum,Email
+167506,Nisha Mishra,nisha.mishra506@example.com,Female,25,Patna,Bihar,326057,1/19/2024,Gold,Email
+589423,Rohan Mehta,rohan.mehta423@example.com,Female,34,Bengaluru,Karnataka,978486,8/6/2023,Standard,Referral
+847605,Sneha Verma,sneha.verma605@example.com,Male,43,Surat,Gujarat,319071,12/15/2023,Standard,Organic Search
+446721,Aarav Kapoor,aarav.kapoor721@example.com,Other,44,Ahmedabad,Gujarat,956031,10/26/2025,Platinum,Organic Search
+425350,Vivaan Joshi,vivaan.joshi350@example.com,Male,37,Lucknow,Uttar Pradesh,610537,5/21/2024,Standard,Organic Search
+403401,Aanya Patel,aanya.patel401@example.com,Female,41,Dehradun,Uttarakhand,392690,12/7/2023,Silver,Facebook
+160580,Rahul Chauhan,rahul.chauhan580@example.com,Other,35,Dehradun,Uttarakhand,297636,5/18/2025,Standard,Organic Search
+947290,Aarav Bansal,aarav.bansal290@example.com,Other,49,Dehradun,Uttarakhand,135085,9/9/2023,Standard,Email
+962845,Priya Verma,priya.verma845@example.com,Male,34,Delhi,Delhi,949320,7/22/2025,Silver,Email
+739150,Ishaan Gupta,ishaan.gupta150@example.com,Other,55,Mumbai,Maharashtra,976954,5/21/2025,Standard,Google
+796691,Rahul Verma,rahul.verma691@example.com,Male,19,Hyderabad,Telangana,973440,8/22/2024,Standard,Email
+302853,Rahul Tiwari,rahul.tiwari853@example.com,Other,52,Ahmedabad,Gujarat,293314,8/26/2023,Gold,Organic Search
+488006,Aanya Singh,aanya.singh6@example.com,Male,50,Kanpur,Uttar Pradesh,145179,8/31/2025,Standard,Email
+725509,Meera Singh,meera.singh509@example.com,Male,19,Agra,Uttar Pradesh,897892,7/8/2024,Platinum,Email
+629967,Rahul Joshi,rahul.joshi967@example.com,Other,30,Jaipur,Rajasthan,688082,4/21/2023,Standard,Email
+113755,Kabir Chauhan,kabir.chauhan755@example.com,Male,40,Lucknow,Uttar Pradesh,273629,3/15/2023,Standard,Referral
+428463,Rohan Chauhan,rohan.chauhan463@example.com,Male,42,Chandigarh,Chandigarh,179688,6/1/2024,Gold,Email
+333102,Priya Mishra,priya.mishra102@example.com,Male,39,Kanpur,Uttar Pradesh,142694,2/7/2024,Standard,Email
+284402,Ishaan Kumar,ishaan.kumar402@example.com,Female,46,Pune,Maharashtra,655475,10/15/2023,Silver,Organic Search
+729765,Rahul Joshi,rahul.joshi765@example.com,Male,40,Dehradun,Uttarakhand,545211,4/12/2024,Standard,Referral
+875395,Kunal Agarwal,kunal.agarwal395@example.com,Male,47,Mumbai,Maharashtra,954279,2/7/2023,Silver,Referral
+406600,Riya Joshi,riya.joshi600@example.com,Male,29,Chandigarh,Chandigarh,209969,5/3/2023,Silver,Google
+610631,Aanya Joshi,aanya.joshi631@example.com,Female,56,Chennai,Tamil Nadu,236309,1/12/2024,Gold,Email
+420645,Pooja Saini,pooja.saini645@example.com,Female,54,Surat,Gujarat,488263,4/3/2025,Standard,Email
+484414,Priya Sharma,priya.sharma414@example.com,Female,18,Patna,Bihar,490199,3/9/2023,Standard,Organic Search
+569288,Sneha Mehta,sneha.mehta288@example.com,Male,19,Pune,Maharashtra,188147,1/10/2025,Gold,Facebook
+160931,Ishaan Verma,ishaan.verma931@example.com,Other,41,Mumbai,Maharashtra,366118,8/16/2025,Standard,Email
+658769,Aditya Yadav,aditya.yadav769@example.com,Female,51,Delhi,Delhi,667748,2/20/2025,Standard,Organic Search
+705073,Aanya Kapoor,aanya.kapoor73@example.com,Male,46,Dehradun,Uttarakhand,178802,9/6/2025,Standard,Email
+597996,Meera Tiwari,meera.tiwari996@example.com,Male,44,Noida,Uttar Pradesh,574817,7/2/2023,Standard,Google
+286999,Sneha Mishra,sneha.mishra999@example.com,Male,22,Chennai,Tamil Nadu,649345,2/17/2023,Standard,Organic Search
+529098,Rohan Mishra,rohan.mishra98@example.com,Female,52,Bhopal,Madhya Pradesh,585871,5/20/2023,Standard,Email
+740026,Rahul Malhotra,rahul.malhotra26@example.com,Male,23,Surat,Gujarat,519294,3/14/2025,Standard,Organic Search
+117539,Nisha Malhotra,nisha.malhotra539@example.com,Male,39,Chennai,Tamil Nadu,937775,1/23/2024,Standard,Google
+774297,Diya Bansal,diya.bansal297@example.com,Male,31,Delhi,Delhi,909432,4/20/2025,Standard,Organic Search
+645904,Aditya Saxena,aditya.saxena904@example.com,Other,55,Kolkata,West Bengal,724167,4/27/2024,Platinum,Organic Search
+355270,Aarav Pandey,aarav.pandey270@example.com,Other,23,Agra,Uttar Pradesh,374247,4/27/2023,Gold,Email
+489087,Kavya Mishra,kavya.mishra87@example.com,Female,22,Kanpur,Uttar Pradesh,914929,8/23/2024,Silver,Facebook
+297235,Ishaan Mehta,ishaan.mehta235@example.com,Other,46,Pune,Maharashtra,574652,9/22/2024,Silver,Email
+351962,Aarav Malhotra,aarav.malhotra962@example.com,Other,29,Ahmedabad,Gujarat,718029,9/22/2025,Silver,Organic Search
+802832,Kavya Singh,kavya.singh832@example.com,Female,55,Surat,Gujarat,818316,2/27/2025,Standard,Google
+169553,Ananya Verma,ananya.verma553@example.com,Male,60,Mumbai,Maharashtra,181103,4/1/2024,Standard,Google
+595875,Diya Chauhan,diya.chauhan875@example.com,Female,50,Kanpur,Uttar Pradesh,942730,5/8/2023,Standard,Email
+205673,Riya Yadav,riya.yadav673@example.com,Female,39,Gurugram,Haryana,677302,6/4/2023,Silver,Facebook
+787447,Kabir Verma,kabir.verma447@example.com,Male,40,Kanpur,Uttar Pradesh,790467,1/22/2024,Standard,Google
+623748,Sneha Rana,sneha.rana748@example.com,Male,55,Noida,Uttar Pradesh,700748,7/31/2025,Standard,Organic Search
+933312,Ananya Patel,ananya.patel312@example.com,Male,33,Ahmedabad,Gujarat,643630,10/18/2023,Standard,Google
+247134,Ananya Saini,ananya.saini134@example.com,Male,20,Chennai,Tamil Nadu,227392,7/15/2024,Silver,Email
+958320,Vivaan Patel,vivaan.patel320@example.com,Other,32,Delhi,Delhi,553599,8/2/2025,Standard,Organic Search
+261151,Rahul Verma,rahul.verma151@example.com,Female,28,Gurugram,Haryana,813265,2/18/2025,Silver,Facebook
+371986,Diya Sharma,diya.sharma986@example.com,Female,35,Surat,Gujarat,226135,3/23/2025,Standard,Facebook
+330624,Nisha Mehta,nisha.mehta624@example.com,Male,20,Noida,Uttar Pradesh,723310,11/12/2023,Platinum,Email
+301781,Isha Pandey,isha.pandey781@example.com,Male,34,Indore,Madhya Pradesh,911027,10/8/2025,Silver,Google
+379222,Diya Mehta,diya.mehta222@example.com,Male,51,Kanpur,Uttar Pradesh,862878,12/6/2023,Standard,Google
+476861,Kavya Mehta,kavya.mehta861@example.com,Female,53,Kanpur,Uttar Pradesh,739733,7/9/2025,Standard,Referral
+609955,Pooja Mishra,pooja.mishra955@example.com,Other,59,Pune,Maharashtra,749331,12/12/2024,Silver,Organic Search
+491639,Sneha Mishra,sneha.mishra639@example.com,Female,58,Noida,Uttar Pradesh,601849,3/26/2023,Standard,Email
+871624,Aditya Singh,aditya.singh624@example.com,Female,40,Bengaluru,Karnataka,387087,3/11/2025,Standard,Google
+611825,Kabir Singh,kabir.singh825@example.com,Other,51,Surat,Gujarat,681707,11/16/2024,Standard,Facebook
+109557,Aarav Singh,aarav.singh557@example.com,Female,43,Indore,Madhya Pradesh,728537,1/29/2024,Standard,Organic Search
+837346,Pooja Rana,pooja.rana346@example.com,Other,46,Patna,Bihar,471385,4/13/2025,Standard,Organic Search
+783017,Rohan Gupta,rohan.gupta17@example.com,Male,33,Ahmedabad,Gujarat,786786,7/30/2023,Silver,Google
+149113,Vivaan Kumar,vivaan.kumar113@example.com,Female,37,Pune,Maharashtra,404469,12/20/2023,Standard,Google
+964374,Ananya Pandey,ananya.pandey374@example.com,Female,38,Patna,Bihar,721714,3/10/2024,Gold,Organic Search
+824105,Kabir Patel,kabir.patel105@example.com,Female,40,Ahmedabad,Gujarat,195502,1/1/2023,Standard,Organic Search
+284490,Ishaan Pandey,ishaan.pandey490@example.com,Male,57,Patna,Bihar,911619,4/4/2023,Standard,Email
+999649,Diya Rana,diya.rana649@example.com,Female,21,Kolkata,West Bengal,175254,8/19/2024,Gold,Referral
+410038,Nisha Saxena,nisha.saxena38@example.com,Male,31,Ahmedabad,Gujarat,824811,5/29/2023,Silver,Organic Search
+711952,Meera Mishra,meera.mishra952@example.com,Male,37,Bengaluru,Karnataka,268848,2/13/2025,Silver,Referral
+402532,Sneha Singh,sneha.singh532@example.com,Male,60,Jaipur,Rajasthan,285455,8/30/2024,Standard,Email
+727689,Isha Pandey,isha.pandey689@example.com,Female,48,Gurugram,Haryana,918629,1/27/2024,Standard,Organic Search
+899957,Sneha Singh,sneha.singh957@example.com,Other,46,Chandigarh,Chandigarh,870968,10/16/2023,Standard,Organic Search
+844433,Rahul Mishra,rahul.mishra433@example.com,Other,50,Kolkata,West Bengal,480541,1/19/2023,Standard,Email
+938281,Isha Saxena,isha.saxena281@example.com,Other,39,Agra,Uttar Pradesh,442412,3/24/2024,Standard,Referral
+833041,Aditya Chauhan,aditya.chauhan41@example.com,Female,38,Noida,Uttar Pradesh,816639,5/17/2024,Standard,Organic Search
+423052,Nisha Tiwari,nisha.tiwari52@example.com,Other,38,Chandigarh,Chandigarh,655585,12/28/2023,Standard,Organic Search
+242614,Vivaan Patel,vivaan.patel614@example.com,Male,59,Gurugram,Haryana,553187,9/22/2023,Silver,Referral
+919365,Arjun Mehta,arjun.mehta365@example.com,Female,22,Bhopal,Madhya Pradesh,483799,1/9/2025,Silver,Google
+405528,Ishaan Singh,ishaan.singh528@example.com,Other,23,Ahmedabad,Gujarat,706096,5/23/2024,Standard,Email
+316066,Sneha Saxena,sneha.saxena66@example.com,Female,24,Indore,Madhya Pradesh,775254,8/4/2025,Standard,Organic Search
+694163,Pooja Chauhan,pooja.chauhan163@example.com,Other,25,Mumbai,Maharashtra,433210,6/5/2024,Silver,Email
+873582,Aditya Joshi,aditya.joshi582@example.com,Male,55,Jaipur,Rajasthan,451280,1/13/2024,Platinum,Google
+164742,Ananya Patel,ananya.patel742@example.com,Male,28,Mumbai,Maharashtra,306577,7/11/2025,Gold,Organic Search
+581514,Diya Patel,diya.patel514@example.com,Male,59,Bhopal,Madhya Pradesh,188906,4/14/2024,Gold,Referral
+752369,Sneha Verma,sneha.verma369@example.com,Male,34,Patna,Bihar,692578,9/15/2024,Gold,Email
+152952,Kabir Tiwari,kabir.tiwari952@example.com,Male,31,Ahmedabad,Gujarat,481875,11/5/2025,Silver,Referral
+328258,Vivaan Pandey,vivaan.pandey258@example.com,Male,39,Bengaluru,Karnataka,931322,8/10/2024,Standard,Email
+740650,Riya Kumar,riya.kumar650@example.com,Male,30,Chennai,Tamil Nadu,716980,6/19/2023,Standard,Organic Search
+138136,Nisha Singh,nisha.singh136@example.com,Female,60,Mumbai,Maharashtra,236404,11/30/2024,Standard,Email
+633832,Riya Malhotra,riya.malhotra832@example.com,Male,39,Chandigarh,Chandigarh,249397,8/14/2023,Platinum,Email
+195516,Kunal Kumar,kunal.kumar516@example.com,Male,58,Surat,Gujarat,266075,9/7/2025,Standard,Organic Search
+892769,Kabir Yadav,kabir.yadav769@example.com,Other,25,Bengaluru,Karnataka,749037,1/31/2023,Standard,Facebook
+176212,Priya Yadav,priya.yadav212@example.com,Other,24,Bengaluru,Karnataka,214805,9/26/2025,Standard,Organic Search
+105620,Priya Mehta,priya.mehta620@example.com,Female,49,Pune,Maharashtra,816157,8/21/2025,Standard,Facebook
+188908,Isha Mehta,isha.mehta908@example.com,Male,40,Pune,Maharashtra,372991,7/9/2023,Standard,Organic Search
+717915,Pooja Mishra,pooja.mishra915@example.com,Male,49,Bengaluru,Karnataka,372982,7/4/2023,Standard,Google
+134723,Pooja Gupta,pooja.gupta723@example.com,Female,33,Jaipur,Rajasthan,279701,4/18/2024,Standard,Organic Search
+799989,Nisha Verma,nisha.verma989@example.com,Female,18,Surat,Gujarat,235590,11/8/2025,Standard,Referral
+782509,Ishaan Saxena,ishaan.saxena509@example.com,Female,53,Pune,Maharashtra,565718,6/2/2023,Silver,Referral
+109422,Isha Saini,isha.saini422@example.com,Female,54,Ahmedabad,Gujarat,204447,7/31/2023,Standard,Google
+801119,Diya Verma,diya.verma119@example.com,Female,48,Indore,Madhya Pradesh,617384,4/9/2023,Standard,Organic Search
+559640,Meera Sharma,meera.sharma640@example.com,Female,53,Surat,Gujarat,958645,10/23/2024,Standard,Email
+109602,Pooja Kapoor,pooja.kapoor602@example.com,Male,21,Chennai,Tamil Nadu,670450,5/31/2025,Silver,Organic Search
+194875,Kavya Yadav,kavya.yadav875@example.com,Other,44,Ahmedabad,Gujarat,647710,1/11/2023,Standard,Google
+584321,Aditya Yadav,aditya.yadav321@example.com,Male,21,Dehradun,Uttarakhand,243640,7/29/2025,Standard,Google
+468548,Nisha Malhotra,nisha.malhotra548@example.com,Other,26,Jaipur,Rajasthan,956119,10/30/2025,Silver,Organic Search
+407090,Rohan Saxena,rohan.saxena90@example.com,Other,29,Mumbai,Maharashtra,804870,4/14/2023,Standard,Email
+221137,Ishaan Verma,ishaan.verma137@example.com,Male,27,Chandigarh,Chandigarh,258693,4/21/2025,Standard,Email
+609687,Aarav Patel,aarav.patel687@example.com,Female,49,Patna,Bihar,933780,12/15/2023,Standard,Email
+580993,Rahul Singh,rahul.singh993@example.com,Male,60,Noida,Uttar Pradesh,751768,10/9/2024,Silver,Email
+848785,Isha Chauhan,isha.chauhan785@example.com,Male,20,Delhi,Delhi,880275,12/1/2024,Standard,Google
+700444,Meera Kapoor,meera.kapoor444@example.com,Female,57,Mumbai,Maharashtra,255401,9/5/2025,Standard,Organic Search
+715156,Nisha Gupta,nisha.gupta156@example.com,Male,32,Bhopal,Madhya Pradesh,281632,6/26/2025,Standard,Organic Search
+210683,Priya Yadav,priya.yadav683@example.com,Female,18,Bengaluru,Karnataka,450520,1/6/2023,Standard,Organic Search
+745474,Kavya Verma,kavya.verma474@example.com,Female,23,Chandigarh,Chandigarh,685470,9/1/2024,Standard,Organic Search
+457728,Isha Bansal,isha.bansal728@example.com,Male,54,Patna,Bihar,393434,5/7/2025,Standard,Email
+284306,Pooja Joshi,pooja.joshi306@example.com,Male,53,Lucknow,Uttar Pradesh,243994,10/2/2024,Standard,Email
+340629,Riya Verma,riya.verma629@example.com,Other,50,Pune,Maharashtra,578122,11/26/2024,Standard,Google
+698094,Aarav Mehta,aarav.mehta94@example.com,Female,60,Mumbai,Maharashtra,324713,7/12/2025,Standard,Referral
+554417,Meera Malhotra,meera.malhotra417@example.com,Other,19,Ahmedabad,Gujarat,425240,1/31/2023,Standard,Google
+610130,Aarav Chauhan,aarav.chauhan130@example.com,Other,58,Patna,Bihar,785332,4/26/2025,Standard,Email
+792733,Rohan Patel,rohan.patel733@example.com,Male,47,Jaipur,Rajasthan,542698,1/4/2023,Standard,Organic Search
+934727,Riya Agarwal,riya.agarwal727@example.com,Male,57,Kolkata,West Bengal,667348,11/9/2024,Silver,Email
+642203,Ishaan Saini,ishaan.saini203@example.com,Male,40,Bhopal,Madhya Pradesh,372002,10/10/2025,Gold,Email
+164357,Arjun Yadav,arjun.yadav357@example.com,Other,20,Surat,Gujarat,557132,10/15/2024,Gold,Google
+474209,Nisha Kapoor,nisha.kapoor209@example.com,Female,47,Hyderabad,Telangana,659578,11/6/2024,Gold,Email
+308740,Aarav Mishra,aarav.mishra740@example.com,Female,42,Noida,Uttar Pradesh,871539,11/26/2024,Standard,Facebook
+216202,Aditya Kapoor,aditya.kapoor202@example.com,Male,37,Pune,Maharashtra,152730,1/8/2024,Standard,Email
+751233,Pooja Chauhan,pooja.chauhan233@example.com,Male,25,Indore,Madhya Pradesh,278154,11/22/2023,Platinum,Google
+271027,Diya Saxena,diya.saxena27@example.com,Other,42,Bengaluru,Karnataka,442752,12/14/2023,Silver,Email
+457434,Rahul Tiwari,rahul.tiwari434@example.com,Female,42,Bengaluru,Karnataka,163393,5/27/2023,Standard,Organic Search
+356506,Rohan Gupta,rohan.gupta506@example.com,Other,37,Kanpur,Uttar Pradesh,119433,7/1/2025,Standard,Email
+950034,Aarav Yadav,aarav.yadav34@example.com,Female,51,Kanpur,Uttar Pradesh,284554,11/27/2024,Standard,Email
+986099,Aarav Joshi,aarav.joshi99@example.com,Female,37,Chennai,Tamil Nadu,624409,1/9/2025,Silver,Email
+441369,Nisha Malhotra,nisha.malhotra369@example.com,Female,19,Bengaluru,Karnataka,835211,9/17/2025,Silver,Organic Search
+974745,Sneha Malhotra,sneha.malhotra745@example.com,Female,31,Kanpur,Uttar Pradesh,604419,10/23/2024,Standard,Referral
+770366,Kavya Kapoor,kavya.kapoor366@example.com,Male,41,Noida,Uttar Pradesh,805151,1/13/2023,Gold,Organic Search
+994819,Ananya Kumar,ananya.kumar819@example.com,Male,53,Lucknow,Uttar Pradesh,266533,7/4/2025,Gold,Organic Search
+723244,Sneha Tiwari,sneha.tiwari244@example.com,Female,24,Chandigarh,Chandigarh,132473,11/12/2025,Silver,Email
+518850,Ishaan Bansal,ishaan.bansal850@example.com,Male,30,Lucknow,Uttar Pradesh,515533,1/8/2025,Standard,Organic Search
+564812,Vivaan Mehta,vivaan.mehta812@example.com,Other,27,Kolkata,West Bengal,424576,7/22/2025,Standard,Email
+739950,Kavya Bansal,kavya.bansal950@example.com,Female,55,Hyderabad,Telangana,295448,1/8/2025,Standard,Organic Search
+588851,Aarav Gupta,aarav.gupta851@example.com,Female,49,Surat,Gujarat,844506,9/28/2025,Standard,Facebook
+542908,Aditya Singh,aditya.singh908@example.com,Male,41,Dehradun,Uttarakhand,466851,9/8/2023,Standard,Google
+963162,Meera Pandey,meera.pandey162@example.com,Other,28,Chandigarh,Chandigarh,484443,11/21/2024,Standard,Referral
+649909,Rahul Agarwal,rahul.agarwal909@example.com,Other,33,Chennai,Tamil Nadu,745474,12/10/2024,Standard,Email
+471485,Riya Singh,riya.singh485@example.com,Male,31,Mumbai,Maharashtra,456705,7/22/2024,Silver,Email
+634375,Meera Saxena,meera.saxena375@example.com,Female,32,Lucknow,Uttar Pradesh,518984,8/20/2023,Standard,Referral
+959999,Pooja Saxena,pooja.saxena999@example.com,Other,55,Agra,Uttar Pradesh,378051,3/23/2023,Standard,Email
+598812,Priya Kumar,priya.kumar812@example.com,Other,46,Hyderabad,Telangana,763370,11/11/2025,Gold,Organic Search
+713290,Aarav Bansal,aarav.bansal290@example.com,Other,44,Noida,Uttar Pradesh,195111,10/5/2023,Silver,Email
+385885,Aanya Verma,aanya.verma885@example.com,Female,21,Mumbai,Maharashtra,676708,3/24/2024,Standard,Google
+375936,Arjun Verma,arjun.verma936@example.com,Male,21,Indore,Madhya Pradesh,649714,1/20/2025,Standard,Email
+573918,Aarav Kapoor,aarav.kapoor918@example.com,Female,36,Bengaluru,Karnataka,667784,6/12/2025,Standard,Referral
+285261,Vivaan Malhotra,vivaan.malhotra261@example.com,Female,29,Agra,Uttar Pradesh,427111,2/16/2025,Silver,Facebook
+391628,Arjun Joshi,arjun.joshi628@example.com,Female,32,Delhi,Delhi,488815,12/7/2024,Standard,Email
+436327,Kavya Kumar,kavya.kumar327@example.com,Male,24,Lucknow,Uttar Pradesh,680706,12/16/2024,Standard,Referral
+179178,Kabir Joshi,kabir.joshi178@example.com,Male,32,Pune,Maharashtra,387496,4/7/2023,Standard,Organic Search
+479018,Kunal Patel,kunal.patel18@example.com,Other,54,Noida,Uttar Pradesh,764248,11/8/2025,Gold,Organic Search
+737051,Priya Kapoor,priya.kapoor51@example.com,Other,53,Chandigarh,Chandigarh,327996,10/22/2023,Standard,Facebook
+571237,Ananya Kumar,ananya.kumar237@example.com,Other,22,Pune,Maharashtra,952260,1/17/2024,Platinum,Organic Search
+760836,Rohan Verma,rohan.verma836@example.com,Female,51,Pune,Maharashtra,117418,7/6/2024,Standard,Email
+696981,Riya Bansal,riya.bansal981@example.com,Male,34,Bhopal,Madhya Pradesh,321267,11/10/2025,Gold,Organic Search
+198267,Diya Sharma,diya.sharma267@example.com,Female,25,Bhopal,Madhya Pradesh,495197,10/6/2025,Silver,Email
+224318,Rahul Tiwari,rahul.tiwari318@example.com,Female,46,Ahmedabad,Gujarat,158109,8/10/2024,Gold,Email
+326058,Aarav Saini,aarav.saini58@example.com,Female,50,Delhi,Delhi,474970,2/22/2024,Silver,Organic Search
+399486,Kabir Mishra,kabir.mishra486@example.com,Female,36,Kolkata,West Bengal,524572,2/17/2024,Silver,Email
+593019,Pooja Patel,pooja.patel19@example.com,Other,27,Dehradun,Uttarakhand,814961,4/11/2024,Standard,Facebook
+808468,Vivaan Pandey,vivaan.pandey468@example.com,Female,60,Gurugram,Haryana,794487,8/4/2025,Silver,Organic Search
+471838,Kunal Chauhan,kunal.chauhan838@example.com,Other,59,Indore,Madhya Pradesh,954419,7/19/2024,Standard,Organic Search
+436581,Pooja Mehta,pooja.mehta581@example.com,Other,18,Indore,Madhya Pradesh,938727,9/12/2023,Standard,Email
+378389,Pooja Yadav,pooja.yadav389@example.com,Male,33,Dehradun,Uttarakhand,547645,5/13/2023,Standard,Organic Search
+351009,Meera Tiwari,meera.tiwari9@example.com,Male,34,Noida,Uttar Pradesh,492934,5/11/2023,Gold,Google
+188517,Aanya Pandey,aanya.pandey517@example.com,Female,58,Kolkata,West Bengal,262109,1/16/2023,Silver,Google
+587948,Priya Saini,priya.saini948@example.com,Male,53,Bengaluru,Karnataka,685162,4/12/2023,Silver,Organic Search
+192322,Kavya Mehta,kavya.mehta322@example.com,Female,40,Ahmedabad,Gujarat,212817,3/15/2025,Standard,Email
+948320,Rahul Rana,rahul.rana320@example.com,Other,34,Bhopal,Madhya Pradesh,679973,5/28/2023,Standard,Organic Search
+962693,Aanya Mehta,aanya.mehta693@example.com,Female,47,Lucknow,Uttar Pradesh,355401,5/8/2025,Gold,Google
+330400,Vivaan Verma,vivaan.verma400@example.com,Male,35,Ahmedabad,Gujarat,617333,3/8/2023,Platinum,Email
+148803,Priya Gupta,priya.gupta803@example.com,Other,55,Lucknow,Uttar Pradesh,263296,12/9/2024,Standard,Referral
+493979,Kavya Sharma,kavya.sharma979@example.com,Male,47,Jaipur,Rajasthan,668627,11/27/2024,Platinum,Email
+150168,Kunal Kumar,kunal.kumar168@example.com,Male,46,Lucknow,Uttar Pradesh,387129,4/8/2023,Silver,Organic Search
+789755,Nisha Saxena,nisha.saxena755@example.com,Male,31,Patna,Bihar,315935,3/15/2023,Silver,Email
+983511,Rohan Agarwal,rohan.agarwal511@example.com,Female,31,Agra,Uttar Pradesh,622153,5/16/2024,Standard,Google
+905784,Kunal Kapoor,kunal.kapoor784@example.com,Other,33,Bhopal,Madhya Pradesh,767166,9/5/2024,Standard,Organic Search
+995716,Aditya Sharma,aditya.sharma716@example.com,Other,51,Lucknow,Uttar Pradesh,835334,9/19/2025,Standard,Facebook
+232679,Aarav Sharma,aarav.sharma679@example.com,Female,53,Ahmedabad,Gujarat,424061,6/7/2023,Silver,Email
+529703,Vivaan Yadav,vivaan.yadav703@example.com,Female,37,Kolkata,West Bengal,534334,7/18/2025,Standard,Google
+391435,Kabir Saxena,kabir.saxena435@example.com,Male,40,Bhopal,Madhya Pradesh,881176,6/17/2024,Standard,Email
+155600,Kavya Saxena,kavya.saxena600@example.com,Male,34,Delhi,Delhi,627723,7/15/2023,Standard,Referral
+659489,Kabir Mishra,kabir.mishra489@example.com,Female,33,Kanpur,Uttar Pradesh,835383,7/24/2023,Standard,Email
+547350,Meera Rana,meera.rana350@example.com,Male,57,Jaipur,Rajasthan,248342,2/25/2024,Standard,Referral
+432450,Priya Saini,priya.saini450@example.com,Female,47,Patna,Bihar,158409,1/2/2023,Standard,Organic Search
+850710,Rohan Chauhan,rohan.chauhan710@example.com,Male,36,Ahmedabad,Gujarat,382893,3/29/2023,Standard,Organic Search
+329742,Rahul Chauhan,rahul.chauhan742@example.com,Other,21,Indore,Madhya Pradesh,219260,5/22/2024,Standard,Organic Search
+816536,Ananya Rana,ananya.rana536@example.com,Female,49,Noida,Uttar Pradesh,382747,8/13/2024,Standard,Organic Search
+499246,Diya Joshi,diya.joshi246@example.com,Male,23,Surat,Gujarat,869213,8/27/2024,Standard,Organic Search
+830722,Aarav Malhotra,aarav.malhotra722@example.com,Other,54,Noida,Uttar Pradesh,855880,7/16/2024,Standard,Organic Search
+263045,Kavya Kapoor,kavya.kapoor45@example.com,Female,54,Ahmedabad,Gujarat,523029,3/18/2025,Standard,Referral
+188155,Arjun Gupta,arjun.gupta155@example.com,Other,27,Surat,Gujarat,275279,3/30/2023,Silver,Organic Search
+510604,Ishaan Bansal,ishaan.bansal604@example.com,Male,52,Dehradun,Uttarakhand,594447,5/1/2025,Standard,Organic Search
+576091,Aanya Mehta,aanya.mehta91@example.com,Other,43,Kolkata,West Bengal,771975,3/19/2024,Standard,Email
+514500,Sneha Singh,sneha.singh500@example.com,Other,44,Kanpur,Uttar Pradesh,349688,1/6/2024,Standard,Referral
+909009,Kunal Malhotra,kunal.malhotra9@example.com,Male,22,Bhopal,Madhya Pradesh,904739,10/7/2023,Standard,Google
+930110,Ishaan Patel,ishaan.patel110@example.com,Other,49,Patna,Bihar,964694,7/27/2024,Standard,Google
+806553,Diya Gupta,diya.gupta553@example.com,Other,27,Delhi,Delhi,870024,8/24/2025,Standard,Google
+788876,Meera Bansal,meera.bansal876@example.com,Male,51,Jaipur,Rajasthan,589169,4/11/2024,Gold,Organic Search
+837118,Arjun Chauhan,arjun.chauhan118@example.com,Female,30,Surat,Gujarat,125243,5/17/2024,Standard,Google
+343730,Pooja Sharma,pooja.sharma730@example.com,Male,21,Hyderabad,Telangana,842710,11/25/2024,Standard,Email
+496744,Ishaan Sharma,ishaan.sharma744@example.com,Female,49,Agra,Uttar Pradesh,469377,9/16/2023,Silver,Referral
+865023,Diya Chauhan,diya.chauhan23@example.com,Other,32,Pune,Maharashtra,186697,1/17/2024,Standard,Organic Search
+842572,Rohan Chauhan,rohan.chauhan572@example.com,Other,47,Patna,Bihar,291234,7/17/2024,Standard,Organic Search
+570113,Kunal Saxena,kunal.saxena113@example.com,Other,41,Dehradun,Uttarakhand,739846,1/19/2023,Silver,Google
+842023,Meera Rana,meera.rana23@example.com,Female,42,Delhi,Delhi,595947,10/14/2024,Standard,Organic Search
+217300,Aarav Saini,aarav.saini300@example.com,Male,48,Dehradun,Uttarakhand,918238,1/20/2023,Standard,Google
+583144,Vivaan Malhotra,vivaan.malhotra144@example.com,Other,37,Noida,Uttar Pradesh,123658,9/21/2025,Standard,Email
+683071,Rohan Saxena,rohan.saxena71@example.com,Other,40,Bhopal,Madhya Pradesh,653322,5/14/2025,Gold,Email
+425051,Kabir Pandey,kabir.pandey51@example.com,Female,30,Chennai,Tamil Nadu,710555,7/20/2023,Standard,Organic Search
+271302,Meera Yadav,meera.yadav302@example.com,Female,22,Indore,Madhya Pradesh,323424,8/4/2023,Standard,Organic Search
+228615,Aditya Bansal,aditya.bansal615@example.com,Male,41,Kanpur,Uttar Pradesh,448246,2/26/2023,Standard,Referral
+732448,Aanya Sharma,aanya.sharma448@example.com,Female,44,Surat,Gujarat,777138,10/13/2025,Platinum,Organic Search
+919982,Riya Sharma,riya.sharma982@example.com,Other,42,Surat,Gujarat,414839,2/7/2025,Standard,Organic Search
+443983,Isha Pandey,isha.pandey983@example.com,Male,57,Bhopal,Madhya Pradesh,683531,8/22/2025,Silver,Facebook
+400538,Arjun Pandey,arjun.pandey538@example.com,Male,59,Bhopal,Madhya Pradesh,840713,4/11/2025,Standard,Organic Search
+936066,Aarav Kumar,aarav.kumar66@example.com,Male,59,Chandigarh,Chandigarh,635942,5/21/2024,Standard,Referral
+473465,Aarav Bansal,aarav.bansal465@example.com,Female,57,Bhopal,Madhya Pradesh,854571,4/6/2025,Standard,Referral
+658797,Kavya Agarwal,kavya.agarwal797@example.com,Female,59,Pune,Maharashtra,363842,2/1/2024,Silver,Referral
+593083,Pooja Joshi,pooja.joshi83@example.com,Other,30,Bengaluru,Karnataka,513882,7/1/2023,Silver,Email
+959261,Priya Singh,priya.singh261@example.com,Male,45,Surat,Gujarat,407787,8/10/2023,Standard,Organic Search
+547520,Arjun Mehta,arjun.mehta520@example.com,Male,24,Chandigarh,Chandigarh,855763,7/8/2023,Standard,Email
+796260,Rahul Mishra,rahul.mishra260@example.com,Female,23,Indore,Madhya Pradesh,752599,10/10/2024,Standard,Email
+517600,Aarav Agarwal,aarav.agarwal600@example.com,Other,33,Dehradun,Uttarakhand,298410,6/17/2024,Platinum,Email
+360398,Kabir Mishra,kabir.mishra398@example.com,Female,22,Chennai,Tamil Nadu,569838,9/16/2024,Gold,Organic Search
+491311,Arjun Pandey,arjun.pandey311@example.com,Male,35,Chandigarh,Chandigarh,643122,11/8/2024,Standard,Google
+333030,Meera Tiwari,meera.tiwari30@example.com,Male,54,Surat,Gujarat,871809,6/27/2024,Silver,Referral
+986486,Ananya Sharma,ananya.sharma486@example.com,Female,41,Indore,Madhya Pradesh,943153,7/23/2025,Gold,Organic Search
+902461,Kavya Chauhan,kavya.chauhan461@example.com,Female,43,Surat,Gujarat,434188,4/30/2023,Standard,Organic Search
+895127,Priya Saxena,priya.saxena127@example.com,Male,29,Bhopal,Madhya Pradesh,301282,9/26/2024,Standard,Email
+828859,Meera Verma,meera.verma859@example.com,Other,33,Chandigarh,Chandigarh,978555,9/28/2024,Silver,Organic Search
+690480,Kunal Patel,kunal.patel480@example.com,Female,26,Delhi,Delhi,387927,9/24/2023,Silver,Organic Search
+104281,Diya Verma,diya.verma281@example.com,Other,24,Kolkata,West Bengal,873781,5/27/2023,Standard,Facebook
+443515,Kunal Sharma,kunal.sharma515@example.com,Other,49,Kolkata,West Bengal,892091,12/1/2024,Standard,Organic Search
+658422,Isha Agarwal,isha.agarwal422@example.com,Other,22,Chandigarh,Chandigarh,853396,7/9/2024,Standard,Organic Search
+905081,Kunal Patel,kunal.patel81@example.com,Other,34,Ahmedabad,Gujarat,942570,11/2/2023,Standard,Referral
+440653,Diya Kapoor,diya.kapoor653@example.com,Other,45,Noida,Uttar Pradesh,845439,7/18/2024,Standard,Email
+431892,Arjun Singh,arjun.singh892@example.com,Female,55,Noida,Uttar Pradesh,653230,4/30/2024,Standard,Email
+472121,Kavya Singh,kavya.singh121@example.com,Other,30,Chandigarh,Chandigarh,605642,1/13/2025,Standard,Email
+800094,Kunal Tiwari,kunal.tiwari94@example.com,Female,37,Lucknow,Uttar Pradesh,854971,8/12/2024,Silver,Google
+735397,Kabir Mishra,kabir.mishra397@example.com,Other,24,Kanpur,Uttar Pradesh,460175,8/9/2023,Standard,Email
+584648,Kabir Mishra,kabir.mishra648@example.com,Male,35,Ahmedabad,Gujarat,515386,10/13/2025,Silver,Organic Search
+235032,Kabir Mehta,kabir.mehta32@example.com,Male,53,Surat,Gujarat,153660,4/22/2024,Standard,Organic Search
+298225,Isha Mehta,isha.mehta225@example.com,Other,34,Indore,Madhya Pradesh,759978,11/25/2023,Gold,Email
+461562,Ananya Saini,ananya.saini562@example.com,Other,33,Chennai,Tamil Nadu,284015,11/14/2023,Platinum,Facebook
+643534,Sneha Sharma,sneha.sharma534@example.com,Other,30,Gurugram,Haryana,891603,8/20/2024,Standard,Email
+878674,Aarav Patel,aarav.patel674@example.com,Other,23,Chandigarh,Chandigarh,678687,10/13/2024,Gold,Email
+140240,Riya Pandey,riya.pandey240@example.com,Other,54,Mumbai,Maharashtra,589893,12/20/2024,Standard,Google
+392967,Meera Chauhan,meera.chauhan967@example.com,Male,58,Indore,Madhya Pradesh,355440,5/6/2025,Standard,Organic Search
+828943,Meera Saini,meera.saini943@example.com,Male,24,Delhi,Delhi,217606,3/7/2023,Platinum,Email
+254691,Kunal Sharma,kunal.sharma691@example.com,Male,56,Bhopal,Madhya Pradesh,570938,9/29/2023,Standard,Email
+442561,Arjun Patel,arjun.patel561@example.com,Other,54,Chandigarh,Chandigarh,275830,1/1/2023,Gold,Email
+938352,Priya Kapoor,priya.kapoor352@example.com,Female,36,Pune,Maharashtra,577670,12/25/2023,Standard,Google
+972921,Rohan Joshi,rohan.joshi921@example.com,Male,53,Bengaluru,Karnataka,273717,10/17/2023,Gold,Google
+938105,Meera Bansal,meera.bansal105@example.com,Other,28,Hyderabad,Telangana,312342,10/2/2023,Gold,Email
+774272,Ishaan Kapoor,ishaan.kapoor272@example.com,Other,30,Chennai,Tamil Nadu,790984,3/13/2023,Gold,Organic Search
+196613,Kunal Malhotra,kunal.malhotra613@example.com,Other,53,Mumbai,Maharashtra,438298,4/10/2024,Standard,Organic Search
+879659,Isha Joshi,isha.joshi659@example.com,Male,34,Dehradun,Uttarakhand,776465,4/2/2023,Standard,Email
+573962,Aarav Tiwari,aarav.tiwari962@example.com,Male,50,Pune,Maharashtra,409704,1/24/2023,Standard,Organic Search
+302433,Ananya Bansal,ananya.bansal433@example.com,Female,51,Bengaluru,Karnataka,588949,4/14/2025,Standard,Referral
+131538,Vivaan Saini,vivaan.saini538@example.com,Male,44,Pune,Maharashtra,280581,10/10/2025,Standard,Organic Search
+564098,Priya Bansal,priya.bansal98@example.com,Male,19,Lucknow,Uttar Pradesh,823578,7/26/2025,Standard,Organic Search
+613503,Diya Kumar,diya.kumar503@example.com,Female,54,Kanpur,Uttar Pradesh,778452,5/17/2024,Silver,Organic Search
+720840,Rohan Agarwal,rohan.agarwal840@example.com,Other,40,Agra,Uttar Pradesh,642765,3/17/2024,Standard,Organic Search
+377638,Isha Singh,isha.singh638@example.com,Male,41,Bhopal,Madhya Pradesh,650185,4/30/2024,Silver,Organic Search
+379016,Rahul Sharma,rahul.sharma16@example.com,Male,36,Indore,Madhya Pradesh,661437,5/28/2023,Standard,Organic Search
+946801,Ananya Malhotra,ananya.malhotra801@example.com,Female,27,Mumbai,Maharashtra,208538,8/25/2025,Silver,Referral
+102030,Vivaan Yadav,vivaan.yadav30@example.com,Male,40,Jaipur,Rajasthan,171309,11/13/2023,Standard,Google
+455957,Arjun Saini,arjun.saini957@example.com,Male,52,Lucknow,Uttar Pradesh,564477,2/19/2024,Silver,Facebook
+916037,Vivaan Patel,vivaan.patel37@example.com,Male,55,Agra,Uttar Pradesh,475773,4/28/2025,Standard,Organic Search
+296275,Rahul Singh,rahul.singh275@example.com,Other,54,Kanpur,Uttar Pradesh,722746,6/29/2023,Platinum,Email
+446241,Ishaan Pandey,ishaan.pandey241@example.com,Other,49,Bengaluru,Karnataka,225318,10/27/2025,Gold,Google
+368937,Rahul Rana,rahul.rana937@example.com,Female,41,Jaipur,Rajasthan,273613,11/25/2023,Standard,Organic Search
+687088,Kabir Mehta,kabir.mehta88@example.com,Female,55,Gurugram,Haryana,459045,2/14/2023,Gold,Google
+199995,Aditya Mishra,aditya.mishra995@example.com,Female,46,Chandigarh,Chandigarh,867762,5/17/2025,Gold,Google
+971435,Priya Kumar,priya.kumar435@example.com,Other,59,Delhi,Delhi,229926,3/29/2025,Standard,Email
+273029,Aanya Sharma,aanya.sharma29@example.com,Female,42,Surat,Gujarat,358919,9/1/2024,Silver,Email
+108504,Diya Saxena,diya.saxena504@example.com,Male,21,Mumbai,Maharashtra,849993,12/14/2023,Standard,Organic Search
+913214,Aditya Tiwari,aditya.tiwari214@example.com,Male,58,Dehradun,Uttarakhand,805266,1/1/2025,Standard,Organic Search
+709935,Kavya Yadav,kavya.yadav935@example.com,Male,55,Surat,Gujarat,149009,5/28/2025,Gold,Email
+373656,Priya Joshi,priya.joshi656@example.com,Male,43,Bhopal,Madhya Pradesh,503124,8/1/2023,Standard,Referral
+991611,Arjun Sharma,arjun.sharma611@example.com,Female,60,Chandigarh,Chandigarh,515530,5/7/2025,Standard,Organic Search
+964224,Sneha Gupta,sneha.gupta224@example.com,Other,28,Lucknow,Uttar Pradesh,393007,1/2/2024,Standard,Email
+606133,Nisha Pandey,nisha.pandey133@example.com,Female,34,Gurugram,Haryana,901391,2/25/2023,Standard,Email
+140087,Meera Verma,meera.verma87@example.com,Other,48,Chandigarh,Chandigarh,182150,3/17/2024,Standard,Email
+487278,Ananya Agarwal,ananya.agarwal278@example.com,Female,43,Kolkata,West Bengal,221201,5/27/2023,Standard,Google
+950950,Pooja Joshi,pooja.joshi950@example.com,Male,57,Indore,Madhya Pradesh,347951,3/13/2024,Gold,Organic Search
+325920,Aditya Saxena,aditya.saxena920@example.com,Male,19,Lucknow,Uttar Pradesh,455687,9/25/2024,Standard,Organic Search
+202748,Kunal Kumar,kunal.kumar748@example.com,Female,31,Ahmedabad,Gujarat,111149,7/25/2025,Standard,Google
+354083,Riya Patel,riya.patel83@example.com,Other,44,Hyderabad,Telangana,591802,10/8/2023,Gold,Organic Search
+144267,Ananya Sharma,ananya.sharma267@example.com,Female,26,Delhi,Delhi,902790,3/27/2025,Platinum,Facebook
+272220,Ishaan Saxena,ishaan.saxena220@example.com,Female,40,Delhi,Delhi,915853,11/5/2023,Standard,Organic Search
+642351,Sneha Yadav,sneha.yadav351@example.com,Female,60,Hyderabad,Telangana,404827,9/19/2024,Silver,Organic Search
+558665,Kunal Chauhan,kunal.chauhan665@example.com,Other,50,Kanpur,Uttar Pradesh,615151,8/31/2024,Platinum,Google
+477793,Rahul Kumar,rahul.kumar793@example.com,Female,60,Pune,Maharashtra,176442,11/24/2023,Standard,Facebook
+431129,Aanya Yadav,aanya.yadav129@example.com,Male,39,Chandigarh,Chandigarh,237976,2/24/2023,Standard,Organic Search
+422202,Nisha Saxena,nisha.saxena202@example.com,Other,36,Chennai,Tamil Nadu,816788,5/29/2023,Standard,Google
+502459,Aanya Tiwari,aanya.tiwari459@example.com,Female,33,Ahmedabad,Gujarat,276987,6/7/2023,Standard,Facebook
+838501,Diya Agarwal,diya.agarwal501@example.com,Female,27,Lucknow,Uttar Pradesh,912636,7/11/2025,Silver,Organic Search
+678060,Priya Kumar,priya.kumar60@example.com,Female,47,Patna,Bihar,351122,5/25/2024,Silver,Google
+316001,Rohan Gupta,rohan.gupta1@example.com,Female,57,Pune,Maharashtra,131315,8/15/2024,Gold,Email
+303981,Nisha Bansal,nisha.bansal981@example.com,Other,33,Delhi,Delhi,903042,6/18/2023,Silver,Email
+238226,Kunal Singh,kunal.singh226@example.com,Male,55,Mumbai,Maharashtra,778545,12/9/2024,Gold,Organic Search
+462457,Riya Gupta,riya.gupta457@example.com,Other,20,Chennai,Tamil Nadu,929529,11/27/2024,Gold,Organic Search
+692878,Arjun Kumar,arjun.kumar878@example.com,Female,44,Noida,Uttar Pradesh,119979,10/22/2023,Silver,Google
+694797,Kunal Patel,kunal.patel797@example.com,Male,45,Jaipur,Rajasthan,941503,10/30/2023,Silver,Email
+997355,Diya Saini,diya.saini355@example.com,Male,35,Patna,Bihar,638341,1/27/2025,Standard,Email
+665946,Priya Pandey,priya.pandey946@example.com,Other,56,Surat,Gujarat,693787,12/8/2023,Gold,Google
+153798,Priya Singh,priya.singh798@example.com,Male,45,Indore,Madhya Pradesh,429746,6/3/2023,Standard,Organic Search
+742759,Diya Verma,diya.verma759@example.com,Female,18,Chandigarh,Chandigarh,800042,7/19/2025,Standard,Facebook
+805122,Aditya Agarwal,aditya.agarwal122@example.com,Female,44,Agra,Uttar Pradesh,680951,6/2/2023,Standard,Email
+390153,Ishaan Verma,ishaan.verma153@example.com,Female,31,Ahmedabad,Gujarat,397856,12/8/2024,Standard,Email
+342266,Kabir Malhotra,kabir.malhotra266@example.com,Male,34,Kolkata,West Bengal,891748,3/20/2025,Gold,Email
+672027,Isha Mehta,isha.mehta27@example.com,Female,19,Pune,Maharashtra,738991,5/8/2024,Gold,Google
+518406,Rohan Malhotra,rohan.malhotra406@example.com,Female,29,Kolkata,West Bengal,313863,12/30/2023,Standard,Google
+553518,Ananya Kumar,ananya.kumar518@example.com,Female,30,Delhi,Delhi,965631,7/20/2023,Platinum,Email
+239852,Rohan Pandey,rohan.pandey852@example.com,Other,19,Patna,Bihar,997971,10/23/2023,Standard,Email
+937329,Rahul Singh,rahul.singh329@example.com,Other,22,Hyderabad,Telangana,484674,9/24/2025,Standard,Email
+785880,Isha Bansal,isha.bansal880@example.com,Other,46,Patna,Bihar,856908,10/21/2024,Standard,Organic Search
+663688,Ishaan Chauhan,ishaan.chauhan688@example.com,Other,30,Noida,Uttar Pradesh,895116,3/11/2024,Gold,Organic Search
+204091,Kabir Pandey,kabir.pandey91@example.com,Female,32,Chandigarh,Chandigarh,616382,3/8/2023,Standard,Referral
+444791,Nisha Singh,nisha.singh791@example.com,Other,52,Patna,Bihar,809063,8/19/2024,Gold,Referral
+294849,Isha Gupta,isha.gupta849@example.com,Male,20,Agra,Uttar Pradesh,432586,6/6/2025,Standard,Google
+833216,Priya Verma,priya.verma216@example.com,Other,44,Delhi,Delhi,591909,6/23/2025,Standard,Google
+182022,Rohan Mehta,rohan.mehta22@example.com,Male,27,Chandigarh,Chandigarh,448675,10/29/2025,Standard,Organic Search
+396735,Kavya Singh,kavya.singh735@example.com,Other,53,Chandigarh,Chandigarh,741724,8/26/2025,Silver,Google
+138522,Aditya Kumar,aditya.kumar522@example.com,Female,50,Noida,Uttar Pradesh,323845,3/22/2025,Standard,Google
+188619,Rohan Agarwal,rohan.agarwal619@example.com,Other,58,Dehradun,Uttarakhand,438313,3/31/2024,Gold,Organic Search
+537981,Aditya Pandey,aditya.pandey981@example.com,Other,48,Dehradun,Uttarakhand,797590,3/18/2025,Platinum,Organic Search
+730313,Kunal Agarwal,kunal.agarwal313@example.com,Female,18,Hyderabad,Telangana,726088,6/14/2023,Standard,Google
+225378,Aarav Singh,aarav.singh378@example.com,Other,23,Dehradun,Uttarakhand,619805,7/12/2024,Standard,Email
+420610,Kunal Agarwal,kunal.agarwal610@example.com,Female,21,Bhopal,Madhya Pradesh,211021,10/27/2024,Standard,Email
+392624,Rohan Patel,rohan.patel624@example.com,Male,20,Kanpur,Uttar Pradesh,216751,3/20/2025,Silver,Google
+462174,Rahul Joshi,rahul.joshi174@example.com,Female,25,Bhopal,Madhya Pradesh,874371,5/2/2023,Silver,Organic Search
+363436,Meera Kapoor,meera.kapoor436@example.com,Female,54,Ahmedabad,Gujarat,365792,10/17/2023,Standard,Google
+432719,Isha Patel,isha.patel719@example.com,Male,30,Gurugram,Haryana,777825,9/20/2024,Silver,Email
+848637,Vivaan Bansal,vivaan.bansal637@example.com,Male,39,Bhopal,Madhya Pradesh,452110,12/2/2024,Standard,Organic Search
+558695,Kavya Saini,kavya.saini695@example.com,Other,59,Lucknow,Uttar Pradesh,358290,2/22/2024,Silver,Email
+312332,Aditya Joshi,aditya.joshi332@example.com,Male,51,Bhopal,Madhya Pradesh,341193,4/19/2023,Standard,Email
+832546,Priya Yadav,priya.yadav546@example.com,Male,57,Jaipur,Rajasthan,490472,6/19/2023,Standard,Email
+518715,Pooja Kapoor,pooja.kapoor715@example.com,Male,42,Hyderabad,Telangana,827535,2/29/2024,Standard,Google
+614195,Pooja Mehta,pooja.mehta195@example.com,Male,33,Pune,Maharashtra,729905,5/21/2023,Gold,Organic Search
+387444,Rohan Bansal,rohan.bansal444@example.com,Male,46,Agra,Uttar Pradesh,758732,5/18/2025,Standard,Email
+612545,Rohan Sharma,rohan.sharma545@example.com,Other,27,Jaipur,Rajasthan,758038,6/22/2025,Standard,Email
+281294,Aanya Joshi,aanya.joshi294@example.com,Female,23,Chandigarh,Chandigarh,587569,9/27/2025,Standard,Facebook
+899065,Aarav Kumar,aarav.kumar65@example.com,Other,20,Indore,Madhya Pradesh,687325,1/7/2025,Standard,Organic Search
+272994,Rohan Mishra,rohan.mishra994@example.com,Female,51,Jaipur,Rajasthan,963944,3/10/2023,Standard,Organic Search
+737682,Rahul Yadav,rahul.yadav682@example.com,Female,33,Chennai,Tamil Nadu,648055,8/12/2024,Standard,Organic Search
+472467,Rahul Patel,rahul.patel467@example.com,Male,44,Bengaluru,Karnataka,598347,5/10/2025,Standard,Google
+581096,Nisha Chauhan,nisha.chauhan96@example.com,Female,54,Chandigarh,Chandigarh,622215,1/24/2024,Standard,Email
+537193,Pooja Joshi,pooja.joshi193@example.com,Male,26,Agra,Uttar Pradesh,417583,9/27/2023,Gold,Organic Search
+455179,Pooja Yadav,pooja.yadav179@example.com,Female,32,Gurugram,Haryana,478899,4/27/2025,Standard,Organic Search
+837509,Aanya Pandey,aanya.pandey509@example.com,Male,37,Pune,Maharashtra,722698,7/17/2023,Standard,Facebook
+953227,Vivaan Rana,vivaan.rana227@example.com,Female,60,Surat,Gujarat,950852,12/1/2023,Silver,Google
+402092,Ananya Kumar,ananya.kumar92@example.com,Female,57,Chennai,Tamil Nadu,524631,12/24/2024,Standard,Email
+181170,Ishaan Yadav,ishaan.yadav170@example.com,Male,28,Surat,Gujarat,501853,9/11/2025,Standard,Google
+460654,Isha Rana,isha.rana654@example.com,Male,39,Hyderabad,Telangana,315646,6/3/2024,Standard,Email
+373483,Arjun Yadav,arjun.yadav483@example.com,Other,30,Chandigarh,Chandigarh,308286,10/11/2024,Gold,Facebook
+511489,Priya Verma,priya.verma489@example.com,Female,44,Gurugram,Haryana,353775,8/24/2023,Standard,Email
+900846,Meera Tiwari,meera.tiwari846@example.com,Male,28,Chandigarh,Chandigarh,614407,12/24/2024,Standard,Referral
+439548,Rohan Agarwal,rohan.agarwal548@example.com,Other,30,Gurugram,Haryana,634406,12/9/2024,Silver,Referral
+833616,Ishaan Tiwari,ishaan.tiwari616@example.com,Male,19,Gurugram,Haryana,909993,9/15/2024,Gold,Email
+627653,Arjun Chauhan,arjun.chauhan653@example.com,Female,30,Indore,Madhya Pradesh,309020,10/2/2023,Platinum,Email
+100435,Meera Rana,meera.rana435@example.com,Female,27,Bengaluru,Karnataka,789989,1/20/2025,Gold,Referral
+438076,Ananya Saini,ananya.saini76@example.com,Female,45,Mumbai,Maharashtra,865056,9/23/2023,Gold,Organic Search
+736181,Aanya Saini,aanya.saini181@example.com,Other,36,Pune,Maharashtra,818454,10/18/2025,Standard,Organic Search
+512820,Kavya Agarwal,kavya.agarwal820@example.com,Female,57,Bengaluru,Karnataka,432482,3/26/2024,Gold,Google
+452269,Sneha Tiwari,sneha.tiwari269@example.com,Other,49,Bengaluru,Karnataka,430353,6/4/2023,Standard,Google
+758686,Kavya Mehta,kavya.mehta686@example.com,Male,19,Gurugram,Haryana,823820,12/7/2023,Standard,Email
+510774,Rahul Kumar,rahul.kumar774@example.com,Other,31,Gurugram,Haryana,687352,4/26/2023,Standard,Google
+359330,Meera Rana,meera.rana330@example.com,Male,55,Chandigarh,Chandigarh,257427,5/25/2023,Standard,Organic Search
+719153,Aanya Malhotra,aanya.malhotra153@example.com,Other,35,Pune,Maharashtra,693601,5/10/2024,Standard,Email
+833919,Kabir Bansal,kabir.bansal919@example.com,Male,23,Gurugram,Haryana,524779,5/8/2024,Standard,Email
+835737,Aarav Rana,aarav.rana737@example.com,Male,36,Chennai,Tamil Nadu,839480,9/22/2023,Standard,Email
+545576,Arjun Gupta,arjun.gupta576@example.com,Other,39,Lucknow,Uttar Pradesh,547134,1/17/2025,Standard,Organic Search
+110409,Kunal Mehta,kunal.mehta409@example.com,Male,48,Pune,Maharashtra,185934,3/22/2024,Standard,Referral
+632679,Rahul Malhotra,rahul.malhotra679@example.com,Male,31,Gurugram,Haryana,534113,10/23/2025,Gold,Facebook
+263321,Isha Sharma,isha.sharma321@example.com,Other,40,Hyderabad,Telangana,700586,6/2/2023,Silver,Organic Search
+616361,Sneha Verma,sneha.verma361@example.com,Other,55,Kanpur,Uttar Pradesh,476449,1/11/2024,Standard,Facebook
+120980,Diya Bansal,diya.bansal980@example.com,Male,51,Delhi,Delhi,588638,9/29/2025,Gold,Google
+533575,Aditya Chauhan,aditya.chauhan575@example.com,Other,44,Kolkata,West Bengal,137826,1/10/2024,Silver,Email
+489640,Isha Tiwari,isha.tiwari640@example.com,Female,27,Agra,Uttar Pradesh,353964,11/2/2023,Standard,Organic Search
+950187,Ananya Chauhan,ananya.chauhan187@example.com,Other,60,Mumbai,Maharashtra,280236,4/27/2023,Standard,Email
+332969,Arjun Saxena,arjun.saxena969@example.com,Female,18,Gurugram,Haryana,541275,1/24/2024,Platinum,Referral
+848141,Vivaan Agarwal,vivaan.agarwal141@example.com,Male,20,Dehradun,Uttarakhand,549402,6/20/2024,Silver,Organic Search
+666044,Vivaan Chauhan,vivaan.chauhan44@example.com,Female,41,Hyderabad,Telangana,260640,7/5/2024,Silver,Email
+173969,Ishaan Tiwari,ishaan.tiwari969@example.com,Male,54,Patna,Bihar,556287,11/24/2024,Standard,Email
+681460,Vivaan Joshi,vivaan.joshi460@example.com,Female,38,Mumbai,Maharashtra,137231,6/15/2023,Silver,Organic Search
+773652,Ananya Tiwari,ananya.tiwari652@example.com,Female,48,Ahmedabad,Gujarat,877674,7/19/2025,Standard,Organic Search
+696974,Sneha Patel,sneha.patel974@example.com,Male,28,Dehradun,Uttarakhand,827991,1/30/2023,Standard,Email
+209029,Arjun Sharma,arjun.sharma29@example.com,Male,60,Pune,Maharashtra,753354,8/31/2023,Standard,Facebook
+492685,Ananya Pandey,ananya.pandey685@example.com,Male,54,Delhi,Delhi,543593,10/16/2025,Standard,Organic Search
+695094,Meera Gupta,meera.gupta94@example.com,Male,37,Kolkata,West Bengal,888812,11/2/2025,Standard,Organic Search
+437680,Kunal Saini,kunal.saini680@example.com,Female,48,Noida,Uttar Pradesh,558179,3/1/2023,Standard,Email
+161191,Riya Joshi,riya.joshi191@example.com,Female,25,Delhi,Delhi,372047,3/29/2024,Gold,Email
+691158,Pooja Rana,pooja.rana158@example.com,Female,28,Noida,Uttar Pradesh,336120,12/17/2024,Standard,Facebook
+975180,Aanya Joshi,aanya.joshi180@example.com,Other,43,Bhopal,Madhya Pradesh,228822,4/19/2024,Silver,Google
+429737,Riya Chauhan,riya.chauhan737@example.com,Female,53,Mumbai,Maharashtra,527179,12/31/2023,Standard,Referral
+117181,Pooja Saxena,pooja.saxena181@example.com,Other,26,Chandigarh,Chandigarh,645727,11/18/2023,Standard,Facebook
+704983,Isha Kapoor,isha.kapoor983@example.com,Other,52,Bhopal,Madhya Pradesh,509003,3/7/2024,Standard,Email
+806193,Rahul Pandey,rahul.pandey193@example.com,Male,46,Delhi,Delhi,438297,8/30/2024,Standard,Google
+827223,Kabir Malhotra,kabir.malhotra223@example.com,Other,56,Chandigarh,Chandigarh,878035,2/23/2024,Standard,Google
+709542,Kunal Chauhan,kunal.chauhan542@example.com,Female,57,Agra,Uttar Pradesh,249507,8/14/2024,Standard,Facebook
+325712,Diya Mehta,diya.mehta712@example.com,Other,31,Kolkata,West Bengal,274355,9/2/2023,Standard,Google
+569695,Diya Rana,diya.rana695@example.com,Male,21,Mumbai,Maharashtra,114046,6/3/2023,Silver,Facebook
+313245,Rohan Sharma,rohan.sharma245@example.com,Female,49,Bhopal,Madhya Pradesh,932053,11/10/2024,Standard,Organic Search
+801264,Kabir Bansal,kabir.bansal264@example.com,Female,47,Delhi,Delhi,776003,3/7/2024,Standard,Referral
+599142,Kunal Saxena,kunal.saxena142@example.com,Other,21,Chandigarh,Chandigarh,196761,10/27/2024,Standard,Google
+735521,Rohan Sharma,rohan.sharma521@example.com,Other,24,Patna,Bihar,380613,10/13/2024,Standard,Organic Search
+809233,Sneha Rana,sneha.rana233@example.com,Male,49,Chandigarh,Chandigarh,683810,2/20/2025,Standard,Email
+290214,Kunal Pandey,kunal.pandey214@example.com,Other,42,Chennai,Tamil Nadu,556556,4/15/2025,Silver,Google
+513735,Vivaan Bansal,vivaan.bansal735@example.com,Male,24,Hyderabad,Telangana,361983,4/5/2023,Standard,Organic Search
+764217,Arjun Malhotra,arjun.malhotra217@example.com,Other,28,Kanpur,Uttar Pradesh,389379,7/29/2024,Silver,Email
+818242,Arjun Gupta,arjun.gupta242@example.com,Female,51,Kolkata,West Bengal,614480,9/22/2023,Platinum,Referral
+101962,Meera Verma,meera.verma962@example.com,Other,45,Delhi,Delhi,139916,8/2/2024,Silver,Organic Search
+235891,Arjun Gupta,arjun.gupta891@example.com,Other,49,Dehradun,Uttarakhand,721715,9/2/2024,Standard,Organic Search
+207868,Nisha Kapoor,nisha.kapoor868@example.com,Female,23,Jaipur,Rajasthan,700166,10/5/2024,Gold,Organic Search
+344822,Diya Gupta,diya.gupta822@example.com,Female,51,Mumbai,Maharashtra,570417,3/7/2023,Platinum,Google
+216169,Pooja Patel,pooja.patel169@example.com,Male,58,Bhopal,Madhya Pradesh,254485,3/7/2024,Silver,Facebook
+728366,Rahul Verma,rahul.verma366@example.com,Male,45,Kanpur,Uttar Pradesh,441911,5/23/2024,Standard,Organic Search
+471011,Aarav Mishra,aarav.mishra11@example.com,Male,37,Pune,Maharashtra,144778,1/15/2025,Standard,Email
+568171,Diya Yadav,diya.yadav171@example.com,Other,31,Pune,Maharashtra,881631,9/4/2024,Standard,Facebook
+162582,Priya Joshi,priya.joshi582@example.com,Male,34,Hyderabad,Telangana,786144,9/25/2025,Gold,Google
+706478,Diya Malhotra,diya.malhotra478@example.com,Female,50,Kolkata,West Bengal,196455,6/25/2025,Standard,Email
+364514,Kavya Rana,kavya.rana514@example.com,Male,58,Gurugram,Haryana,211262,7/5/2025,Silver,Organic Search
+561040,Kavya Tiwari,kavya.tiwari40@example.com,Other,44,Chennai,Tamil Nadu,518235,9/29/2023,Silver,Email
+613133,Aditya Saxena,aditya.saxena133@example.com,Male,21,Hyderabad,Telangana,296457,5/9/2023,Standard,Organic Search
+606391,Diya Bansal,diya.bansal391@example.com,Other,59,Bhopal,Madhya Pradesh,322601,7/23/2024,Standard,Email
+245193,Nisha Pandey,nisha.pandey193@example.com,Male,51,Noida,Uttar Pradesh,896034,1/9/2023,Gold,Organic Search
+691361,Vivaan Kapoor,vivaan.kapoor361@example.com,Male,49,Bhopal,Madhya Pradesh,911262,11/20/2023,Silver,Organic Search
+889923,Rohan Saini,rohan.saini923@example.com,Other,53,Kanpur,Uttar Pradesh,235594,9/30/2025,Silver,Organic Search
+110673,Vivaan Mehta,vivaan.mehta673@example.com,Other,31,Lucknow,Uttar Pradesh,634636,2/8/2023,Silver,Referral
+332463,Kavya Malhotra,kavya.malhotra463@example.com,Other,50,Kanpur,Uttar Pradesh,705193,4/12/2024,Silver,Email
+652021,Kabir Joshi,kabir.joshi21@example.com,Other,22,Lucknow,Uttar Pradesh,214619,11/11/2025,Standard,Email
+775038,Rohan Yadav,rohan.yadav38@example.com,Male,54,Jaipur,Rajasthan,935512,12/16/2023,Standard,Google
+566125,Kunal Rana,kunal.rana125@example.com,Other,44,Delhi,Delhi,796606,3/14/2025,Standard,Google
+895556,Meera Kumar,meera.kumar556@example.com,Other,21,Pune,Maharashtra,735305,2/10/2023,Standard,Email
+138193,Rohan Kumar,rohan.kumar193@example.com,Male,52,Surat,Gujarat,224991,7/13/2025,Silver,Email
+217976,Meera Rana,meera.rana976@example.com,Male,39,Chandigarh,Chandigarh,714225,10/6/2024,Standard,Google
+974438,Isha Rana,isha.rana438@example.com,Male,55,Delhi,Delhi,547122,7/25/2025,Gold,Organic Search
+466058,Meera Verma,meera.verma58@example.com,Male,51,Indore,Madhya Pradesh,213584,12/28/2024,Standard,Facebook
+945840,Priya Tiwari,priya.tiwari840@example.com,Male,27,Ahmedabad,Gujarat,609920,5/1/2023,Gold,Referral
+938853,Arjun Saxena,arjun.saxena853@example.com,Female,35,Patna,Bihar,847017,2/19/2024,Standard,Organic Search
+390176,Kavya Kumar,kavya.kumar176@example.com,Male,45,Agra,Uttar Pradesh,818111,5/25/2023,Silver,Referral
+978458,Riya Chauhan,riya.chauhan458@example.com,Other,44,Kolkata,West Bengal,199023,8/12/2024,Silver,Google
+738108,Vivaan Rana,vivaan.rana108@example.com,Female,21,Ahmedabad,Gujarat,503195,8/10/2023,Silver,Google
+756285,Arjun Sharma,arjun.sharma285@example.com,Other,48,Kanpur,Uttar Pradesh,942811,11/13/2025,Silver,Organic Search
+548674,Kabir Singh,kabir.singh674@example.com,Male,59,Gurugram,Haryana,500909,6/13/2023,Gold,Organic Search
+894853,Riya Verma,riya.verma853@example.com,Other,21,Delhi,Delhi,380907,11/27/2023,Silver,Email
+300455,Pooja Yadav,pooja.yadav455@example.com,Other,52,Noida,Uttar Pradesh,698612,6/19/2025,Standard,Email
+534778,Kavya Joshi,kavya.joshi778@example.com,Male,47,Kanpur,Uttar Pradesh,312014,8/16/2023,Standard,Referral
+835062,Pooja Malhotra,pooja.malhotra62@example.com,Other,44,Pune,Maharashtra,271312,5/2/2024,Platinum,Email
+104310,Priya Bansal,priya.bansal310@example.com,Other,18,Hyderabad,Telangana,879227,2/10/2023,Standard,Facebook
+863556,Kavya Agarwal,kavya.agarwal556@example.com,Male,30,Bengaluru,Karnataka,951673,9/27/2025,Standard,Organic Search
+836072,Aarav Sharma,aarav.sharma72@example.com,Male,26,Indore,Madhya Pradesh,765342,8/12/2023,Gold,Organic Search
+136535,Aditya Verma,aditya.verma535@example.com,Male,27,Kolkata,West Bengal,700480,7/28/2024,Standard,Organic Search
+604242,Rohan Mehta,rohan.mehta242@example.com,Male,44,Bhopal,Madhya Pradesh,171583,7/1/2023,Silver,Email
+787065,Nisha Kumar,nisha.kumar65@example.com,Female,31,Ahmedabad,Gujarat,797111,5/22/2024,Standard,Email
+647300,Diya Tiwari,diya.tiwari300@example.com,Male,58,Chennai,Tamil Nadu,391761,7/6/2025,Gold,Google
+159192,Isha Yadav,isha.yadav192@example.com,Male,25,Patna,Bihar,667528,6/11/2024,Standard,Referral
+782455,Ananya Singh,ananya.singh455@example.com,Male,29,Jaipur,Rajasthan,974252,2/11/2024,Standard,Facebook
+464062,Arjun Kapoor,arjun.kapoor62@example.com,Other,43,Hyderabad,Telangana,568923,5/13/2023,Silver,Facebook
+867971,Aditya Tiwari,aditya.tiwari971@example.com,Female,57,Kolkata,West Bengal,320773,4/18/2024,Standard,Organic Search
+874000,Aanya Verma,aanya.verma0@example.com,Male,49,Bengaluru,Karnataka,382476,12/12/2024,Gold,Google
+843965,Kabir Bansal,kabir.bansal965@example.com,Male,38,Bhopal,Madhya Pradesh,420292,10/31/2025,Platinum,Facebook
+693890,Kunal Joshi,kunal.joshi890@example.com,Female,19,Gurugram,Haryana,432346,12/21/2023,Gold,Organic Search
+403215,Diya Rana,diya.rana215@example.com,Female,32,Ahmedabad,Gujarat,532700,3/22/2023,Standard,Referral
+569303,Diya Gupta,diya.gupta303@example.com,Male,51,Patna,Bihar,339202,4/18/2025,Gold,Organic Search
+847494,Nisha Chauhan,nisha.chauhan494@example.com,Male,37,Bhopal,Madhya Pradesh,782757,4/7/2024,Standard,Google
+622805,Vivaan Pandey,vivaan.pandey805@example.com,Other,27,Bhopal,Madhya Pradesh,175125,7/26/2024,Standard,Google
+952263,Aarav Yadav,aarav.yadav263@example.com,Other,37,Mumbai,Maharashtra,246222,9/26/2024,Silver,Referral
+938656,Aditya Bansal,aditya.bansal656@example.com,Male,41,Bhopal,Madhya Pradesh,603498,8/5/2024,Standard,Email
+756804,Vivaan Kapoor,vivaan.kapoor804@example.com,Male,25,Pune,Maharashtra,419516,6/11/2024,Standard,Organic Search
+388877,Kunal Yadav,kunal.yadav877@example.com,Female,43,Bhopal,Madhya Pradesh,643158,6/2/2025,Standard,Email
+547642,Aanya Mehta,aanya.mehta642@example.com,Other,29,Lucknow,Uttar Pradesh,592606,5/1/2023,Silver,Organic Search
+545302,Pooja Malhotra,pooja.malhotra302@example.com,Other,37,Surat,Gujarat,180123,2/4/2023,Silver,Email
+618117,Rohan Chauhan,rohan.chauhan117@example.com,Female,41,Bengaluru,Karnataka,918954,2/19/2024,Silver,Email
+877689,Aanya Kapoor,aanya.kapoor689@example.com,Female,56,Surat,Gujarat,176904,6/10/2023,Gold,Referral
+272407,Aanya Mehta,aanya.mehta407@example.com,Male,26,Indore,Madhya Pradesh,340217,7/5/2023,Standard,Facebook
+316409,Meera Sharma,meera.sharma409@example.com,Other,39,Gurugram,Haryana,659837,6/27/2023,Silver,Referral
+692433,Kavya Joshi,kavya.joshi433@example.com,Male,55,Jaipur,Rajasthan,791273,1/23/2024,Standard,Email
+431519,Rahul Bansal,rahul.bansal519@example.com,Male,29,Delhi,Delhi,853962,8/27/2023,Standard,Organic Search
+212018,Isha Patel,isha.patel18@example.com,Other,23,Delhi,Delhi,274658,8/29/2023,Standard,Organic Search
+406917,Meera Pandey,meera.pandey917@example.com,Other,20,Delhi,Delhi,405008,6/17/2025,Silver,Facebook
+301894,Aarav Saxena,aarav.saxena894@example.com,Male,50,Patna,Bihar,116359,7/23/2024,Gold,Google
+995118,Vivaan Saini,vivaan.saini118@example.com,Other,46,Lucknow,Uttar Pradesh,186017,6/2/2024,Platinum,Referral
+646817,Rahul Saini,rahul.saini817@example.com,Male,28,Noida,Uttar Pradesh,402080,11/25/2024,Standard,Email
+619399,Kunal Verma,kunal.verma399@example.com,Male,20,Chandigarh,Chandigarh,787411,3/14/2023,Standard,Google
+311393,Aarav Patel,aarav.patel393@example.com,Male,29,Pune,Maharashtra,516897,10/28/2023,Platinum,Google
+896188,Kavya Saxena,kavya.saxena188@example.com,Male,40,Pune,Maharashtra,661892,2/15/2025,Standard,Organic Search
+365764,Isha Malhotra,isha.malhotra764@example.com,Other,38,Bhopal,Madhya Pradesh,262480,12/22/2024,Standard,Organic Search
+197612,Kunal Malhotra,kunal.malhotra612@example.com,Other,32,Ahmedabad,Gujarat,795051,6/15/2024,Standard,Organic Search
+537354,Kunal Kumar,kunal.kumar354@example.com,Male,42,Surat,Gujarat,451717,6/2/2025,Gold,Organic Search
+802902,Priya Tiwari,priya.tiwari902@example.com,Other,36,Ahmedabad,Gujarat,652944,12/22/2024,Standard,Email
+608784,Riya Saxena,riya.saxena784@example.com,Male,29,Surat,Gujarat,914953,8/18/2025,Standard,Email
+612690,Aanya Yadav,aanya.yadav690@example.com,Other,38,Bhopal,Madhya Pradesh,377164,2/1/2025,Standard,Referral
+534709,Meera Saxena,meera.saxena709@example.com,Other,38,Bhopal,Madhya Pradesh,552417,7/25/2025,Platinum,Facebook
+688600,Rohan Agarwal,rohan.agarwal600@example.com,Male,54,Bengaluru,Karnataka,329224,2/14/2025,Gold,Referral
+821400,Ishaan Chauhan,ishaan.chauhan400@example.com,Female,56,Patna,Bihar,606895,1/19/2024,Silver,Organic Search
+360905,Kabir Tiwari,kabir.tiwari905@example.com,Other,20,Jaipur,Rajasthan,993477,11/2/2023,Standard,Organic Search
+558536,Riya Verma,riya.verma536@example.com,Female,38,Chennai,Tamil Nadu,702015,12/22/2024,Gold,Organic Search
+560251,Ananya Verma,ananya.verma251@example.com,Male,18,Agra,Uttar Pradesh,159126,3/16/2025,Standard,Email
+273174,Nisha Rana,nisha.rana174@example.com,Other,51,Indore,Madhya Pradesh,407912,1/1/2024,Standard,Organic Search
+931661,Ishaan Saini,ishaan.saini661@example.com,Other,18,Kanpur,Uttar Pradesh,509800,11/22/2023,Standard,Google
+394211,Rohan Kapoor,rohan.kapoor211@example.com,Other,36,Gurugram,Haryana,905400,2/24/2025,Standard,Google
+441294,Kabir Mehta,kabir.mehta294@example.com,Female,34,Jaipur,Rajasthan,493405,5/16/2024,Standard,Facebook
+254697,Arjun Singh,arjun.singh697@example.com,Male,42,Hyderabad,Telangana,953669,8/8/2024,Silver,Email
+365339,Rohan Gupta,rohan.gupta339@example.com,Other,56,Lucknow,Uttar Pradesh,148910,3/29/2023,Silver,Organic Search
+826519,Vivaan Kapoor,vivaan.kapoor519@example.com,Other,27,Lucknow,Uttar Pradesh,968735,4/15/2024,Silver,Email
+491528,Diya Kumar,diya.kumar528@example.com,Female,20,Kolkata,West Bengal,751825,1/15/2025,Standard,Email
+350382,Rohan Malhotra,rohan.malhotra382@example.com,Male,30,Indore,Madhya Pradesh,374794,10/13/2023,Standard,Email
+225465,Meera Kumar,meera.kumar465@example.com,Female,58,Agra,Uttar Pradesh,522473,8/19/2023,Standard,Organic Search
+524862,Priya Kapoor,priya.kapoor862@example.com,Female,44,Chennai,Tamil Nadu,274025,10/17/2024,Standard,Referral
+659241,Rohan Yadav,rohan.yadav241@example.com,Male,58,Agra,Uttar Pradesh,495505,4/3/2024,Platinum,Organic Search
+978974,Rohan Yadav,rohan.yadav974@example.com,Other,19,Lucknow,Uttar Pradesh,716642,12/17/2023,Gold,Referral
+295399,Kavya Pandey,kavya.pandey399@example.com,Male,27,Bengaluru,Karnataka,132417,2/17/2024,Standard,Organic Search
+522795,Priya Rana,priya.rana795@example.com,Female,35,Agra,Uttar Pradesh,867383,6/12/2025,Silver,Email
+453929,Diya Joshi,diya.joshi929@example.com,Other,58,Gurugram,Haryana,627535,10/1/2024,Standard,Organic Search
+406030,Rohan Rana,rohan.rana30@example.com,Male,55,Agra,Uttar Pradesh,265807,10/18/2023,Standard,Organic Search
+156449,Priya Joshi,priya.joshi449@example.com,Female,24,Indore,Madhya Pradesh,814251,3/15/2023,Gold,Google
+330145,Nisha Malhotra,nisha.malhotra145@example.com,Male,47,Dehradun,Uttarakhand,505166,2/21/2024,Standard,Email
+333074,Rohan Joshi,rohan.joshi74@example.com,Other,36,Mumbai,Maharashtra,582870,2/23/2024,Standard,Organic Search
+977321,Aditya Mehta,aditya.mehta321@example.com,Other,32,Bengaluru,Karnataka,287439,9/24/2024,Standard,Google
+169531,Nisha Rana,nisha.rana531@example.com,Female,56,Delhi,Delhi,557658,2/16/2024,Silver,Email
+215774,Pooja Mehta,pooja.mehta774@example.com,Male,37,Noida,Uttar Pradesh,742577,11/14/2024,Standard,Google
+435258,Ananya Saini,ananya.saini258@example.com,Female,27,Bhopal,Madhya Pradesh,601284,1/3/2024,Standard,Email
+277514,Sneha Yadav,sneha.yadav514@example.com,Female,60,Pune,Maharashtra,755303,11/15/2025,Standard,Organic Search
+987138,Arjun Saini,arjun.saini138@example.com,Male,45,Chennai,Tamil Nadu,919918,6/18/2024,Standard,Organic Search
+722544,Diya Bansal,diya.bansal544@example.com,Female,22,Jaipur,Rajasthan,928008,11/24/2023,Standard,Referral
+390310,Rahul Saxena,rahul.saxena310@example.com,Female,45,Hyderabad,Telangana,111351,3/11/2025,Platinum,Facebook
+448337,Diya Chauhan,diya.chauhan337@example.com,Female,18,Indore,Madhya Pradesh,689247,9/2/2024,Standard,Organic Search
+767296,Rohan Rana,rohan.rana296@example.com,Female,51,Pune,Maharashtra,847002,12/24/2023,Gold,Email
+103224,Ananya Saini,ananya.saini224@example.com,Female,47,Ahmedabad,Gujarat,983305,9/15/2024,Standard,Facebook
+457892,Priya Verma,priya.verma892@example.com,Other,53,Jaipur,Rajasthan,874547,4/14/2024,Standard,Email
+911092,Kavya Sharma,kavya.sharma92@example.com,Female,44,Patna,Bihar,406497,8/14/2025,Gold,Email
+813630,Pooja Tiwari,pooja.tiwari630@example.com,Female,52,Hyderabad,Telangana,652672,1/19/2025,Standard,Google
+466649,Sneha Bansal,sneha.bansal649@example.com,Other,57,Gurugram,Haryana,669110,7/14/2025,Standard,Email
+893040,Priya Rana,priya.rana40@example.com,Female,31,Agra,Uttar Pradesh,721408,11/6/2025,Silver,Organic Search
+445421,Ishaan Mehta,ishaan.mehta421@example.com,Male,39,Pune,Maharashtra,870610,8/6/2025,Standard,Email
+882401,Arjun Kumar,arjun.kumar401@example.com,Male,35,Chandigarh,Chandigarh,170513,6/15/2025,Gold,Email
+121514,Vivaan Joshi,vivaan.joshi514@example.com,Other,33,Indore,Madhya Pradesh,434004,6/30/2025,Standard,Email
+461245,Rohan Mishra,rohan.mishra245@example.com,Female,18,Agra,Uttar Pradesh,901473,12/20/2023,Standard,Email
+570478,Vivaan Gupta,vivaan.gupta478@example.com,Female,24,Kanpur,Uttar Pradesh,559538,4/13/2023,Gold,Google
+893918,Meera Patel,meera.patel918@example.com,Female,54,Agra,Uttar Pradesh,922559,3/14/2024,Standard,Email
+354683,Isha Yadav,isha.yadav683@example.com,Other,56,Mumbai,Maharashtra,409402,7/1/2024,Silver,Organic Search
+178456,Kunal Saini,kunal.saini456@example.com,Other,36,Dehradun,Uttarakhand,758244,7/25/2024,Standard,Email
+603039,Ananya Saxena,ananya.saxena39@example.com,Female,28,Kanpur,Uttar Pradesh,560347,7/19/2025,Gold,Facebook
+429889,Arjun Saini,arjun.saini889@example.com,Other,37,Noida,Uttar Pradesh,446032,3/21/2025,Standard,Google
+169682,Sneha Agarwal,sneha.agarwal682@example.com,Male,59,Delhi,Delhi,132785,3/20/2024,Standard,Google
+385706,Kabir Agarwal,kabir.agarwal706@example.com,Other,55,Ahmedabad,Gujarat,250241,8/16/2023,Standard,Email
+568548,Pooja Bansal,pooja.bansal548@example.com,Other,57,Ahmedabad,Gujarat,596528,8/29/2023,Standard,Organic Search
+546463,Kunal Malhotra,kunal.malhotra463@example.com,Other,60,Bengaluru,Karnataka,268950,11/8/2025,Gold,Email
+998941,Meera Joshi,meera.joshi941@example.com,Female,24,Chennai,Tamil Nadu,879152,11/18/2024,Standard,Email
+433959,Aditya Chauhan,aditya.chauhan959@example.com,Male,58,Surat,Gujarat,502293,2/20/2024,Standard,Organic Search
+231320,Kunal Kumar,kunal.kumar320@example.com,Female,19,Kanpur,Uttar Pradesh,229127,11/21/2023,Gold,Organic Search
+909185,Isha Kumar,isha.kumar185@example.com,Female,41,Kolkata,West Bengal,750338,7/20/2025,Standard,Organic Search
+490785,Rahul Verma,rahul.verma785@example.com,Female,35,Chennai,Tamil Nadu,849514,3/31/2023,Silver,Referral
+499483,Kabir Yadav,kabir.yadav483@example.com,Female,19,Hyderabad,Telangana,696738,10/17/2023,Standard,Google
+849506,Vivaan Gupta,vivaan.gupta506@example.com,Other,41,Dehradun,Uttarakhand,662902,5/19/2023,Standard,Referral
+560566,Isha Singh,isha.singh566@example.com,Other,31,Lucknow,Uttar Pradesh,472566,10/10/2025,Standard,Organic Search
+334485,Arjun Mishra,arjun.mishra485@example.com,Other,23,Gurugram,Haryana,536482,5/7/2023,Standard,Email
+844645,Pooja Mishra,pooja.mishra645@example.com,Other,24,Indore,Madhya Pradesh,586984,7/8/2025,Standard,Organic Search
+993559,Ananya Saxena,ananya.saxena559@example.com,Male,18,Chennai,Tamil Nadu,496203,11/22/2024,Standard,Email
+456138,Diya Mehta,diya.mehta138@example.com,Female,39,Surat,Gujarat,180083,4/4/2025,Silver,Organic Search
+276915,Rohan Gupta,rohan.gupta915@example.com,Female,25,Noida,Uttar Pradesh,774948,1/23/2024,Silver,Referral
+199640,Rahul Singh,rahul.singh640@example.com,Female,44,Kolkata,West Bengal,829420,5/2/2025,Gold,Email
+538181,Rahul Saxena,rahul.saxena181@example.com,Other,19,Ahmedabad,Gujarat,331327,10/15/2023,Standard,Email
+792786,Pooja Patel,pooja.patel786@example.com,Female,47,Delhi,Delhi,824865,1/29/2025,Standard,Organic Search
+541059,Aanya Joshi,aanya.joshi59@example.com,Male,57,Bhopal,Madhya Pradesh,878919,9/13/2023,Standard,Organic Search
+655659,Kabir Bansal,kabir.bansal659@example.com,Other,51,Kanpur,Uttar Pradesh,722524,2/19/2023,Platinum,Email
+399687,Aditya Sharma,aditya.sharma687@example.com,Other,26,Chandigarh,Chandigarh,598775,9/10/2024,Standard,Google
+712465,Aarav Tiwari,aarav.tiwari465@example.com,Female,42,Dehradun,Uttarakhand,760973,11/20/2023,Standard,Email
+709071,Meera Malhotra,meera.malhotra71@example.com,Female,50,Kolkata,West Bengal,944362,7/11/2024,Silver,Organic Search
+434989,Aanya Gupta,aanya.gupta989@example.com,Female,39,Dehradun,Uttarakhand,741453,7/8/2025,Standard,Google
+422916,Meera Patel,meera.patel916@example.com,Female,23,Bengaluru,Karnataka,491559,10/4/2023,Silver,Organic Search
+267685,Arjun Yadav,arjun.yadav685@example.com,Other,38,Agra,Uttar Pradesh,911785,12/25/2023,Standard,Organic Search
+221106,Kunal Pandey,kunal.pandey106@example.com,Female,43,Hyderabad,Telangana,862143,4/15/2024,Standard,Email
+429786,Aditya Patel,aditya.patel786@example.com,Other,44,Pune,Maharashtra,686129,1/17/2023,Standard,Organic Search
+520631,Isha Sharma,isha.sharma631@example.com,Female,26,Bengaluru,Karnataka,898081,10/2/2024,Standard,Organic Search
+297393,Rahul Chauhan,rahul.chauhan393@example.com,Other,54,Agra,Uttar Pradesh,178713,2/11/2024,Standard,Google
+974668,Aditya Mishra,aditya.mishra668@example.com,Male,49,Bhopal,Madhya Pradesh,926561,5/24/2024,Gold,Email
+828010,Nisha Kapoor,nisha.kapoor10@example.com,Male,47,Ahmedabad,Gujarat,285736,8/9/2023,Standard,Organic Search
+122386,Nisha Verma,nisha.verma386@example.com,Male,46,Dehradun,Uttarakhand,334321,7/5/2023,Gold,Organic Search
+929296,Aditya Rana,aditya.rana296@example.com,Female,19,Agra,Uttar Pradesh,761258,2/12/2025,Silver,Google
+626185,Kunal Rana,kunal.rana185@example.com,Female,27,Hyderabad,Telangana,766209,12/28/2023,Silver,Referral
+806803,Diya Joshi,diya.joshi803@example.com,Other,33,Agra,Uttar Pradesh,806772,11/26/2024,Silver,Google
+593315,Isha Kumar,isha.kumar315@example.com,Male,22,Indore,Madhya Pradesh,438014,11/30/2024,Standard,Email
+490533,Rahul Chauhan,rahul.chauhan533@example.com,Female,20,Chennai,Tamil Nadu,210444,2/25/2023,Standard,Google
+493820,Isha Sharma,isha.sharma820@example.com,Other,44,Kolkata,West Bengal,342900,10/5/2025,Silver,Google
+321292,Kavya Sharma,kavya.sharma292@example.com,Other,43,Kolkata,West Bengal,494085,7/28/2023,Standard,Email
+515290,Priya Pandey,priya.pandey290@example.com,Male,48,Kanpur,Uttar Pradesh,499170,5/12/2024,Standard,Organic Search
+131672,Aditya Agarwal,aditya.agarwal672@example.com,Male,28,Kolkata,West Bengal,368619,12/25/2024,Gold,Email
+127968,Ananya Yadav,ananya.yadav968@example.com,Female,47,Delhi,Delhi,960296,8/19/2023,Silver,Email
+484088,Ishaan Chauhan,ishaan.chauhan88@example.com,Other,40,Bhopal,Madhya Pradesh,241905,4/20/2023,Standard,Google
+618435,Ananya Patel,ananya.patel435@example.com,Male,54,Pune,Maharashtra,248868,7/16/2023,Standard,Google
+709404,Nisha Singh,nisha.singh404@example.com,Male,18,Delhi,Delhi,447871,4/6/2024,Standard,Google

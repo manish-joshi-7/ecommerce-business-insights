@@ -1,0 +1,20 @@
+product_id,product_name,product_category,manufacturing_city,size,color,sku,list_price,cost_price,product_status,launch_date
+41027,AeroFlex Running Shoes,Footwear,Delhi,M,Black,AF-RS-M-BLK,2499,1350,Active,1/15/2024
+58314,UrbanTrail Sneakers,Footwear,Agra,L,White,UT-SN-L-WHT,3199,1760,Active,2/8/2024
+72691,Classic Leather Loafers,Footwear,Kanpur ,M,Brown,CLL-M-BRN,2899,1600,Active,2/21/2024
+19463,PeakFit Training Shoes,Footwear,Noida,XL,Blue,PF-TS-XL-BLU,3599,1980,Active,3/3/2024
+85120,Everyday Canvas Shoes,Footwear,Jaipur,S,Green,ECS-S-GRN,1799,,Active,3/18/2024
+36742,ProDry Sports T-Shirt,Apparel,Tiruppur,L,Navy,PDS-TS-L-NVY,999,430,Active,1/29/2024
+91458,Essential Cotton Shirt,Apparel ,Mumbai,M,White,ECSH-M-WHT,1499,710,Active,2/12/2024
+24579,Performance Polo,Apparel,Bengaluru,XL,Red,PP-XL-RED,1299,590,Active,3/11/2024
+63821,Relaxed Fit Hoodie,Apparel,Ludhiana,L,Grey,RFH-L-GRY,1999,980,Active,4/1/2024
+50236,Active Track Pants,Apparel,Pune,M,Black,ATP-M-BLK,1699,760,Active,4/16/2024
+77105,Explorer Backpack,Bags,Gurugram,30L,Olive ,EB-30L-OLV,2299,1120,Active,1/22/2024
+32984,Urban Laptop Backpack,Bags,Chennai,25L,Black,ULB-25L-BLK,2799,1450,Active,2/17/2024
+46517,Travel Duffel Bag,Bags,Kolkata,40L,Blue,TDB-40L-BLU,2499,1280,Active,3/24/2024
+80362,Compact Sling Bag,Bags,Hyderabad,5L,Tan,CSB-5L-TAN,1199,510,Active,4/12/2024
+15693,Weekend Travel Bag,Bags,Ahmedabad,35L,Maroon,WTB-35L-MRN,1999,970,Active,5/5/2024
+69248,HydroSteel Bottle,Accessories,Haridwar,750ml,Silver,HSB-750-SLV,899,310,Active,1/10/2024
+43816,Insulated Travel Mug,Accessories,Vadodara,450ml,Black,ITM-450-BLK,799,280,Active,2/5/2024
+92573,Fitness Smart Band  ,Electronics,Bengaluru,One Size,Blue,FSB-OS-BLU,2199,1210,Active,3/7/2024
+27461,Wireless Earbuds,Electronics,Noida,One Size,White,WE-OS-WHT,2999,1740,Active,4/20/2024
