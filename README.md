@@ -273,16 +273,21 @@ The dashboard was designed to answer questions such as:
 ---
 
 ## Key Insights
+- The business generated approximately 28.52M in total revenue from around 9K orders, with an average order value of approximately 3.24K.
 
-The final insights from the dashboard include:
+- Footwear was the highest-performing product category, generating approximately 12.1M in revenue, followed by Bags at approximately 9.0M and Apparel at approximately 7.4M.
 
-- [Add your actual finding here]
-- [Add your actual finding here]
-- [Add your actual finding here]
-- [Add your actual finding here]
-- [Add your actual finding here]
+- The Website was the highest-performing sales channel, generating approximately 11M in revenue, followed by the Mobile App at approximately 9.5M.
 
-These insights were obtained from the cleaned data, SQL analysis, and Power BI dashboard.
+- Standard customers generated the highest revenue among customer segments, contributing approximately 17M in sales. Silver customers generated approximately 6.2M, while Gold and Platinum customers contributed approximately 4M and 1.4M respectively.
+
+- Revenue showed noticeable monthly fluctuations, with the highest revenue levels occurring toward late 2024 and late 2025.
+
+- The top-performing product generated close to 4M in revenue, significantly outperforming several other products in the Top 10 product ranking.
+
+- Chandigarh and Ahmedabad were among the highest-revenue customer cities, each generating approximately 1.7M in sales.
+
+- The dataset contains products with no recorded orders, indicating potential opportunities to investigate product visibility, pricing, demand, or inventory availability.
 
 ---
 
@@ -290,15 +295,17 @@ These insights were obtained from the cleaned data, SQL analysis, and Power BI d
 
 Based on the analysis, the company can:
 
-- Focus on high-performing product categories.
-- Identify opportunities to improve low-performing products.
-- Focus marketing efforts on high-value customer segments.
-- Improve sales channels that have lower performance.
-- Investigate products with no or very few orders.
-- Monitor returned and cancelled orders.
-- Use customer and product performance data to improve sales strategies.
+- Focus on high-performing categories such as Footwear while investigating why lower-performing categories generate less revenue.
 
-The recommendations should be updated based on the actual findings from the analysis.
+- Continue optimizing the Website and Mobile App since they are the strongest sales channels.
+
+- Develop targeted strategies for Silver, Gold, and Platinum customers to increase their contribution to total revenue.
+
+- Investigate products with very low or zero orders to determine whether pricing, visibility, demand, or availability is affecting their performance.
+
+- Analyze the causes of returned orders and identify products or categories with unusually high return activity.
+
+- Consider focusing marketing campaigns and customer acquisition efforts on high-performing cities such as Chandigarh and Ahmedabad.
 
 ---
 ## Project Structure
