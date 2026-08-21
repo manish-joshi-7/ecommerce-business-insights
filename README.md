@@ -193,7 +193,7 @@ This calculated value was used as the main revenue metric for the analysis.
 
 ## Power BI Dashboard
 
-The final dashboard contains three pages.
+The final dashboard contains two pages.
 
 ### Page 1: Executive Overview
 
@@ -224,7 +224,7 @@ Key analysis includes:
 - Customer segment analysis
 - Top customers
 - Revenue by city
--  Returned orders
+- Returned orders
 - Shipping performance
 - Sales channel performance
 - Product and customer comparisons
