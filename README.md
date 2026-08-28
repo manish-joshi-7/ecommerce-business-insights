@@ -27,7 +27,6 @@ The company wants to understand:
 - What is the average order value?
 - What percentage of orders are returned?
 - Which cities generate the most revenue?
-- Are there any products with no orders?
 
 The analysis aims to answer these questions using Excel, MySQL, and Power BI.
 
